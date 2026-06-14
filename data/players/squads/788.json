@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 257814,
-    "espn_player_id": null,
+    "espn_player_id": 238544,
     "name": "Gregor Kobel",
     "slug": "gregor-kobel",
     "position": "Goalkeeper",
@@ -45,7 +45,7 @@
   },
   {
     "tm_player_id": 500763,
-    "espn_player_id": null,
+    "espn_player_id": 341948,
     "name": "Marvin Keller",
     "slug": "marvin-keller",
     "position": "Goalkeeper",
@@ -67,7 +67,7 @@
   },
   {
     "tm_player_id": 147051,
-    "espn_player_id": null,
+    "espn_player_id": 199381,
     "name": "Yvon Mvogo",
     "slug": "yvon-mvogo",
     "position": "Goalkeeper",
@@ -89,7 +89,7 @@
   },
   {
     "tm_player_id": 284730,
-    "espn_player_id": null,
+    "espn_player_id": 214562,
     "name": "Manuel Akanji",
     "slug": "manuel-akanji",
     "position": "Centre-Back",
@@ -111,7 +111,7 @@
   },
   {
     "tm_player_id": 635645,
-    "espn_player_id": null,
+    "espn_player_id": 319404,
     "name": "Aurèle Amenda",
     "slug": "aurele-amenda",
     "position": "Centre-Back",
@@ -133,7 +133,7 @@
   },
   {
     "tm_player_id": 192635,
-    "espn_player_id": null,
+    "espn_player_id": 212237,
     "name": "Nico Elvedi",
     "slug": "nico-elvedi",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 539798,
-    "espn_player_id": null,
+    "espn_player_id": 332574,
     "name": "Luca Jaquez",
     "slug": "luca-jaquez",
     "position": "Centre-Back",
@@ -243,7 +243,7 @@
   },
   {
     "tm_player_id": 298583,
-    "espn_player_id": null,
+    "espn_player_id": 231697,
     "name": "Eray Cömert",
     "slug": "eray-comert",
     "position": "Centre-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 298603,
-    "espn_player_id": null,
+    "espn_player_id": 243626,
     "name": "Miro Muheim",
     "slug": "miro-muheim",
     "position": "Left-Back",
@@ -353,7 +353,7 @@
   },
   {
     "tm_player_id": 86784,
-    "espn_player_id": null,
+    "espn_player_id": 136865,
     "name": "Ricardo Rodríguez",
     "slug": "ricardo-rodriguez",
     "position": "Left-Back",
@@ -441,7 +441,7 @@
   },
   {
     "tm_player_id": 168989,
-    "espn_player_id": null,
+    "espn_player_id": 175905,
     "name": "Silvan Widmer",
     "slug": "silvan-widmer",
     "position": "Right-Back",
@@ -463,7 +463,7 @@
   },
   {
     "tm_player_id": 334526,
-    "espn_player_id": null,
+    "espn_player_id": 222628,
     "name": "Denis Zakaria",
     "slug": "denis-zakaria",
     "position": "Defensive Midfield",
@@ -485,7 +485,7 @@
   },
   {
     "tm_player_id": 111455,
-    "espn_player_id": null,
+    "espn_player_id": 149981,
     "name": "Granit Xhaka",
     "slug": "granit-xhaka",
     "position": "Defensive Midfield",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 608172,
-    "espn_player_id": null,
+    "espn_player_id": 303973,
     "name": "Ardon Jashari",
     "slug": "ardon-jashari",
     "position": "Defensive Midfield",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 237658,
-    "espn_player_id": null,
+    "espn_player_id": 245623,
     "name": "Michel Aebischer",
     "slug": "michel-aebischer",
     "position": "Central Midfield",
@@ -551,7 +551,7 @@
   },
   {
     "tm_player_id": 212723,
-    "espn_player_id": null,
+    "espn_player_id": 222446,
     "name": "Djibril Sow",
     "slug": "djibril-sow",
     "position": "Central Midfield",
@@ -573,7 +573,7 @@
   },
   {
     "tm_player_id": 148252,
-    "espn_player_id": null,
+    "espn_player_id": 152600,
     "name": "Remo Freuler",
     "slug": "remo-freuler",
     "position": "Central Midfield",
@@ -639,7 +639,7 @@
   },
   {
     "tm_player_id": 927353,
-    "espn_player_id": null,
+    "espn_player_id": 386992,
     "name": "Johan Manzambi",
     "slug": "johan-manzambi",
     "position": "Central Midfield",
@@ -683,7 +683,7 @@
   },
   {
     "tm_player_id": 507341,
-    "espn_player_id": null,
+    "espn_player_id": 308908,
     "name": "Fabian Rieder",
     "slug": "fabian-rieder",
     "position": "Attacking Midfield",
@@ -727,7 +727,7 @@
   },
   {
     "tm_player_id": 250490,
-    "espn_player_id": null,
+    "espn_player_id": 238502,
     "name": "Christian Fassnacht",
     "slug": "christian-fassnacht",
     "position": "Attacking Midfield",
@@ -749,7 +749,7 @@
   },
   {
     "tm_player_id": 345886,
-    "espn_player_id": null,
+    "espn_player_id": 259513,
     "name": "Rubén Vargas",
     "slug": "ruben-vargas",
     "position": "Left Winger",
@@ -771,7 +771,7 @@
   },
   {
     "tm_player_id": 365108,
-    "espn_player_id": null,
+    "espn_player_id": 275842,
     "name": "Dan Ndoye",
     "slug": "dan-ndoye",
     "position": "Right Winger",
@@ -793,7 +793,7 @@
   },
   {
     "tm_player_id": 548729,
-    "espn_player_id": null,
+    "espn_player_id": 320757,
     "name": "Zeki Amdouni",
     "slug": "zeki-amdouni",
     "position": "Centre-Forward",
@@ -815,7 +815,7 @@
   },
   {
     "tm_player_id": 237662,
-    "espn_player_id": null,
+    "espn_player_id": 202099,
     "name": "Breel Embolo",
     "slug": "breel-embolo",
     "position": "Centre-Forward",
@@ -859,7 +859,7 @@
   },
   {
     "tm_player_id": 243856,
-    "espn_player_id": null,
+    "espn_player_id": 234153,
     "name": "Cedric Itten",
     "slug": "cedric-itten",
     "position": "Centre-Forward",

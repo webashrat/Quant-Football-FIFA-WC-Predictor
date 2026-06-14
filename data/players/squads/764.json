@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 238223,
-    "espn_player_id": null,
+    "espn_player_id": 176948,
     "name": "Ederson",
     "slug": "ederson",
     "position": "Goalkeeper",
@@ -133,7 +133,7 @@
   },
   {
     "tm_player_id": 69400,
-    "espn_player_id": null,
+    "espn_player_id": 198983,
     "name": "Weverton",
     "slug": "weverton",
     "position": "Goalkeeper",
@@ -221,7 +221,7 @@
   },
   {
     "tm_player_id": 181767,
-    "espn_player_id": null,
+    "espn_player_id": 159047,
     "name": "Marquinhos",
     "slug": "marquinhos",
     "position": "Centre-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 145707,
-    "espn_player_id": null,
+    "espn_player_id": 170369,
     "name": "Danilo",
     "slug": "danilo",
     "position": "Centre-Back",
@@ -375,7 +375,7 @@
   },
   {
     "tm_player_id": 420064,
-    "espn_player_id": null,
+    "espn_player_id": 304215,
     "name": "Caio Henrique",
     "slug": "caio-henrique",
     "position": "Left-Back",
@@ -419,7 +419,7 @@
   },
   {
     "tm_player_id": 220793,
-    "espn_player_id": null,
+    "espn_player_id": 306764,
     "name": "Douglas Santos",
     "slug": "douglas-santos",
     "position": "Left-Back",
@@ -463,7 +463,7 @@
   },
   {
     "tm_player_id": 79960,
-    "espn_player_id": null,
+    "espn_player_id": 125514,
     "name": "Alex Sandro",
     "slug": "alex-sandro",
     "position": "Left-Back",
@@ -595,7 +595,7 @@
   },
   {
     "tm_player_id": 225693,
-    "espn_player_id": null,
+    "espn_player_id": 176287,
     "name": "Fabinho",
     "slug": "fabinho",
     "position": "Defensive Midfield",
@@ -617,7 +617,7 @@
   },
   {
     "tm_player_id": 16306,
-    "espn_player_id": null,
+    "espn_player_id": 173666,
     "name": "Casemiro",
     "slug": "casemiro",
     "position": "Defensive Midfield",
@@ -639,7 +639,7 @@
   },
   {
     "tm_player_id": 520624,
-    "espn_player_id": null,
+    "espn_player_id": 218522,
     "name": "Bruno Guimarães",
     "slug": "bruno-guimaraes",
     "position": "Central Midfield",
@@ -661,7 +661,7 @@
   },
   {
     "tm_player_id": 607854,
-    "espn_player_id": null,
+    "espn_player_id": 278210,
     "name": "Éderson",
     "slug": "ederson",
     "position": "Central Midfield",
@@ -749,7 +749,7 @@
   },
   {
     "tm_player_id": 203394,
-    "espn_player_id": null,
+    "espn_player_id": 145405,
     "name": "Andreas Pereira",
     "slug": "andreas-pereira",
     "position": "Central Midfield",
@@ -815,7 +815,7 @@
   },
   {
     "tm_player_id": 444523,
-    "espn_player_id": null,
+    "espn_player_id": 234715,
     "name": "Lucas Paquetá",
     "slug": "lucas-paqueta",
     "position": "Attacking Midfield",
@@ -859,7 +859,7 @@
   },
   {
     "tm_player_id": 411295,
-    "espn_player_id": null,
+    "espn_player_id": 231050,
     "name": "Raphinha",
     "slug": "raphinha",
     "position": "Left Winger",
@@ -903,7 +903,7 @@
   },
   {
     "tm_player_id": 655488,
-    "espn_player_id": null,
+    "espn_player_id": 269844,
     "name": "Gabriel Martinelli",
     "slug": "gabriel-martinelli",
     "position": "Left Winger",
@@ -925,7 +925,7 @@
   },
   {
     "tm_player_id": 517894,
-    "espn_player_id": null,
+    "espn_player_id": 259902,
     "name": "Matheus Cunha",
     "slug": "matheus-cunha",
     "position": "Left Winger",
@@ -1079,7 +1079,7 @@
   },
   {
     "tm_player_id": 971570,
-    "espn_player_id": null,
+    "espn_player_id": 346612,
     "name": "Endrick",
     "slug": "endrick",
     "position": "Centre-Forward",

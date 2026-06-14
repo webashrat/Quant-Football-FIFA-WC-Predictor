@@ -92,3 +92,44 @@ def load_predictions() -> pd.DataFrame:
     if PREDICTIONS_PATH.exists():
         return pd.read_csv(PREDICTIONS_PATH)
     return pd.DataFrame()
+
+
+def update_actual_outcomes(results_date: str) -> int:
+    """
+    Match finished results from the parquet into predictions_log.csv.
+    Looks for home-team rows (is_home=1) whose fixture_id appears in predictions
+    for results_date and fills actual_outcome (W/D/L from home team's perspective).
+    Returns count of rows updated.
+    """
+    preds = load_predictions()
+    if preds.empty:
+        return 0
+
+    # Find predictions without outcomes for the given date
+    mask = (preds["pred_date"] == results_date) & preds["actual_outcome"].isna()
+    pending = preds[mask]
+    if pending.empty:
+        return 0
+
+    matches = load_matches()
+    if matches.empty:
+        return 0
+
+    # Home-team rows from parquet (outcome is always from home perspective in predictions)
+    home_rows = matches[matches["is_home"] == 1][["fixture_id", "outcome"]].drop_duplicates()
+    outcome_map = dict(zip(home_rows["fixture_id"], home_rows["outcome"]))
+
+    updated = 0
+    for idx in pending.index:
+        fid = preds.at[idx, "fixture_id"]
+        try:
+            fid_int = int(fid)
+        except (ValueError, TypeError):
+            continue
+        if fid_int in outcome_map:
+            preds.at[idx, "actual_outcome"] = outcome_map[fid_int]
+            updated += 1
+
+    if updated:
+        preds.to_csv(PREDICTIONS_PATH, index=False)
+    return updated

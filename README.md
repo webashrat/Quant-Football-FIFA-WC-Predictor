@@ -2,7 +2,7 @@
 
 A live, data-driven match prediction system for the 2026 FIFA World Cup. Runs every match day: ingests results, retrains the model, and prints probability breakdowns for upcoming fixtures.
 
-**Current accuracy: 4/4 (100%) | Model CV AUC: 0.596**
+**Current accuracy: 4/7 (57%) | Model CV AUC: 0.593 | Training rows: 914**
 
 ---
 
@@ -149,8 +149,12 @@ Sample output:
 |------|-------|-----|-------|--------|-|
 | Jun 11 | Mexico vs South Africa | Mexico | 77.1% | 2–0 | ✓ |
 | Jun 11 | South Korea vs Czechia | South Korea | 61.0% | 2–1 | ✓ |
-| Jun 12 | Canada vs Bosnia | Draw | 61.7% | 1–1 | ✓ |
-| Jun 13 | USA vs Paraguay | USA | 62.7% | 4–1 | ✓ |
+| Jun 12 | Canada vs Bosnia-Herzegovina | Canada | 68.5% | 1–1 | ✗ |
+| Jun 13 | USA vs Paraguay | USA | 38.9% | 4–1 | ✓ |
+| Jun 13 | Qatar vs Switzerland | Qatar | 33.8% | 1–1 | ✗ |
+| Jun 13 | Brazil vs Morocco | Morocco | 34.5% | 1–1 | ✗ |
+| Jun 13 | Haiti vs Scotland | Scotland | 37.0% | 0–1 | ✓ |
+| Jun 14 | Australia vs Turkey | Turkey | 39.0% | 0–0 🔴 | — |
 
 ---
 

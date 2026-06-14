@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 207834,
-    "espn_player_id": null,
+    "espn_player_id": 175149,
     "name": "Yassine Bounou",
     "slug": "yassine-bounou",
     "position": "Goalkeeper",
@@ -67,7 +67,7 @@
   },
   {
     "tm_player_id": 97925,
-    "espn_player_id": null,
+    "espn_player_id": 206232,
     "name": "Munir El Kajoui",
     "slug": "munir-el-kajoui",
     "position": "Goalkeeper",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 210009,
-    "espn_player_id": null,
+    "espn_player_id": 230430,
     "name": "Marwane Saadane",
     "slug": "marwane-saadane",
     "position": "Centre-Back",
@@ -441,7 +441,7 @@
   },
   {
     "tm_player_id": 485584,
-    "espn_player_id": null,
+    "espn_player_id": 297296,
     "name": "Anass Salah-Eddine",
     "slug": "anass-salah-eddine",
     "position": "Left-Back",
@@ -485,7 +485,7 @@
   },
   {
     "tm_player_id": 518804,
-    "espn_player_id": null,
+    "espn_player_id": 393692,
     "name": "Youssef Belammari",
     "slug": "youssef-belammari",
     "position": "Left-Back",
@@ -573,7 +573,7 @@
   },
   {
     "tm_player_id": 398073,
-    "espn_player_id": null,
+    "espn_player_id": 240233,
     "name": "Achraf Hakimi",
     "slug": "achraf-hakimi",
     "position": "Right-Back",
@@ -595,7 +595,7 @@
   },
   {
     "tm_player_id": 340456,
-    "espn_player_id": null,
+    "espn_player_id": 239350,
     "name": "Noussair Mazraoui",
     "slug": "noussair-mazraoui",
     "position": "Right-Back",
@@ -617,7 +617,7 @@
   },
   {
     "tm_player_id": 820474,
-    "espn_player_id": null,
+    "espn_player_id": 325024,
     "name": "Zakaria El Ouahdi",
     "slug": "zakaria-el-ouahdi",
     "position": "Right-Back",
@@ -727,7 +727,7 @@
   },
   {
     "tm_player_id": 287579,
-    "espn_player_id": null,
+    "espn_player_id": 195226,
     "name": "Sofyan Amrabat",
     "slug": "sofyan-amrabat",
     "position": "Defensive Midfield",
@@ -859,7 +859,7 @@
   },
   {
     "tm_player_id": 593482,
-    "espn_player_id": null,
+    "espn_player_id": 291552,
     "name": "Azzedine Ounahi",
     "slug": "azzedine-ounahi",
     "position": "Central Midfield",
@@ -903,7 +903,7 @@
   },
   {
     "tm_player_id": 901019,
-    "espn_player_id": null,
+    "espn_player_id": 323807,
     "name": "Neil El Aynaoui",
     "slug": "neil-el-aynaoui",
     "position": "Central Midfield",
@@ -991,7 +991,7 @@
   },
   {
     "tm_player_id": 654982,
-    "espn_player_id": null,
+    "espn_player_id": 336595,
     "name": "Bilal El Khannouss",
     "slug": "bilal-el-khannouss",
     "position": "Attacking Midfield",
@@ -1013,7 +1013,7 @@
   },
   {
     "tm_player_id": 702869,
-    "espn_player_id": null,
+    "espn_player_id": 304572,
     "name": "Ismael Saibari",
     "slug": "ismael-saibari",
     "position": "Attacking Midfield",
@@ -1233,7 +1233,7 @@
   },
   {
     "tm_player_id": 569389,
-    "espn_player_id": null,
+    "espn_player_id": 230963,
     "name": "Sofiane Diop",
     "slug": "sofiane-diop",
     "position": "Left Winger",
@@ -1277,7 +1277,7 @@
   },
   {
     "tm_player_id": 598506,
-    "espn_player_id": null,
+    "espn_player_id": 276139,
     "name": "Soufiane Rahimi",
     "slug": "soufiane-rahimi",
     "position": "Left Winger",
@@ -1365,7 +1365,7 @@
   },
   {
     "tm_player_id": 314678,
-    "espn_player_id": null,
+    "espn_player_id": 246532,
     "name": "Brahim Díaz",
     "slug": "brahim-diaz",
     "position": "Right Winger",
@@ -1409,7 +1409,7 @@
   },
   {
     "tm_player_id": 743384,
-    "espn_player_id": null,
+    "espn_player_id": 360062,
     "name": "Chemsdine Talbi",
     "slug": "chemsdine-talbi",
     "position": "Right Winger",
@@ -1585,7 +1585,7 @@
   },
   {
     "tm_player_id": 521127,
-    "espn_player_id": null,
+    "espn_player_id": 269562,
     "name": "Ayoub El Kaabi",
     "slug": "ayoub-el-kaabi",
     "position": "Centre-Forward",

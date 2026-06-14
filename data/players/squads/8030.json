@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 560423,
-    "espn_player_id": null,
+    "espn_player_id": 270844,
     "name": "Meshaal Barsham",
     "slug": "meshaal-barsham",
     "position": "Goalkeeper",
@@ -23,7 +23,7 @@
   },
   {
     "tm_player_id": 632912,
-    "espn_player_id": null,
+    "espn_player_id": 288537,
     "name": "Salah Zakaria",
     "slug": "salah-zakaria",
     "position": "Goalkeeper",
@@ -67,7 +67,7 @@
   },
   {
     "tm_player_id": 669629,
-    "espn_player_id": null,
+    "espn_player_id": 310372,
     "name": "Mahmoud Abunada",
     "slug": "mahmoud-abunada",
     "position": "Goalkeeper",
@@ -111,7 +111,7 @@
   },
   {
     "tm_player_id": 83983,
-    "espn_player_id": null,
+    "espn_player_id": 125617,
     "name": "Lucas Mendes",
     "slug": "lucas-mendes",
     "position": "Centre-Back",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 222669,
-    "espn_player_id": null,
+    "espn_player_id": 205377,
     "name": "Boualem Khoukhi",
     "slug": "boualem-khoukhi",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 185363,
-    "espn_player_id": null,
+    "espn_player_id": 219252,
     "name": "Almahdi Ali",
     "slug": "almahdi-ali",
     "position": "Centre-Back",
@@ -243,7 +243,7 @@
   },
   {
     "tm_player_id": 228727,
-    "espn_player_id": null,
+    "espn_player_id": 101982,
     "name": "Pedro Miguel",
     "slug": "pedro-miguel",
     "position": "Centre-Back",
@@ -265,7 +265,7 @@
   },
   {
     "tm_player_id": 1264176,
-    "espn_player_id": null,
+    "espn_player_id": 415148,
     "name": "Issa Laye",
     "slug": "issa-laye",
     "position": "Centre-Back",
@@ -287,7 +287,7 @@
   },
   {
     "tm_player_id": 943150,
-    "espn_player_id": null,
+    "espn_player_id": 384827,
     "name": "Al-Hashmi Al-Hussain",
     "slug": "al-hashmi-al-hussain",
     "position": "Centre-Back",
@@ -375,7 +375,7 @@
   },
   {
     "tm_player_id": 449710,
-    "espn_player_id": null,
+    "espn_player_id": 272874,
     "name": "Hazem Ahmed",
     "slug": "hazem-ahmed",
     "position": "Left-Back",
@@ -397,7 +397,7 @@
   },
   {
     "tm_player_id": 336665,
-    "espn_player_id": null,
+    "espn_player_id": 219248,
     "name": "Sultan Al-Brake",
     "slug": "sultan-al-brake",
     "position": "Left-Back",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 1054631,
-    "espn_player_id": null,
+    "espn_player_id": 346649,
     "name": "Ayoub Al-Oui",
     "slug": "ayoub-al-oui",
     "position": "Right-Back",
@@ -551,7 +551,7 @@
   },
   {
     "tm_player_id": 735813,
-    "espn_player_id": null,
+    "espn_player_id": 310373,
     "name": "Jassem Gaber",
     "slug": "jassem-gaber",
     "position": "Defensive Midfield",
@@ -595,7 +595,7 @@
   },
   {
     "tm_player_id": 222385,
-    "espn_player_id": null,
+    "espn_player_id": 172245,
     "name": "Karim Boudiaf",
     "slug": "karim-boudiaf",
     "position": "Defensive Midfield",
@@ -617,7 +617,7 @@
   },
   {
     "tm_player_id": 336667,
-    "espn_player_id": null,
+    "espn_player_id": 219254,
     "name": "Assim Madibo",
     "slug": "assim-madibo",
     "position": "Defensive Midfield",
@@ -749,7 +749,7 @@
   },
   {
     "tm_player_id": 86286,
-    "espn_player_id": null,
+    "espn_player_id": 236586,
     "name": "Hasan Al-Haydos",
     "slug": "hasan-al-haydos",
     "position": "Attacking Midfield",
@@ -771,7 +771,7 @@
   },
   {
     "tm_player_id": 336646,
-    "espn_player_id": null,
+    "espn_player_id": 219258,
     "name": "Akram Afif",
     "slug": "akram-afif",
     "position": "Left Winger",
@@ -793,7 +793,7 @@
   },
   {
     "tm_player_id": 237846,
-    "espn_player_id": null,
+    "espn_player_id": 109204,
     "name": "Edmílson Junior",
     "slug": "edmilson-junior",
     "position": "Left Winger",
@@ -815,7 +815,7 @@
   },
   {
     "tm_player_id": 589099,
-    "espn_player_id": null,
+    "espn_player_id": 274164,
     "name": "Yusuf Abdurisag",
     "slug": "yusuf-abdurisag",
     "position": "Left Winger",
@@ -903,7 +903,7 @@
   },
   {
     "tm_player_id": 1143849,
-    "espn_player_id": null,
+    "espn_player_id": 371967,
     "name": "Tahsin Mohammed Jamshid",
     "slug": "tahsin-mohammed-jamshid",
     "position": "Left Winger",
@@ -925,7 +925,7 @@
   },
   {
     "tm_player_id": 670659,
-    "espn_player_id": null,
+    "espn_player_id": 336120,
     "name": "Ahmed Al-Ganehi",
     "slug": "ahmed-al-ganehi",
     "position": "Right Winger",
@@ -1035,7 +1035,7 @@
   },
   {
     "tm_player_id": 187987,
-    "espn_player_id": null,
+    "espn_player_id": 263311,
     "name": "Ahmed Alaaeldin",
     "slug": "ahmed-alaaeldin",
     "position": "Centre-Forward",
@@ -1057,7 +1057,7 @@
   },
   {
     "tm_player_id": 266935,
-    "espn_player_id": null,
+    "espn_player_id": 185984,
     "name": "Mohammed Muntari",
     "slug": "mohammed-muntari",
     "position": "Centre-Forward",

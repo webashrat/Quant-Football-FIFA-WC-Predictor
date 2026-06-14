@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore", message="X does not have valid feature names")
 from datetime import date, timedelta
 
 from src.client import fetch_todays_fixtures, fetch_yesterdays_results, fetch_team_matches
-from src.store import parse_raw_matches, load_matches, append_matches, log_prediction
+from src.store import parse_raw_matches, load_matches, append_matches, log_prediction, update_actual_outcomes
 from src.features import (compute_elo_ratings, rolling_features_for_team,
                            build_training_data, build_match_feature_vector,
                            _h2h_features, FEATURE_COLS)
@@ -187,6 +187,9 @@ def run(today: str = None, yesterday: str = None):
 
     # ── Step 1: Score yesterday ──────────────────────────────
     print("[ Step 1 ] Evaluating yesterday's predictions...")
+    n_scored = update_actual_outcomes(yesterday)
+    if n_scored:
+        print(f"  Updated actual outcomes for {n_scored} prediction(s).")
     score_yesterday(yesterday)
 
     # ── Step 1b: One-time squad initialisation (runs once, ~5 min) ───────────
