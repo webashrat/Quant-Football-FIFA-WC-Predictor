@@ -158,3 +158,4 @@ Sample output:
 - **Features** (home − away diffs): win rate, draw rate, goals for/against, goal diff, form score (recency-weighted), clean sheet rate, 3-match momentum, unbeaten streak, **perf_delta_8**, **perf_delta_3**, Elo gap, H2H win/draw rate, home advantage
 - **Player nudge**: applied in log-odds space, capped at ±12pp total. Components: squad availability (TM injuries/suspensions), club-season form (G+A/90 of top 3 scorers), WC tournament momentum (goals/game)
 - **Elo**: seeded from FIFA World Ranking points, updated only from live WC matches (K=30)
+# Quant-Football-FIFA-WC-Predictor
