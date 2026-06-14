@@ -27,6 +27,7 @@ from src.player_update_job import (
 from src.player_store import all_initialized_teams, get_team_wc_summary, load_squad
 from src.tm_api import get_team_club_season_summary
 from src.predictor import UnifiedPredictor
+from src.elo_fetcher import refresh_elo_seeds, get_avg_fdorg_elo_map
 
 W = 58  # output width
 
@@ -180,6 +181,10 @@ def run(today: str = None, yesterday: str = None):
     print(f"  FIFA WC 2026 Daily Predictor  |  {today}")
     print(f"{'═' * (W + 4)}\n")
 
+    # ── Step 0: Refresh Elo seeds (no-op if already done today) ─
+    print("[ Step 0 ] Refreshing Elo seeds from eloratings.net...")
+    refresh_elo_seeds()
+
     # ── Step 1: Score yesterday ──────────────────────────────
     print("[ Step 1 ] Evaluating yesterday's predictions...")
     score_yesterday(yesterday)
@@ -246,9 +251,10 @@ def run(today: str = None, yesterday: str = None):
 
     # ── Step 5: Retrain unified predictor ────────────────────
     print("\n[ Step 5 ] Retraining model on all completed matches...")
-    matches_df  = load_matches()
-    elo_ratings = compute_elo_ratings(matches_df)
-    X, y, weights, feat_names = build_training_data(matches_df, elo_ratings)
+    matches_df      = load_matches()
+    elo_ratings     = compute_elo_ratings(matches_df)
+    avg_elo_ratings = get_avg_fdorg_elo_map()
+    X, y, weights, feat_names = build_training_data(matches_df, elo_ratings, avg_elo_ratings)
     predictor   = UnifiedPredictor()
 
     if len(X) >= 5:
@@ -274,14 +280,12 @@ def run(today: str = None, yesterday: str = None):
 
         home_hist  = matches_df[matches_df["team_id"] == home_id]
         away_hist  = matches_df[matches_df["team_id"] == away_id]
-        h_elo      = elo_ratings.get(home_id, 1500.0)
-        a_elo      = elo_ratings.get(away_id, 1500.0)
-        home_feats = rolling_features_for_team(home_hist, as_of_date=today, elo_ratings=elo_ratings, team_elo=h_elo)
-        away_feats = rolling_features_for_team(away_hist, as_of_date=today, elo_ratings=elo_ratings, team_elo=a_elo)
+        home_feats = rolling_features_for_team(home_hist, as_of_date=today)
+        away_feats = rolling_features_for_team(away_hist, as_of_date=today)
 
         # ── Single unified prediction (ML + Elo + players) ───
         print(f"  Predicting {home_name} vs {away_name}...")
-        result = predictor.predict(home_id, away_id, today, matches_df, elo_ratings)
+        result = predictor.predict(home_id, away_id, today, matches_df, elo_ratings, avg_elo_ratings)
 
         # ── Player context for display ───────────────────────
         home_player = get_team_player_features(home_id, today)

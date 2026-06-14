@@ -2,7 +2,7 @@
 
 A live, data-driven match prediction system for the 2026 FIFA World Cup. Runs every match day: ingests results, retrains the model, and prints probability breakdowns for upcoming fixtures.
 
-**Current accuracy: 4/4 (100%) | Model CV AUC: 0.637**
+**Current accuracy: 4/4 (100%) | Model CV AUC: 0.596**
 
 ---
 
@@ -16,7 +16,7 @@ Three signal groups are blended into a single probability triple (Win / Draw / L
 | Player quality | Transfermarkt TM API — squad value, club-season G+A/90 | Log-odds nudge |
 | Tournament momentum | ESPN WC 2026 live data — exact minutes played | Log-odds nudge |
 
-**Key feature**: opponent-adjusted performance delta (`perf_delta`). Instead of raw win rate, each match in the rolling window is scored as `actual_outcome − Elo_expected_outcome`. A loss to Germany barely hurts; a win over Barbados barely helps. This fixes the schedule-strength bias that makes teams who play in minnow qualifiers look better than teams who play at major tournaments.
+**Key feature**: Elo ratings sourced daily from [eloratings.net](https://eloratings.net/) (244 national teams, proper Elo methodology) rather than FIFA's arbitrary ranking points. This gives accurate relative strength for all teams including those outside the top 50 (e.g. Northern Ireland, Gibraltar, Barbados).
 
 ---
 
@@ -28,7 +28,8 @@ src/
   client.py           — football-data.org API client (fixtures, results)
   store.py            — parquet match store (append + dedup)
   backfill.py         — historical match backfill for all 48 WC teams
-  features.py         — rolling features, Elo, perf_delta, build_training_data
+  elo_fetcher.py      — daily Elo refresh from eloratings.net (244 teams)
+  features.py         — rolling features, Elo, build_training_data
   model.py            — LightGBM wrapper (_make_lgbm)
   predictor.py        — UnifiedPredictor: fit + predict + player nudge
   player_scraper.py   — ESPN WC player performance scraper (exact minutes via TM API)
@@ -40,7 +41,8 @@ src/
   evaluate.py         — Backtesting and accuracy reporting
 
 data/
-  initial_elo.json          — FIFA World Ranking seed Elo for all 48 teams
+  elo_seeds.json            — Live Elo from eloratings.net, auto-refreshed daily
+  initial_elo.json          — Static FIFA WR fallback seeds (used if elo_seeds.json missing)
   predictions_log.csv       — All predictions made with actual outcomes (tracked)
   results.csv               — Scraped WC results log (tracked)
   matches.parquet           — Full match history (gitignored — rebuilt by backfill)
@@ -134,6 +136,7 @@ Sample output:
 | Source | What it provides | Rate limit |
 |--------|-----------------|------------|
 | [football-data.org](https://www.football-data.org/) | Live WC fixtures, scores, historical matches | 10 req/min (free tier) |
+| [eloratings.net](https://eloratings.net/) | Real Elo ratings for 244 national teams, updated after every match | Daily refresh |
 | [Transfermarkt](https://www.transfermarkt.com/) | Squad composition, market values, player profiles | ~1 req/sec (scraping) |
 | [TM unofficial API](https://tmapi.transfermarkt.technology/) | Per-player career game logs, exact WC minutes, club-season G+A | 6h cache |
 | ESPN WC API | Player-level match appearances, substitution minutes | Public |
@@ -155,7 +158,7 @@ Sample output:
 
 - **Algorithm**: LightGBM (3-class: W/D/L) wrapped in `CalibratedClassifierCV(cv=5, method="isotonic")`
 - **Training data**: ~900 international matches, 2022–present, weighted by competition importance (WC = 1.0, Friendly = 0.3)
-- **Features** (home − away diffs): win rate, draw rate, goals for/against, goal diff, form score (recency-weighted), clean sheet rate, 3-match momentum, unbeaten streak, **perf_delta_8**, **perf_delta_3**, Elo gap, H2H win/draw rate, home advantage
+- **Features** (home − away diffs, 16 total): win rate, draw rate, goals for/against, goal diff, form score (recency-weighted), clean sheet rate, 3-match momentum, unbeaten streak, current Elo gap (`d_elo`), historical average Elo gap (`d_avg_elo`), H2H win/draw rate, home advantage
 - **Player nudge**: applied in log-odds space, capped at ±12pp total. Components: squad availability (TM injuries/suspensions), club-season form (G+A/90 of top 3 scorers), WC tournament momentum (goals/game)
-- **Elo**: seeded from FIFA World Ranking points, updated only from live WC matches (K=30)
+- **Elo**: seeded daily from [eloratings.net](https://eloratings.net/) (244 teams, proper Elo methodology), updated intra-tournament from live WC matches (K=30). Falls back to FIFA WR points if fetch fails.
 # Quant-Football-FIFA-WC-Predictor

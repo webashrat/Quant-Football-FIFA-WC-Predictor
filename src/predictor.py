@@ -84,6 +84,7 @@ class UnifiedPredictor:
         today: str,
         matches_df,
         elo_ratings: dict,
+        avg_elo_ratings: dict = None,
     ) -> dict:
         """
         Returns a single unified probability dict:
@@ -94,19 +95,23 @@ class UnifiedPredictor:
           home_elo, away_elo
           tip_team          — "home" | "away" | "draw"
         """
-        h_elo = elo_ratings.get(home_id, 1500.0)
-        a_elo = elo_ratings.get(away_id, 1500.0)
+        avg = avg_elo_ratings or {}
+        h_elo     = elo_ratings.get(home_id, 1500.0)
+        a_elo     = elo_ratings.get(away_id, 1500.0)
+        h_avg_elo = avg.get(home_id, h_elo)
+        a_avg_elo = avg.get(away_id, a_elo)
 
         # ── Step 1: ML probabilities (or Elo fallback) ────────────────────────
         hh = matches_df[matches_df["team_id"] == home_id]
         ah = matches_df[matches_df["team_id"] == away_id]
-        hf = rolling_features_for_team(hh, as_of_date=today, elo_ratings=elo_ratings, team_elo=h_elo)
-        af = rolling_features_for_team(ah, as_of_date=today, elo_ratings=elo_ratings, team_elo=a_elo)
+        hf = rolling_features_for_team(hh, as_of_date=today)
+        af = rolling_features_for_team(ah, as_of_date=today)
         h2h_w, h2h_d = _h2h_features(home_id, away_id, matches_df, today)
 
         if self.is_fitted and hf and af:
             xv = build_match_feature_vector(
                 hf, af, h_elo, a_elo, True, h2h_w, h2h_d,
+                h_avg_elo, a_avg_elo,
             )
             raw = self._ml_proba(xv)
         else:

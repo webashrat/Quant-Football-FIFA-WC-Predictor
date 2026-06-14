@@ -4,68 +4,13 @@ import numpy as np
 from src.config import ROLLING_WINDOW, DATA_DIR
 
 _INITIAL_ELO_PATH = DATA_DIR / "initial_elo.json"
+_ELO_SEEDS_PATH   = DATA_DIR / "elo_seeds.json"
 
-# Approximate Elo ratings for teams that appear in match history but are not
-# in the FDORG system (opp_id == 0). Used by perf_delta to avoid defaulting
-# every unknown opponent to 1500 regardless of their actual quality.
-# Values sourced from FIFA World Ranking / World Football Elo (June 2026 approx).
-_NAME_ELO_FALLBACK: dict[str, float] = {
-    # Top Europeans (would dominate at 1500 default)
-    "Italy": 1700, "England": 1750, "Denmark": 1660, "Poland": 1590,
-    "Serbia": 1620, "Ukraine": 1580, "Wales": 1540, "Hungary": 1570,
-    "Slovakia": 1510, "Georgia": 1520, "Iceland": 1530, "Greece": 1520,
-    "Romania": 1510, "Slovenia": 1530, "Albania": 1490, "North Macedonia": 1460,
-    "Republic of Ireland": 1490, "Bulgaria": 1440, "Montenegro": 1450,
-    "Armenia": 1430, "Azerbaijan": 1420, "Kosovo": 1430, "Latvia": 1400,
-    "Moldova": 1390, "Estonia": 1400, "Luxembourg": 1400, "Belarus": 1390,
-    "Cyprus": 1420, "Lithuania": 1390, "Faroe Islands": 1380,
-    "Northern Ireland": 1390, "Russia": 1560,
-    "Israel": 1500, "Finland": 1510,
-    # Near-zero nations
-    "Gibraltar": 1080, "Liechtenstein": 1120, "Andorra": 1120,
-    "Malta": 1180, "San Marino": 1000,
-    # South America
-    "Costa Rica": 1570, "Peru": 1590, "Bolivia": 1480, "Chile": 1620,
-    "Venezuela": 1530,
-    # CONCACAF
-    "Honduras": 1460, "Jamaica": 1390, "El Salvador": 1420,
-    "Guatemala": 1410, "Trinidad and Tobago": 1380, "Cuba": 1200,
-    "Martinique": 1300, "Nicaragua": 1270, "Bermuda": 1220,
-    "Grenada": 1250, "Suriname": 1280, "Guyana": 1220,
-    "Barbados": 1100, "Saint Lucia": 1080, "Cayman Islands": 1050,
-    "Dominica": 1080, "Belize": 1100, "Anguilla": 1000,
-    "Saint Kitts and Nevis": 1080, "British Virgin Islands": 1000,
-    "Saint Vincent and the Grenadines": 1100, "Turks and Caicos Islands": 1000,
-    "Montserrat": 1050,
-    "Guadeloupe": 1300, "Aruba": 1150, "Dominican Republic": 1150,
-    # Africa
-    "Nigeria": 1590, "Cameroon": 1580, "Burkina Faso": 1500, "Mali": 1510,
-    "Angola": 1440, "Zambia": 1420, "Mozambique": 1350, "Mauritania": 1380,
-    "Guinea": 1460, "Togo": 1390, "Gabon": 1400, "Eswatini": 1250,
-    "Zimbabwe": 1370, "Malawi": 1350, "Namiba": 1350, "Namibia": 1350,
-    "Tanzania": 1340, "Uganda": 1400, "Liberia": 1340, "Rwanda": 1360,
-    "Equatorial Guinea": 1380, "Comoros": 1340, "Benin": 1400,
-    "Guinea-Bissau": 1360, "Niger": 1300, "Central African Republic": 1290,
-    "Sierra Leone": 1360, "Gambia": 1410, "Burundi": 1280,
-    "South Sudan": 1200, "Djibouti": 1150, "Madagascar": 1320,
-    "Ethiopia": 1340, "Libya": 1340, "Sudan": 1310, "Congo": 1380,
-    "Kenya": 1370, "Lesotho": 1250, "Botswana": 1300,
-    "São Tomé and Príncipe": 1100,
-    # Asia
-    "Oman": 1420, "Bahrain": 1430, "United Arab Emirates": 1450,
-    "Syria": 1400, "Lebanon": 1380, "Palestine": 1360,
-    "China PR": 1450, "Vietnam": 1410, "Thailand": 1400,
-    "Indonesia": 1380, "Malaysia": 1360, "India": 1400,
-    "Tajikistan": 1380, "Kazakhstan": 1390, "Kyrgyzstan": 1340,
-    "Turkmenistan": 1310, "Myanmar": 1290, "Bangladesh": 1250,
-    "Pakistan": 1220, "Nepal": 1220, "Afghanistan": 1180,
-    "Hong Kong": 1310, "Singapore": 1300, "Cambodia": 1260,
-    "Maldives": 1180, "Sri Lanka": 1230, "Mongolia": 1150,
-    "Taiwan": 1300, "North Korea": 1380, "Yemen": 1310,
-    "Philippines": 1320,
-    # Oceania
-    "New Caledonia": 1300, "Fiji": 1300, "Solomon Islands": 1280,
-    "Papua New Guinea": 1250, "Vanuatu": 1230, "Tahiti": 1250,
+# Aliases for names in our match data that differ from eloratings.net
+_OPP_NAME_ALIAS: dict[str, str] = {
+    "republic of ireland": "ireland",
+    "china pr":            "china",
+    "sao tome and principe": "são tomé and príncipe",
 }
 
 # Competition importance weights — higher = more signal, less noise
@@ -93,7 +38,43 @@ def match_weight(comp: str) -> float:
     return 0.60   # unknown competitive match
 
 
+def _load_name_elo_maps() -> tuple[dict[str, float], dict[str, float]]:
+    """
+    Returns (name→current_elo, name→avg_elo) from elo_seeds.json.
+    Used to resolve opp_id=0 opponents by name (58% of historical training rows).
+    """
+    if not _ELO_SEEDS_PATH.exists():
+        return {}, {}
+    try:
+        raw = json.loads(_ELO_SEEDS_PATH.read_text())
+        cur = {k: float(v) for k, v in raw.get("ratings_by_name", {}).items()}
+        # avg_by_name not stored separately; use cur as fallback
+        return cur, cur
+    except Exception:
+        return {}, {}
+
+
+def _opp_elo_by_name(opp_name: str, name_elo_map: dict[str, float]) -> float:
+    """Look up opponent Elo by team name string for opp_id=0 rows."""
+    if not opp_name or not name_elo_map:
+        return 1500.0
+    normalized = str(opp_name).lower().strip()
+    canonical  = _OPP_NAME_ALIAS.get(normalized, normalized)
+    return name_elo_map.get(canonical, 1500.0)
+
+
 def _load_initial_elo() -> dict:
+    # Prefer live eloratings.net seeds (updated daily by elo_fetcher.refresh_elo_seeds)
+    elo_seeds = DATA_DIR / "elo_seeds.json"
+    if elo_seeds.exists():
+        try:
+            raw = json.loads(elo_seeds.read_text())
+            fdorg_map = {int(k): float(v) for k, v in raw.get("ratings_by_fdorg", {}).items()}
+            if fdorg_map:
+                return fdorg_map
+        except Exception:
+            pass
+    # Fallback: static FIFA World Ranking points seed
     if _INITIAL_ELO_PATH.exists():
         raw = json.loads(_INITIAL_ELO_PATH.read_text())
         return {int(k): float(v) for k, v in raw.get("ratings", {}).items()}
@@ -126,48 +107,8 @@ def compute_elo_ratings(matches_df: pd.DataFrame) -> dict:
     return ratings
 
 
-def _expected_win_prob(team_elo: float, opp_elo: float) -> float:
-    """Elo-implied probability of a win (on the W=1, D=0.5, L=0 scale)."""
-    return 1.0 / (1.0 + 10.0 ** ((opp_elo - team_elo) / 400.0))
-
-
-def _opp_elo(row, elo_ratings: dict) -> float:
-    """Resolve opponent Elo: FDORG lookup → name fallback → 1500 default."""
-    try:
-        opp_id = int(row["opp_id"]) if row["opp_id"] and not pd.isna(row["opp_id"]) else 0
-    except (ValueError, TypeError):
-        opp_id = 0
-    if opp_id and opp_id in elo_ratings:
-        return elo_ratings[opp_id]
-    # Name-based fallback for teams not in FDORG (opp_id == 0 or missing)
-    name = str(row.get("opp_name", "")).strip()
-    if name in _NAME_ELO_FALLBACK:
-        return _NAME_ELO_FALLBACK[name]
-    return 1500.0  # true unknown — neutral
-
-
-def _perf_deltas(rows: pd.DataFrame, team_elo: float, elo_ratings: dict) -> list[float]:
-    """
-    For each match, actual_score - elo_expected_score.
-    Positive = overperformed vs schedule; negative = underperformed.
-    Using opp Elo accounts for opponent quality: a loss to Germany barely
-    hurts; a win over Barbados barely helps.
-    """
-    deltas = []
-    for _, r in rows.iterrows():
-        o_elo  = _opp_elo(r, elo_ratings)
-        exp    = _expected_win_prob(team_elo, o_elo)
-        actual = {"W": 1.0, "D": 0.5, "L": 0.0}.get(str(r["outcome"]), 0.5)
-        deltas.append(actual - exp)
-    return deltas
-
-
 def rolling_features_for_team(
-    team_df: pd.DataFrame,
-    as_of_date=None,
-    window: int = ROLLING_WINDOW,
-    elo_ratings: dict = None,
-    team_elo: float = None,
+    team_df: pd.DataFrame, as_of_date=None, window: int = ROLLING_WINDOW
 ) -> dict | None:
     """Rich per-team feature dict using only matches strictly before as_of_date."""
     df = team_df.copy()
@@ -207,32 +148,18 @@ def rolling_features_for_team(
         else:
             break
 
-    # ── Opponent-adjusted performance delta ───────────────────────────────────
-    # actual_outcome_score minus Elo-expected_score, averaged over the window.
-    # Rewards teams that beat strong opponents; doesn't punish losses to giants.
-    if elo_ratings is not None and team_elo is not None:
-        d8 = _perf_deltas(recent, team_elo, elo_ratings)
-        d3 = _perf_deltas(df.tail(3), team_elo, elo_ratings)
-        perf_delta_8 = float(np.mean(d8)) if d8 else 0.0
-        perf_delta_3 = float(np.mean(d3)) if d3 else 0.0
-    else:
-        perf_delta_8 = 0.0
-        perf_delta_3 = 0.0
-
     return {
-        "win_rate":     win_rate,
-        "draw_rate":    draw_rate,
-        "gf_avg":       gf_avg,
-        "ga_avg":       ga_avg,
-        "gd_avg":       gd_avg,
-        "form_score":   form_score,
-        "clean_sheet":  clean_sheet,
-        "win_rate_3":   win_rate_3,
-        "gf_avg_3":     gf_avg_3,
-        "ga_avg_3":     ga_avg_3,
-        "streak":       float(min(streak, 10)) / 10.0,
-        "perf_delta_8": perf_delta_8,
-        "perf_delta_3": perf_delta_3,
+        "win_rate":    win_rate,
+        "draw_rate":   draw_rate,
+        "gf_avg":      gf_avg,
+        "ga_avg":      ga_avg,
+        "gd_avg":      gd_avg,
+        "form_score":  form_score,
+        "clean_sheet": clean_sheet,
+        "win_rate_3":  win_rate_3,
+        "gf_avg_3":    gf_avg_3,
+        "ga_avg_3":    ga_avg_3,
+        "streak":      float(min(streak, 10)) / 10.0,   # normalise 0-1
     }
 
 
@@ -258,10 +185,9 @@ FEATURE_COLS = [
     "d_win_rate_3", "d_gf_3", "d_ga_3",
     # streak
     "d_streak",
-    # opponent-adjusted performance delta (actual - elo_expected, by schedule strength)
-    "d_perf_delta_8", "d_perf_delta_3",
-    # elo
-    "d_elo",
+    # elo signals
+    "d_elo",      # current Elo gap (updated from live WC matches)
+    "d_avg_elo",  # historical average Elo gap (long-run baseline strength)
     # head-to-head
     "h2h_win_rate", "h2h_draw_rate",
     # venue
@@ -274,61 +200,66 @@ def build_match_feature_vector(
     home_elo: float = 1500.0, away_elo: float = 1500.0,
     is_home_perspective: bool = True,
     h2h_win_rate: float = 0.5, h2h_draw_rate: float = 0.25,
+    home_avg_elo: float = 1500.0, away_avg_elo: float = 1500.0,
 ) -> np.ndarray:
     s = 1 if is_home_perspective else -1
     return np.array([
-        s * (home_feats["win_rate"]      - away_feats["win_rate"]),
-        s * (home_feats["draw_rate"]     - away_feats["draw_rate"]),
-        s * (home_feats["gf_avg"]        - away_feats["gf_avg"]),
-        s * (home_feats["ga_avg"]        - away_feats["ga_avg"]),
-        s * (home_feats["gd_avg"]        - away_feats["gd_avg"]),
-        s * (home_feats["form_score"]    - away_feats["form_score"]),
-        s * (home_feats["clean_sheet"]   - away_feats["clean_sheet"]),
-        s * (home_feats["win_rate_3"]    - away_feats["win_rate_3"]),
-        s * (home_feats["gf_avg_3"]      - away_feats["gf_avg_3"]),
-        s * (home_feats["ga_avg_3"]      - away_feats["ga_avg_3"]),
-        s * (home_feats["streak"]        - away_feats["streak"]),
-        s * (home_feats["perf_delta_8"]  - away_feats["perf_delta_8"]),
-        s * (home_feats["perf_delta_3"]  - away_feats["perf_delta_3"]),
-        s * (home_elo - away_elo) / 400.0,
+        s * (home_feats["win_rate"]    - away_feats["win_rate"]),
+        s * (home_feats["draw_rate"]   - away_feats["draw_rate"]),
+        s * (home_feats["gf_avg"]      - away_feats["gf_avg"]),
+        s * (home_feats["ga_avg"]      - away_feats["ga_avg"]),
+        s * (home_feats["gd_avg"]      - away_feats["gd_avg"]),
+        s * (home_feats["form_score"]  - away_feats["form_score"]),
+        s * (home_feats["clean_sheet"] - away_feats["clean_sheet"]),
+        s * (home_feats["win_rate_3"]  - away_feats["win_rate_3"]),
+        s * (home_feats["gf_avg_3"]    - away_feats["gf_avg_3"]),
+        s * (home_feats["ga_avg_3"]    - away_feats["ga_avg_3"]),
+        s * (home_feats["streak"]      - away_feats["streak"]),
+        s * (home_elo     - away_elo)     / 400.0,
+        s * (home_avg_elo - away_avg_elo) / 400.0,
         h2h_win_rate,
         h2h_draw_rate,
         float(is_home_perspective),
     ])
 
 
-def build_training_data(matches_df: pd.DataFrame, elo_ratings: dict):
+def build_training_data(matches_df: pd.DataFrame, elo_ratings: dict, avg_elo_ratings: dict = None):
     """Build (X, y, weights, feature_names) from all stored match rows."""
+    avg_elo = avg_elo_ratings or {}
+    name_cur, _name_avg = _load_name_elo_maps()
     X_rows, y_rows, w_rows = [], [], []
     df = matches_df.sort_values("date")
 
     fixtures = df[["fixture_id", "date", "team_id", "opp_id",
-                   "is_home", "outcome", "comp"]].drop_duplicates(
+                   "opp_name", "is_home", "outcome", "comp"]].drop_duplicates(
         subset=["fixture_id", "team_id"])
 
     for _, row in fixtures.iterrows():
-        tid, oid = int(row["team_id"]), int(row["opp_id"])
-        as_of    = row["date"]
+        tid, oid    = int(row["team_id"]), int(row["opp_id"])
+        as_of       = row["date"]
+        opp_name    = row.get("opp_name", "") or ""
 
-        t_elo = elo_ratings.get(tid, 1500.0)
-        o_elo = elo_ratings.get(oid, 1500.0)
-
-        t_feats = rolling_features_for_team(
-            df[df["team_id"] == tid], as_of_date=as_of,
-            elo_ratings=elo_ratings, team_elo=t_elo,
-        )
-        o_feats = rolling_features_for_team(
-            df[df["team_id"] == oid], as_of_date=as_of,
-            elo_ratings=elo_ratings, team_elo=o_elo,
-        )
+        t_feats = rolling_features_for_team(df[df["team_id"] == tid], as_of_date=as_of)
+        o_feats = rolling_features_for_team(df[df["team_id"] == oid], as_of_date=as_of)
         if t_feats is None or o_feats is None:
             continue
+
+        t_elo = elo_ratings.get(tid, 1500.0)
+        if oid == 0:
+            # Resolve by opponent name — fixes 58% of training rows that used 1500
+            o_elo = _opp_elo_by_name(opp_name, name_cur)
+        else:
+            o_elo = elo_ratings.get(oid, 1500.0)
+
+        t_avg_elo = avg_elo.get(tid, t_elo)
+        o_avg_elo = avg_elo.get(oid, o_elo)  # for oid=0, falls back to name-resolved o_elo
 
         h2h_w, h2h_d = _h2h_features(tid, oid, df, as_of)
 
         x = build_match_feature_vector(
             t_feats, o_feats, t_elo, o_elo,
             bool(row["is_home"]), h2h_w, h2h_d,
+            t_avg_elo, o_avg_elo,
         )
         X_rows.append(x)
         y_rows.append(row["outcome"])
