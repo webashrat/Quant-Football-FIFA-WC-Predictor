@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 201574,
-    "espn_player_id": null,
+    "espn_player_id": 181299,
     "name": "Angus Gunn",
     "slug": "angus-gunn",
     "position": "Goalkeeper",
@@ -23,7 +23,7 @@
   },
   {
     "tm_player_id": 208772,
-    "espn_player_id": null,
+    "espn_player_id": 16264,
     "name": "Liam Kelly",
     "slug": "liam-kelly",
     "position": "Goalkeeper",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 983248,
-    "espn_player_id": null,
+    "espn_player_id": 191450,
     "name": "Callan McKenna",
     "slug": "callan-mckenna",
     "position": "Goalkeeper",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 12589,
-    "espn_player_id": null,
+    "espn_player_id": 17617,
     "name": "Craig Gordon",
     "slug": "craig-gordon",
     "position": "Goalkeeper",
@@ -221,7 +221,7 @@
   },
   {
     "tm_player_id": 235767,
-    "espn_player_id": null,
+    "espn_player_id": 181394,
     "name": "John Souttar",
     "slug": "john-souttar",
     "position": "Centre-Back",
@@ -265,7 +265,7 @@
   },
   {
     "tm_player_id": 363223,
-    "espn_player_id": null,
+    "espn_player_id": 207454,
     "name": "Jack Hendry",
     "slug": "jack-hendry",
     "position": "Centre-Back",
@@ -287,7 +287,7 @@
   },
   {
     "tm_player_id": 121385,
-    "espn_player_id": null,
+    "espn_player_id": 146577,
     "name": "Grant Hanley",
     "slug": "grant-hanley",
     "position": "Centre-Back",
@@ -309,7 +309,7 @@
   },
   {
     "tm_player_id": 234803,
-    "espn_player_id": null,
+    "espn_player_id": 104943,
     "name": "Andrew Robertson",
     "slug": "andrew-robertson",
     "position": "Left-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 300716,
-    "espn_player_id": null,
+    "espn_player_id": 214794,
     "name": "Kieran Tierney",
     "slug": "kieran-tierney",
     "position": "Left-Back",
@@ -375,7 +375,7 @@
   },
   {
     "tm_player_id": 591949,
-    "espn_player_id": null,
+    "espn_player_id": 283940,
     "name": "Aaron Hickey",
     "slug": "aaron-hickey",
     "position": "Right-Back",
@@ -397,7 +397,7 @@
   },
   {
     "tm_player_id": 424015,
-    "espn_player_id": null,
+    "espn_player_id": 271191,
     "name": "Nathan Patterson",
     "slug": "nathan-patterson",
     "position": "Right-Back",
@@ -419,7 +419,7 @@
   },
   {
     "tm_player_id": 388171,
-    "espn_player_id": null,
+    "espn_player_id": 224305,
     "name": "Anthony Ralston",
     "slug": "anthony-ralston",
     "position": "Right-Back",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 315969,
-    "espn_player_id": null,
+    "espn_player_id": 255850,
     "name": "Scott McTominay",
     "slug": "scott-mctominay",
     "position": "Central Midfield",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 193116,
-    "espn_player_id": null,
+    "espn_player_id": 162843,
     "name": "John McGinn",
     "slug": "john-mcginn",
     "position": "Central Midfield",
@@ -551,7 +551,7 @@
   },
   {
     "tm_player_id": 428563,
-    "espn_player_id": null,
+    "espn_player_id": 202429,
     "name": "Lewis Ferguson",
     "slug": "lewis-ferguson",
     "position": "Central Midfield",
@@ -573,7 +573,7 @@
   },
   {
     "tm_player_id": 188077,
-    "espn_player_id": null,
+    "espn_player_id": 93435,
     "name": "Ryan Christie",
     "slug": "ryan-christie",
     "position": "Central Midfield",
@@ -639,7 +639,7 @@
   },
   {
     "tm_player_id": 126600,
-    "espn_player_id": null,
+    "espn_player_id": 141870,
     "name": "Kenny McLean",
     "slug": "kenny-mclean",
     "position": "Central Midfield",
@@ -683,7 +683,7 @@
   },
   {
     "tm_player_id": 719673,
-    "espn_player_id": null,
+    "espn_player_id": 332948,
     "name": "Ben Gannon-Doak",
     "slug": "ben-gannon-doak",
     "position": "Right Winger",
@@ -705,7 +705,7 @@
   },
   {
     "tm_player_id": 346779,
-    "espn_player_id": null,
+    "espn_player_id": 213725,
     "name": "Ché Adams",
     "slug": "che-adams",
     "position": "Centre-Forward",
@@ -749,7 +749,7 @@
   },
   {
     "tm_player_id": 420808,
-    "espn_player_id": null,
+    "espn_player_id": 241325,
     "name": "George Hirst",
     "slug": "george-hirst",
     "position": "Centre-Forward",
@@ -771,7 +771,7 @@
   },
   {
     "tm_player_id": 225744,
-    "espn_player_id": null,
+    "espn_player_id": 173306,
     "name": "Lawrence Shankland",
     "slug": "lawrence-shankland",
     "position": "Centre-Forward",
@@ -815,7 +815,7 @@
   },
   {
     "tm_player_id": 347138,
-    "espn_player_id": null,
+    "espn_player_id": 207538,
     "name": "Lyndon Dykes",
     "slug": "lyndon-dykes",
     "position": "Centre-Forward",

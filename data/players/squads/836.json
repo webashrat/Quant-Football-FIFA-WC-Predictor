@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 51035,
-    "espn_player_id": null,
+    "espn_player_id": 89090,
     "name": "Johny Placide",
     "slug": "johny-placide",
     "position": "Goalkeeper",
@@ -45,7 +45,7 @@
   },
   {
     "tm_player_id": 838947,
-    "espn_player_id": null,
+    "espn_player_id": 310715,
     "name": "Alexandre Pierre",
     "slug": "alexandre-pierre",
     "position": "Goalkeeper",
@@ -89,7 +89,7 @@
   },
   {
     "tm_player_id": 490369,
-    "espn_player_id": null,
+    "espn_player_id": 274131,
     "name": "Josué Duverger",
     "slug": "josue-duverger",
     "position": "Goalkeeper",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 338635,
-    "espn_player_id": null,
+    "espn_player_id": 252521,
     "name": "Hannes Delcroix",
     "slug": "hannes-delcroix",
     "position": "Centre-Back",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 344864,
-    "espn_player_id": null,
+    "espn_player_id": 241032,
     "name": "Jean-Kévin Duverne",
     "slug": "jean-kevin-duverne",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 278145,
-    "espn_player_id": null,
+    "espn_player_id": 188106,
     "name": "Ricardo Adé",
     "slug": "ricardo-ade",
     "position": "Centre-Back",
@@ -243,7 +243,7 @@
   },
   {
     "tm_player_id": 859175,
-    "espn_player_id": null,
+    "espn_player_id": 320621,
     "name": "Garven Metusala",
     "slug": "garven-metusala",
     "position": "Centre-Back",
@@ -265,7 +265,7 @@
   },
   {
     "tm_player_id": 1061046,
-    "espn_player_id": null,
+    "espn_player_id": 409965,
     "name": "Keeto Thermoncy",
     "slug": "keeto-thermoncy",
     "position": "Centre-Back",
@@ -309,7 +309,7 @@
   },
   {
     "tm_player_id": 804885,
-    "espn_player_id": null,
+    "espn_player_id": 320212,
     "name": "Martin Expérience",
     "slug": "martin-experience",
     "position": "Left-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 375472,
-    "espn_player_id": null,
+    "espn_player_id": 235401,
     "name": "Duke Lacroix",
     "slug": "duke-lacroix",
     "position": "Left-Back",
@@ -353,7 +353,7 @@
   },
   {
     "tm_player_id": 371686,
-    "espn_player_id": null,
+    "espn_player_id": 218703,
     "name": "Carlens Arcus",
     "slug": "carlens-arcus",
     "position": "Right-Back",
@@ -397,7 +397,7 @@
   },
   {
     "tm_player_id": 609691,
-    "espn_player_id": null,
+    "espn_player_id": 385479,
     "name": "Wilguens Paugain",
     "slug": "wilguens-paugain",
     "position": "Right-Back",
@@ -419,7 +419,7 @@
   },
   {
     "tm_player_id": 628834,
-    "espn_player_id": null,
+    "espn_player_id": 333939,
     "name": "Danley Jean Jacques",
     "slug": "danley-jean-jacques",
     "position": "Defensive Midfield",
@@ -463,7 +463,7 @@
   },
   {
     "tm_player_id": 1239247,
-    "espn_player_id": null,
+    "espn_player_id": 301093,
     "name": "Belmar Joseph",
     "slug": "belmar-joseph",
     "position": "Defensive Midfield",
@@ -485,7 +485,7 @@
   },
   {
     "tm_player_id": 718244,
-    "espn_player_id": null,
+    "espn_player_id": 297177,
     "name": "Carl Sainté",
     "slug": "carl-sainte",
     "position": "Defensive Midfield",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 450050,
-    "espn_player_id": null,
+    "espn_player_id": 240369,
     "name": "Jean-Ricner Bellegarde",
     "slug": "jean-ricner-bellegarde",
     "position": "Central Midfield",
@@ -573,7 +573,7 @@
   },
   {
     "tm_player_id": 354763,
-    "espn_player_id": null,
+    "espn_player_id": 231098,
     "name": "Derrick Etienne Jr.",
     "slug": "derrick-etienne-jr-",
     "position": "Left Winger",
@@ -617,7 +617,7 @@
   },
   {
     "tm_player_id": 536520,
-    "espn_player_id": null,
+    "espn_player_id": 307861,
     "name": "Ruben Providence",
     "slug": "ruben-providence",
     "position": "Left Winger",
@@ -683,7 +683,7 @@
   },
   {
     "tm_player_id": 763182,
-    "espn_player_id": null,
+    "espn_player_id": 304212,
     "name": "Josué Casimir",
     "slug": "josue-casimir",
     "position": "Right Winger",
@@ -705,7 +705,7 @@
   },
   {
     "tm_player_id": 646108,
-    "espn_player_id": null,
+    "espn_player_id": 291608,
     "name": "Louicius Deedson",
     "slug": "louicius-deedson",
     "position": "Right Winger",
@@ -749,7 +749,7 @@
   },
   {
     "tm_player_id": 492955,
-    "espn_player_id": null,
+    "espn_player_id": 250241,
     "name": "Frantzdy Pierrot",
     "slug": "frantzdy-pierrot",
     "position": "Centre-Forward",
@@ -771,7 +771,7 @@
   },
   {
     "tm_player_id": 345763,
-    "espn_player_id": null,
+    "espn_player_id": 210778,
     "name": "Duckens Nazon",
     "slug": "duckens-nazon",
     "position": "Centre-Forward",
@@ -815,7 +815,7 @@
   },
   {
     "tm_player_id": 342878,
-    "espn_player_id": null,
+    "espn_player_id": 275007,
     "name": "Yassin Fortuné",
     "slug": "yassin-fortune",
     "position": "Centre-Forward",
