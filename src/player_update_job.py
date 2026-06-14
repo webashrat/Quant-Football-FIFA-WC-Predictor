@@ -96,8 +96,12 @@ def update_performances(
         if verbose:
             print(f"    {home_name} vs {away_name} (fdorg_id={fixture_id}) ...")
 
-        # Find ESPN event ID
+        # Find ESPN event ID — 01:00 UTC matches are indexed under the prior day in ESPN
         espn_id = fetch_espn_event_id(yesterday, home_name, away_name)
+        if espn_id is None:
+            from datetime import date as _date, timedelta as _td
+            prev_day = (date_cls.fromisoformat(yesterday) - _td(days=1)).isoformat()
+            espn_id = fetch_espn_event_id(prev_day, home_name, away_name)
         if espn_id is None:
             if verbose:
                 print(f"      ESPN event not found — skipping.")
