@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 357117,
-    "espn_player_id": null,
+    "espn_player_id": 231282,
     "name": "Alban Lafont",
     "slug": "alban-lafont",
     "position": "Goalkeeper",
@@ -23,7 +23,7 @@
   },
   {
     "tm_player_id": 418651,
-    "espn_player_id": null,
+    "espn_player_id": 184118,
     "name": "Yahia Fofana",
     "slug": "yahia-fofana",
     "position": "Goalkeeper",
@@ -45,7 +45,7 @@
   },
   {
     "tm_player_id": 911985,
-    "espn_player_id": null,
+    "espn_player_id": 323997,
     "name": "Mohamed Koné",
     "slug": "mohamed-kone",
     "position": "Goalkeeper",
@@ -67,7 +67,7 @@
   },
   {
     "tm_player_id": 182313,
-    "espn_player_id": null,
+    "espn_player_id": 213718,
     "name": "Badra Ali Sangaré",
     "slug": "badra-ali-sangare",
     "position": "Goalkeeper",
@@ -89,7 +89,7 @@
   },
   {
     "tm_player_id": 974982,
-    "espn_player_id": null,
+    "espn_player_id": 343964,
     "name": "Ousmane Diomande",
     "slug": "ousmane-diomande",
     "position": "Centre-Back",
@@ -111,7 +111,7 @@
   },
   {
     "tm_player_id": 644771,
-    "espn_player_id": null,
+    "espn_player_id": 284822,
     "name": "Odilon Kossounou",
     "slug": "odilon-kossounou",
     "position": "Centre-Back",
@@ -133,7 +133,7 @@
   },
   {
     "tm_player_id": 648779,
-    "espn_player_id": null,
+    "espn_player_id": 286569,
     "name": "Wilfried Singo",
     "slug": "wilfried-singo",
     "position": "Centre-Back",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 371149,
-    "espn_player_id": null,
+    "espn_player_id": 242593,
     "name": "Evan Ndicka",
     "slug": "evan-ndicka",
     "position": "Centre-Back",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 683895,
-    "espn_player_id": null,
+    "espn_player_id": 308449,
     "name": "Emmanuel Agbadou",
     "slug": "emmanuel-agbadou",
     "position": "Centre-Back",
@@ -309,7 +309,7 @@
   },
   {
     "tm_player_id": 422850,
-    "espn_player_id": null,
+    "espn_player_id": 250888,
     "name": "Ghislain Konan",
     "slug": "ghislain-konan",
     "position": "Left-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 469976,
-    "espn_player_id": null,
+    "espn_player_id": 249072,
     "name": "Christopher Operi",
     "slug": "christopher-operi",
     "position": "Left-Back",
@@ -375,7 +375,7 @@
   },
   {
     "tm_player_id": 711980,
-    "espn_player_id": null,
+    "espn_player_id": 346636,
     "name": "Guéla Doué",
     "slug": "guela-doue",
     "position": "Right-Back",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 178614,
-    "espn_player_id": null,
+    "espn_player_id": 193539,
     "name": "Jean Michaël Seri",
     "slug": "jean-michael-seri",
     "position": "Defensive Midfield",
@@ -551,7 +551,7 @@
   },
   {
     "tm_player_id": 294808,
-    "espn_player_id": null,
+    "espn_player_id": 194711,
     "name": "Franck Kessié",
     "slug": "franck-kessie",
     "position": "Central Midfield",
@@ -639,7 +639,7 @@
   },
   {
     "tm_player_id": 1279526,
-    "espn_player_id": null,
+    "espn_player_id": 386989,
     "name": "Christ Inao Oulaï",
     "slug": "christ-inao-oulai",
     "position": "Central Midfield",
@@ -683,7 +683,7 @@
   },
   {
     "tm_player_id": 658536,
-    "espn_player_id": null,
+    "espn_player_id": 317404,
     "name": "Simon Adingra",
     "slug": "simon-adingra",
     "position": "Left Winger",
@@ -727,7 +727,7 @@
   },
   {
     "tm_player_id": 1067904,
-    "espn_player_id": null,
+    "espn_player_id": 359108,
     "name": "Bazoumana Touré",
     "slug": "bazoumana-toure",
     "position": "Left Winger",
@@ -771,7 +771,7 @@
   },
   {
     "tm_player_id": 624913,
-    "espn_player_id": null,
+    "espn_player_id": 257055,
     "name": "Parfait Guiagon",
     "slug": "parfait-guiagon",
     "position": "Left Winger",
@@ -815,7 +815,7 @@
   },
   {
     "tm_player_id": 536835,
-    "espn_player_id": null,
+    "espn_player_id": 291630,
     "name": "Amad Diallo",
     "slug": "amad-diallo",
     "position": "Right Winger",
@@ -837,7 +837,7 @@
   },
   {
     "tm_player_id": 500689,
-    "espn_player_id": null,
+    "espn_player_id": 288924,
     "name": "Evann Guessand",
     "slug": "evann-guessand",
     "position": "Right Winger",
@@ -859,7 +859,7 @@
   },
   {
     "tm_player_id": 343052,
-    "espn_player_id": null,
+    "espn_player_id": 210397,
     "name": "Nicolas Pépé",
     "slug": "nicolas-pepe",
     "position": "Right Winger",
@@ -925,7 +925,7 @@
   },
   {
     "tm_player_id": 847279,
-    "espn_player_id": null,
+    "espn_player_id": 329483,
     "name": "Oumar Diakité",
     "slug": "oumar-diakite",
     "position": "Centre-Forward",

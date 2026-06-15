@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 450233,
-    "espn_player_id": null,
+    "espn_player_id": 269881,
     "name": "Moisés Ramírez",
     "slug": "moises-ramirez",
     "position": "Goalkeeper",
@@ -67,7 +67,7 @@
   },
   {
     "tm_player_id": 77127,
-    "espn_player_id": null,
+    "espn_player_id": 207921,
     "name": "Hernán Galíndez",
     "slug": "hernan-galindez",
     "position": "Goalkeeper",
@@ -89,7 +89,7 @@
   },
   {
     "tm_player_id": 351941,
-    "espn_player_id": null,
+    "espn_player_id": 131726,
     "name": "Gonzalo Valle",
     "slug": "gonzalo-valle",
     "position": "Goalkeeper",
@@ -111,7 +111,7 @@
   },
   {
     "tm_player_id": 659813,
-    "espn_player_id": null,
+    "espn_player_id": 292062,
     "name": "Piero Hincapié",
     "slug": "piero-hincapie",
     "position": "Centre-Back",
@@ -133,7 +133,7 @@
   },
   {
     "tm_player_id": 661171,
-    "espn_player_id": null,
+    "espn_player_id": 287005,
     "name": "Willian Pacho",
     "slug": "willian-pacho",
     "position": "Centre-Back",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 893661,
-    "espn_player_id": null,
+    "espn_player_id": 336589,
     "name": "Joel Ordóñez",
     "slug": "joel-ordonez",
     "position": "Centre-Back",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 468174,
-    "espn_player_id": null,
+    "espn_player_id": 251963,
     "name": "Félix Torres",
     "slug": "felix-torres",
     "position": "Centre-Back",
@@ -243,7 +243,7 @@
   },
   {
     "tm_player_id": 349599,
-    "espn_player_id": null,
+    "espn_player_id": 214689,
     "name": "Pervis Estupiñán",
     "slug": "pervis-estupinan",
     "position": "Left-Back",
@@ -287,7 +287,7 @@
   },
   {
     "tm_player_id": 893659,
-    "espn_player_id": null,
+    "espn_player_id": 315600,
     "name": "Yaimar Medina",
     "slug": "yaimar-medina",
     "position": "Left-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 450241,
-    "espn_player_id": null,
+    "espn_player_id": 256560,
     "name": "Angelo Preciado",
     "slug": "angelo-preciado",
     "position": "Right-Back",
@@ -353,7 +353,7 @@
   },
   {
     "tm_player_id": 687626,
-    "espn_player_id": null,
+    "espn_player_id": 217079,
     "name": "Moisés Caicedo",
     "slug": "moises-caicedo",
     "position": "Defensive Midfield",
@@ -397,7 +397,7 @@
   },
   {
     "tm_player_id": 598145,
-    "espn_player_id": null,
+    "espn_player_id": 270829,
     "name": "Jordy Alcívar",
     "slug": "jordy-alcivar",
     "position": "Defensive Midfield",
@@ -419,7 +419,7 @@
   },
   {
     "tm_player_id": 400960,
-    "espn_player_id": null,
+    "espn_player_id": 262111,
     "name": "Alan Franco",
     "slug": "alan-franco",
     "position": "Central Midfield",
@@ -441,7 +441,7 @@
   },
   {
     "tm_player_id": 941418,
-    "espn_player_id": null,
+    "espn_player_id": 328742,
     "name": "Denil Castillo",
     "slug": "denil-castillo",
     "position": "Central Midfield",
@@ -485,7 +485,7 @@
   },
   {
     "tm_player_id": 1052439,
-    "espn_player_id": null,
+    "espn_player_id": 358746,
     "name": "Kendry Páez",
     "slug": "kendry-paez",
     "position": "Attacking Midfield",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 659806,
-    "espn_player_id": null,
+    "espn_player_id": 297150,
     "name": "Pedro Vite",
     "slug": "pedro-vite",
     "position": "Attacking Midfield",
@@ -573,7 +573,7 @@
   },
   {
     "tm_player_id": 903611,
-    "espn_player_id": null,
+    "espn_player_id": 318090,
     "name": "Nilson Angulo",
     "slug": "nilson-angulo",
     "position": "Left Winger",
@@ -595,7 +595,7 @@
   },
   {
     "tm_player_id": 897051,
-    "espn_player_id": null,
+    "espn_player_id": 319422,
     "name": "Alan Minda",
     "slug": "alan-minda",
     "position": "Right Winger",
@@ -617,7 +617,7 @@
   },
   {
     "tm_player_id": 592735,
-    "espn_player_id": null,
+    "espn_player_id": 277352,
     "name": "Gonzalo Plata",
     "slug": "gonzalo-plata",
     "position": "Right Winger",
@@ -705,7 +705,7 @@
   },
   {
     "tm_player_id": 439914,
-    "espn_player_id": null,
+    "espn_player_id": 265926,
     "name": "John Yeboah",
     "slug": "john-yeboah",
     "position": "Second Striker",
@@ -749,7 +749,7 @@
   },
   {
     "tm_player_id": 684159,
-    "espn_player_id": null,
+    "espn_player_id": 281316,
     "name": "Kevin Rodríguez",
     "slug": "kevin-rodriguez",
     "position": "Centre-Forward",
@@ -771,7 +771,7 @@
   },
   {
     "tm_player_id": 139503,
-    "espn_player_id": null,
+    "espn_player_id": 303328,
     "name": "Enner Valencia",
     "slug": "enner-valencia",
     "position": "Centre-Forward",
@@ -793,7 +793,7 @@
   },
   {
     "tm_player_id": 971663,
-    "espn_player_id": null,
+    "espn_player_id": 367725,
     "name": "Jeremy Arévalo",
     "slug": "jeremy-arevalo",
     "position": "Centre-Forward",
