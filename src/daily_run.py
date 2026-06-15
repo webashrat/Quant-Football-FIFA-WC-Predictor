@@ -185,17 +185,10 @@ def run(today: str = None, yesterday: str = None):
     print("[ Step 0 ] Refreshing Elo seeds from eloratings.net...")
     refresh_elo_seeds()
 
-    # ── Step 1: Score yesterday ──────────────────────────────
-    print("[ Step 1 ] Evaluating yesterday's predictions...")
-    n_scored = update_actual_outcomes(yesterday)
-    if n_scored:
-        print(f"  Updated actual outcomes for {n_scored} prediction(s).")
-    score_yesterday(yesterday)
-
-    # ── Step 1b: One-time squad initialisation (runs once, ~5 min) ───────────
+    # ── Step 1: One-time squad initialisation (runs once, ~5 min) ───────────
     n_init = len(all_initialized_teams())
     if n_init < len(ALL_WC_TEAM_IDS) // 2:
-        print(f"\n[ Step 1b ] First run — initialising all WC 2026 squads from Transfermarkt...")
+        print(f"\n[ Step 1 ] First run — initialising all WC 2026 squads from Transfermarkt...")
         print(f"  ({n_init} of {len(ALL_WC_TEAM_IDS)} teams already stored; scraping the rest in background)")
         initialize_all_squads(verbose=True)
 
@@ -215,6 +208,13 @@ def run(today: str = None, yesterday: str = None):
     if finished:
         print(f"  Launching background player performance update for {len(finished)} match(es)...")
         update_performances_async(yesterday, finished)
+
+    # ── Step 2c: Score yesterday's predictions (after ingestion) ─────────────
+    print("[ Step 2c ] Evaluating yesterday's predictions...")
+    n_scored = update_actual_outcomes(yesterday)
+    if n_scored:
+        print(f"  Updated actual outcomes for {n_scored} prediction(s).")
+    score_yesterday(yesterday)
 
     # ── Step 3: Fetch today's fixtures ──────────────────────
     print(f"\n[ Step 3 ] Fetching today's fixtures ({today})...")
