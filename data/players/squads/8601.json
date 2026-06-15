@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 565093,
-    "espn_player_id": null,
+    "espn_player_id": 291609,
     "name": "Bart Verbruggen",
     "slug": "bart-verbruggen",
     "position": "Goalkeeper",
@@ -23,7 +23,7 @@
   },
   {
     "tm_player_id": 125714,
-    "espn_player_id": null,
+    "espn_player_id": 177821,
     "name": "Mark Flekken",
     "slug": "mark-flekken",
     "position": "Goalkeeper",
@@ -89,7 +89,7 @@
   },
   {
     "tm_player_id": 646991,
-    "espn_player_id": null,
+    "espn_player_id": 301449,
     "name": "Robin Roefs",
     "slug": "robin-roefs",
     "position": "Goalkeeper",
@@ -111,7 +111,7 @@
   },
   {
     "tm_player_id": 557459,
-    "espn_player_id": null,
+    "espn_player_id": 296512,
     "name": "Micky van de Ven",
     "slug": "micky-van-de-ven",
     "position": "Centre-Back",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 177476,
-    "espn_player_id": null,
+    "espn_player_id": 159248,
     "name": "Nathan Aké",
     "slug": "nathan-ake",
     "position": "Centre-Back",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 576314,
-    "espn_player_id": null,
+    "espn_player_id": 282583,
     "name": "Jan Paul van Hecke",
     "slug": "jan-paul-van-hecke",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 139208,
-    "espn_player_id": null,
+    "espn_player_id": 157892,
     "name": "Virgil van Dijk",
     "slug": "virgil-van-dijk",
     "position": "Centre-Back",
@@ -287,7 +287,7 @@
   },
   {
     "tm_player_id": 904802,
-    "espn_player_id": null,
+    "espn_player_id": 353951,
     "name": "Jorrel Hato",
     "slug": "jorrel-hato",
     "position": "Left-Back",
@@ -353,7 +353,7 @@
   },
   {
     "tm_player_id": 420243,
-    "espn_player_id": null,
+    "espn_player_id": 282230,
     "name": "Jurriën Timber",
     "slug": "jurrien-timber",
     "position": "Right-Back",
@@ -375,7 +375,7 @@
   },
   {
     "tm_player_id": 420210,
-    "espn_player_id": null,
+    "espn_player_id": 264828,
     "name": "Lutsharel Geertruida",
     "slug": "lutsharel-geertruida",
     "position": "Right-Back",
@@ -397,7 +397,7 @@
   },
   {
     "tm_player_id": 415381,
-    "espn_player_id": null,
+    "espn_player_id": 282186,
     "name": "Mats Wieffer",
     "slug": "mats-wieffer",
     "position": "Right-Back",
@@ -419,7 +419,7 @@
   },
   {
     "tm_player_id": 321528,
-    "espn_player_id": null,
+    "espn_player_id": 213248,
     "name": "Denzel Dumfries",
     "slug": "denzel-dumfries",
     "position": "Right-Back",
@@ -441,7 +441,7 @@
   },
   {
     "tm_player_id": 478573,
-    "espn_player_id": null,
+    "espn_player_id": 274632,
     "name": "Ryan Gravenberch",
     "slug": "ryan-gravenberch",
     "position": "Defensive Midfield",
@@ -463,7 +463,7 @@
   },
   {
     "tm_player_id": 360518,
-    "espn_player_id": null,
+    "espn_player_id": 258968,
     "name": "Teun Koopmeiners",
     "slug": "teun-koopmeiners",
     "position": "Defensive Midfield",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 460939,
-    "espn_player_id": null,
+    "espn_player_id": 261328,
     "name": "Tijjani Reijnders",
     "slug": "tijjani-reijnders",
     "position": "Central Midfield",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 326330,
-    "espn_player_id": null,
+    "espn_player_id": 219022,
     "name": "Frenkie de Jong",
     "slug": "frenkie-de-jong",
     "position": "Central Midfield",
@@ -639,7 +639,7 @@
   },
   {
     "tm_player_id": 330659,
-    "espn_player_id": null,
+    "espn_player_id": 245916,
     "name": "Justin Kluivert",
     "slug": "justin-kluivert",
     "position": "Attacking Midfield",
@@ -683,7 +683,7 @@
   },
   {
     "tm_player_id": 434675,
-    "espn_player_id": null,
+    "espn_player_id": 249524,
     "name": "Cody Gakpo",
     "slug": "cody-gakpo",
     "position": "Left Winger",
@@ -705,7 +705,7 @@
   },
   {
     "tm_player_id": 339332,
-    "espn_player_id": null,
+    "espn_player_id": 255344,
     "name": "Noa Lang",
     "slug": "noa-lang",
     "position": "Left Winger",
@@ -727,7 +727,7 @@
   },
   {
     "tm_player_id": 473169,
-    "espn_player_id": null,
+    "espn_player_id": 282229,
     "name": "Brian Brobbey",
     "slug": "brian-brobbey",
     "position": "Centre-Forward",
@@ -749,7 +749,7 @@
   },
   {
     "tm_player_id": 326029,
-    "espn_player_id": null,
+    "espn_player_id": 259481,
     "name": "Donyell Malen",
     "slug": "donyell-malen",
     "position": "Centre-Forward",
@@ -793,7 +793,7 @@
   },
   {
     "tm_player_id": 167850,
-    "espn_player_id": null,
+    "espn_player_id": 159255,
     "name": "Memphis Depay",
     "slug": "memphis-depay",
     "position": "Centre-Forward",
@@ -815,7 +815,7 @@
   },
   {
     "tm_player_id": 228645,
-    "espn_player_id": null,
+    "espn_player_id": 177042,
     "name": "Wout Weghorst",
     "slug": "wout-weghorst",
     "position": "Centre-Forward",

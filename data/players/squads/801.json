@@ -8,7 +8,18 @@
     "age": 24,
     "market_value_m": 0.55,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 12,
+      "minutes": 1050,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.086,
+      "form_score": 0.086
+    }
   },
   {
     "tm_player_id": 509914,
@@ -19,7 +30,18 @@
     "age": 27,
     "market_value_m": 0.45,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 10,
+      "minutes": 900,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 177956,
@@ -30,7 +52,18 @@
     "age": 33,
     "market_value_m": 0.25,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 3,
+      "minutes": 205,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 951628,
@@ -41,7 +74,18 @@
     "age": 23,
     "market_value_m": 0.2,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 12,
+      "minutes": 1080,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 447495,
@@ -52,7 +96,18 @@
     "age": 28,
     "market_value_m": 0.175,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 3,
+      "minutes": 270,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1060899,
@@ -63,7 +118,18 @@
     "age": 19,
     "market_value_m": 0.15,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 2,
+      "minutes": 180,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1020855,
@@ -74,7 +140,18 @@
     "age": 21,
     "market_value_m": 0.05,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 509897,
@@ -85,7 +162,18 @@
     "age": 25,
     "market_value_m": 1.7,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2919,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.062,
+      "assists_per_90": 0.031,
+      "form_score": 0.092
+    }
   },
   {
     "tm_player_id": 509894,
@@ -96,7 +184,18 @@
     "age": 27,
     "market_value_m": 1.2,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2730,
+      "goals": 4,
+      "assists": 3,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.132,
+      "assists_per_90": 0.099,
+      "form_score": 0.231
+    }
   },
   {
     "tm_player_id": 264909,
@@ -107,7 +206,18 @@
     "age": 28,
     "market_value_m": 0.75,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 38,
+      "minutes": 1184,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 928499,
@@ -118,7 +228,18 @@
     "age": 22,
     "market_value_m": 0.7,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 10,
+      "minutes": 831,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 265940,
@@ -129,7 +250,18 @@
     "age": 31,
     "market_value_m": 0.6,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 13,
+      "minutes": 800,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.112,
+      "form_score": 0.112
+    }
   },
   {
     "tm_player_id": 901334,
@@ -140,7 +272,18 @@
     "age": 23,
     "market_value_m": 0.45,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 27,
+      "minutes": 1653,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 380205,
@@ -151,7 +294,18 @@
     "age": 25,
     "market_value_m": 0.4,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1890,
+      "goals": 5,
+      "assists": 1,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.238,
+      "assists_per_90": 0.048,
+      "form_score": 0.286
+    }
   },
   {
     "tm_player_id": 1020859,
@@ -162,7 +316,18 @@
     "age": 20,
     "market_value_m": 0.05,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1184,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.076,
+      "assists_per_90": 0.0,
+      "form_score": 0.076
+    }
   },
   {
     "tm_player_id": 735815,
@@ -173,7 +338,18 @@
     "age": 23,
     "market_value_m": 1.0,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 39,
+      "minutes": 1951,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.138,
+      "assists_per_90": 0.092,
+      "form_score": 0.231
+    }
   },
   {
     "tm_player_id": 171915,
@@ -184,7 +360,18 @@
     "age": 32,
     "market_value_m": 0.9,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1366,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 869509,
@@ -195,7 +382,18 @@
     "age": 24,
     "market_value_m": 0.8,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 39,
+      "minutes": 2427,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.074,
+      "assists_per_90": 0.074,
+      "form_score": 0.148
+    }
   },
   {
     "tm_player_id": 888634,
@@ -206,7 +404,18 @@
     "age": 23,
     "market_value_m": 0.5,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 22,
+      "minutes": 827,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.109,
+      "form_score": 0.109
+    }
   },
   {
     "tm_player_id": 970673,
@@ -217,7 +426,18 @@
     "age": 21,
     "market_value_m": 0.5,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 18,
+      "minutes": 426,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.423,
+      "form_score": 0.423
+    }
   },
   {
     "tm_player_id": 260859,
@@ -228,7 +448,18 @@
     "age": 32,
     "market_value_m": 0.375,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2957,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.03,
+      "assists_per_90": 0.03,
+      "form_score": 0.061
+    }
   },
   {
     "tm_player_id": 631927,
@@ -239,7 +470,18 @@
     "age": 25,
     "market_value_m": 4.0,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 31,
+      "minutes": 1838,
+      "goals": 3,
+      "assists": 8,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.147,
+      "assists_per_90": 0.392,
+      "form_score": 0.539
+    }
   },
   {
     "tm_player_id": 229879,
@@ -250,7 +492,18 @@
     "age": 25,
     "market_value_m": 0.7,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 42,
+      "minutes": 3200,
+      "goals": 3,
+      "assists": 10,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.084,
+      "assists_per_90": 0.281,
+      "form_score": 0.366
+    }
   },
   {
     "tm_player_id": 672391,
@@ -261,7 +514,18 @@
     "age": 25,
     "market_value_m": 0.55,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3208,
+      "goals": 1,
+      "assists": 5,
+      "yellows": 7,
+      "reds": 1,
+      "goals_per_90": 0.028,
+      "assists_per_90": 0.14,
+      "form_score": 0.168
+    }
   },
   {
     "tm_player_id": 821377,
@@ -272,7 +536,18 @@
     "age": 25,
     "market_value_m": 0.55,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 46,
+      "minutes": 2870,
+      "goals": 0,
+      "assists": 8,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.251,
+      "form_score": 0.251
+    }
   },
   {
     "tm_player_id": 1181852,
@@ -283,7 +558,18 @@
     "age": 22,
     "market_value_m": 0.55,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2714,
+      "goals": 3,
+      "assists": 8,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.099,
+      "assists_per_90": 0.265,
+      "form_score": 0.365
+    }
   },
   {
     "tm_player_id": 437903,
@@ -294,7 +580,18 @@
     "age": 28,
     "market_value_m": 0.9,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 45,
+      "minutes": 2451,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.037,
+      "assists_per_90": 0.037,
+      "form_score": 0.073
+    }
   },
   {
     "tm_player_id": 901079,
@@ -305,7 +602,18 @@
     "age": 23,
     "market_value_m": 0.55,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2182,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.041,
+      "assists_per_90": 0.041,
+      "form_score": 0.082
+    }
   },
   {
     "tm_player_id": 258911,
@@ -316,7 +624,18 @@
     "age": 27,
     "market_value_m": 0.45,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 33,
+      "minutes": 1932,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.047,
+      "assists_per_90": 0.0,
+      "form_score": 0.047
+    }
   },
   {
     "tm_player_id": 509898,
@@ -327,7 +646,18 @@
     "age": 27,
     "market_value_m": 0.4,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 28,
+      "minutes": 1435,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.063,
+      "form_score": 0.063
+    }
   },
   {
     "tm_player_id": 141805,
@@ -338,7 +668,18 @@
     "age": 27,
     "market_value_m": 0.35,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 34,
+      "minutes": 934,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.193,
+      "form_score": 0.193
+    }
   },
   {
     "tm_player_id": 901082,
@@ -349,7 +690,18 @@
     "age": 23,
     "market_value_m": 2.0,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 20,
+      "minutes": 515,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.175,
+      "assists_per_90": 0.35,
+      "form_score": 0.524
+    }
   },
   {
     "tm_player_id": 901181,
@@ -360,7 +712,18 @@
     "age": 21,
     "market_value_m": 2.0,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2728,
+      "goals": 7,
+      "assists": 12,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.231,
+      "assists_per_90": 0.396,
+      "form_score": 0.627
+    }
   },
   {
     "tm_player_id": 308120,
@@ -371,7 +734,18 @@
     "age": 30,
     "market_value_m": 0.9,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 44,
+      "minutes": 3006,
+      "goals": 5,
+      "assists": 6,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.15,
+      "assists_per_90": 0.18,
+      "form_score": 0.329
+    }
   },
   {
     "tm_player_id": 509911,
@@ -382,7 +756,18 @@
     "age": 26,
     "market_value_m": 0.7,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2077,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.043,
+      "assists_per_90": 0.087,
+      "form_score": 0.13
+    }
   },
   {
     "tm_player_id": 1161121,
@@ -393,7 +778,18 @@
     "age": 23,
     "market_value_m": 0.175,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1292,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.139,
+      "assists_per_90": 0.209,
+      "form_score": 0.348
+    }
   },
   {
     "tm_player_id": 195332,
@@ -404,7 +800,18 @@
     "age": 33,
     "market_value_m": 1.8,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2447,
+      "goals": 10,
+      "assists": 10,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.368,
+      "assists_per_90": 0.368,
+      "form_score": 0.736
+    }
   },
   {
     "tm_player_id": 1057857,
@@ -415,7 +822,18 @@
     "age": 20,
     "market_value_m": 1.2,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1590,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.057,
+      "assists_per_90": 0.057,
+      "form_score": 0.113
+    }
   },
   {
     "tm_player_id": 671043,
@@ -426,7 +844,18 @@
     "age": 23,
     "market_value_m": 0.6,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 34,
+      "minutes": 900,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.3,
+      "assists_per_90": 0.4,
+      "form_score": 0.7
+    }
   },
   {
     "tm_player_id": 31671,
@@ -437,7 +866,18 @@
     "age": 25,
     "market_value_m": 0.55,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 25,
+      "minutes": 779,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.231,
+      "assists_per_90": 0.231,
+      "form_score": 0.462
+    }
   },
   {
     "tm_player_id": 901129,
@@ -448,7 +888,18 @@
     "age": 22,
     "market_value_m": 0.15,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 41,
+      "minutes": 1214,
+      "goals": 4,
+      "assists": 5,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.297,
+      "assists_per_90": 0.371,
+      "form_score": 0.667
+    }
   },
   {
     "tm_player_id": 441191,
@@ -459,7 +910,18 @@
     "age": 29,
     "market_value_m": 0.7,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 22,
+      "minutes": 723,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.124,
+      "assists_per_90": 0.249,
+      "form_score": 0.373
+    }
   },
   {
     "tm_player_id": 210349,
@@ -470,7 +932,18 @@
     "age": 30,
     "market_value_m": 0.4,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 35,
+      "minutes": 1732,
+      "goals": 8,
+      "assists": 6,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.416,
+      "assists_per_90": 0.312,
+      "form_score": 0.727
+    }
   },
   {
     "tm_player_id": 1118034,
@@ -481,7 +954,18 @@
     "age": 20,
     "market_value_m": 0.175,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 32,
+      "minutes": 1669,
+      "goals": 1,
+      "assists": 3,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.054,
+      "assists_per_90": 0.162,
+      "form_score": 0.216
+    }
   },
   {
     "tm_player_id": 1185707,
@@ -492,7 +976,18 @@
     "age": 21,
     "market_value_m": 0.175,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 14,
+      "minutes": 502,
+      "goals": 3,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.538,
+      "assists_per_90": 0.0,
+      "form_score": 0.538
+    }
   },
   {
     "tm_player_id": 631922,
@@ -503,7 +998,18 @@
     "age": 24,
     "market_value_m": 5.0,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 51,
+      "minutes": 2576,
+      "goals": 8,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.28,
+      "assists_per_90": 0.035,
+      "form_score": 0.314
+    }
   },
   {
     "tm_player_id": 242267,
@@ -514,7 +1020,18 @@
     "age": 31,
     "market_value_m": 0.65,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 25,
+      "minutes": 650,
+      "goals": 4,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.554,
+      "assists_per_90": 0.277,
+      "form_score": 0.831
+    }
   },
   {
     "tm_player_id": 270377,
@@ -525,7 +1042,18 @@
     "age": 32,
     "market_value_m": 0.25,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 26,
+      "minutes": 744,
+      "goals": 4,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.484,
+      "assists_per_90": 0.0,
+      "form_score": 0.484
+    }
   },
   {
     "tm_player_id": 68626,
@@ -536,6 +1064,17 @@
     "age": 25,
     "market_value_m": 0.225,
     "fdorg_team_id": 801,
-    "team_name": "Saudi Arabia"
+    "team_name": "Saudi Arabia",
+    "club_season": {
+      "apps": 35,
+      "minutes": 935,
+      "goals": 6,
+      "assists": 3,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.578,
+      "assists_per_90": 0.289,
+      "form_score": 0.866
+    }
   }
 ]

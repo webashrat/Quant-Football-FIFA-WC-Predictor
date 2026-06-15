@@ -8,7 +8,18 @@
     "age": 30,
     "market_value_m": 0.4,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 28,
+      "minutes": 2465,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 206782,
@@ -19,7 +30,18 @@
     "age": 33,
     "market_value_m": 0.35,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2260,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 560952,
@@ -30,7 +52,18 @@
     "age": 28,
     "market_value_m": 0.3,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2821,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 736043,
@@ -41,7 +74,18 @@
     "age": 27,
     "market_value_m": 0.2,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2700,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 716687,
@@ -52,7 +96,18 @@
     "age": 20,
     "market_value_m": 0.15,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2629,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.034,
+      "form_score": 0.034
+    }
   },
   {
     "tm_player_id": 931147,
@@ -63,7 +118,18 @@
     "age": 23,
     "market_value_m": 0.45,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 8,
+      "minutes": 623,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.144,
+      "assists_per_90": 0.0,
+      "form_score": 0.144
+    }
   },
   {
     "tm_player_id": 543435,
@@ -74,7 +140,18 @@
     "age": 24,
     "market_value_m": 0.4,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2763,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.033,
+      "form_score": 0.033
+    }
   },
   {
     "tm_player_id": 945266,
@@ -85,7 +162,18 @@
     "age": 28,
     "market_value_m": 0.4,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2583,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.035,
+      "assists_per_90": 0.0,
+      "form_score": 0.035
+    }
   },
   {
     "tm_player_id": 166460,
@@ -96,7 +184,18 @@
     "age": 31,
     "market_value_m": 0.4,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2822,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.064,
+      "assists_per_90": 0.064,
+      "form_score": 0.128
+    }
   },
   {
     "tm_player_id": 298417,
@@ -107,7 +206,18 @@
     "age": 30,
     "market_value_m": 0.3,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1822,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.049,
+      "assists_per_90": 0.049,
+      "form_score": 0.099
+    }
   },
   {
     "tm_player_id": 933541,
@@ -118,7 +228,18 @@
     "age": 26,
     "market_value_m": 0.25,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2388,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.075,
+      "assists_per_90": 0.0,
+      "form_score": 0.075
+    }
   },
   {
     "tm_player_id": 274615,
@@ -129,7 +250,18 @@
     "age": 30,
     "market_value_m": 0.2,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2088,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.043,
+      "form_score": 0.043
+    }
   },
   {
     "tm_player_id": 217073,
@@ -140,7 +272,18 @@
     "age": 32,
     "market_value_m": 0.1,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 28,
+      "minutes": 2189,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.041,
+      "form_score": 0.041
+    }
   },
   {
     "tm_player_id": 530527,
@@ -151,7 +294,18 @@
     "age": 25,
     "market_value_m": 0.55,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 42,
+      "minutes": 2870,
+      "goals": 1,
+      "assists": 4,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.031,
+      "assists_per_90": 0.125,
+      "form_score": 0.157
+    }
   },
   {
     "tm_player_id": 949320,
@@ -162,7 +316,18 @@
     "age": 29,
     "market_value_m": 0.35,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2594,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.069,
+      "assists_per_90": 0.104,
+      "form_score": 0.173
+    }
   },
   {
     "tm_player_id": 881506,
@@ -173,7 +338,18 @@
     "age": 23,
     "market_value_m": 0.25,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1667,
+      "goals": 5,
+      "assists": 5,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.27,
+      "assists_per_90": 0.27,
+      "form_score": 0.54
+    }
   },
   {
     "tm_player_id": 952341,
@@ -184,7 +360,18 @@
     "age": 23,
     "market_value_m": 0.4,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2391,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.075,
+      "assists_per_90": 0.113,
+      "form_score": 0.188
+    }
   },
   {
     "tm_player_id": 585325,
@@ -195,7 +382,18 @@
     "age": 22,
     "market_value_m": 0.3,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 16,
+      "minutes": 515,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 1,
+      "goals_per_90": 0.35,
+      "assists_per_90": 0.0,
+      "form_score": 0.35
+    }
   },
   {
     "tm_player_id": 1112869,
@@ -206,7 +404,18 @@
     "age": 20,
     "market_value_m": 0.05,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2104,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.043,
+      "assists_per_90": 0.086,
+      "form_score": 0.128
+    }
   },
   {
     "tm_player_id": 1015991,
@@ -217,7 +426,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 5,
+      "minutes": 64,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 303766,
@@ -228,7 +448,18 @@
     "age": 27,
     "market_value_m": 0.6,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2597,
+      "goals": 1,
+      "assists": 4,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.035,
+      "assists_per_90": 0.139,
+      "form_score": 0.173
+    }
   },
   {
     "tm_player_id": 732828,
@@ -239,7 +470,18 @@
     "age": 24,
     "market_value_m": 0.3,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 9,
+      "minutes": 449,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.2,
+      "form_score": 0.2
+    }
   },
   {
     "tm_player_id": 95429,
@@ -250,7 +492,18 @@
     "age": 32,
     "market_value_m": 0.175,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2211,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.041,
+      "assists_per_90": 0.041,
+      "form_score": 0.081
+    }
   },
   {
     "tm_player_id": 1132850,
@@ -261,7 +514,18 @@
     "age": 22,
     "market_value_m": 0.175,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2614,
+      "goals": 4,
+      "assists": 3,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.138,
+      "assists_per_90": 0.103,
+      "form_score": 0.241
+    }
   },
   {
     "tm_player_id": 579294,
@@ -272,7 +536,18 @@
     "age": 22,
     "market_value_m": 1.2,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 11,
+      "minutes": 911,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.099,
+      "assists_per_90": 0.099,
+      "form_score": 0.198
+    }
   },
   {
     "tm_player_id": 686845,
@@ -283,7 +558,18 @@
     "age": 21,
     "market_value_m": 1.0,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 18,
+      "minutes": 864,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.104,
+      "form_score": 0.104
+    }
   },
   {
     "tm_player_id": 295450,
@@ -294,7 +580,18 @@
     "age": 27,
     "market_value_m": 0.85,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2498,
+      "goals": 10,
+      "assists": 6,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.36,
+      "assists_per_90": 0.216,
+      "form_score": 0.576
+    }
   },
   {
     "tm_player_id": 413268,
@@ -305,7 +602,18 @@
     "age": 24,
     "market_value_m": 0.7,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 33,
+      "minutes": 1899,
+      "goals": 4,
+      "assists": 3,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.19,
+      "assists_per_90": 0.142,
+      "form_score": 0.332
+    }
   },
   {
     "tm_player_id": 851569,
@@ -316,7 +624,18 @@
     "age": 26,
     "market_value_m": 0.3,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1391,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.129,
+      "assists_per_90": 0.065,
+      "form_score": 0.194
+    }
   },
   {
     "tm_player_id": 735984,
@@ -327,7 +646,18 @@
     "age": 21,
     "market_value_m": 0.275,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 11,
+      "minutes": 512,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.176,
+      "assists_per_90": 0.0,
+      "form_score": 0.176
+    }
   },
   {
     "tm_player_id": 753817,
@@ -338,7 +668,18 @@
     "age": 30,
     "market_value_m": 0.275,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 29,
+      "minutes": 2384,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.113,
+      "form_score": 0.113
+    }
   },
   {
     "tm_player_id": 560957,
@@ -349,7 +690,18 @@
     "age": 24,
     "market_value_m": 0.65,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1681,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 1,
+      "goals_per_90": 0.054,
+      "assists_per_90": 0.0,
+      "form_score": 0.054
+    }
   },
   {
     "tm_player_id": 295483,
@@ -360,7 +712,18 @@
     "age": 28,
     "market_value_m": 0.6,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 14,
+      "minutes": 803,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.336,
+      "assists_per_90": 0.224,
+      "form_score": 0.56
+    }
   },
   {
     "tm_player_id": 714581,
@@ -371,7 +734,18 @@
     "age": 28,
     "market_value_m": 0.4,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 40,
+      "minutes": 2357,
+      "goals": 3,
+      "assists": 6,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.115,
+      "assists_per_90": 0.229,
+      "form_score": 0.344
+    }
   },
   {
     "tm_player_id": 619087,
@@ -382,7 +756,18 @@
     "age": 26,
     "market_value_m": 0.25,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2062,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.131,
+      "form_score": 0.131
+    }
   },
   {
     "tm_player_id": 663153,
@@ -393,7 +778,18 @@
     "age": 20,
     "market_value_m": 0.8,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 3,
+      "minutes": 95,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 535744,
@@ -404,7 +800,18 @@
     "age": 28,
     "market_value_m": 0.6,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 44,
+      "minutes": 3229,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.056,
+      "assists_per_90": 0.084,
+      "form_score": 0.139
+    }
   },
   {
     "tm_player_id": 684307,
@@ -415,7 +822,18 @@
     "age": 21,
     "market_value_m": 0.5,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 17,
+      "minutes": 710,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.254,
+      "assists_per_90": 0.254,
+      "form_score": 0.507
+    }
   },
   {
     "tm_player_id": 877672,
@@ -426,7 +844,18 @@
     "age": 20,
     "market_value_m": 0.45,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1753,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.205,
+      "assists_per_90": 0.051,
+      "form_score": 0.257
+    }
   },
   {
     "tm_player_id": 295469,
@@ -437,7 +866,18 @@
     "age": 28,
     "market_value_m": 0.4,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1409,
+      "goals": 1,
+      "assists": 3,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.064,
+      "assists_per_90": 0.192,
+      "form_score": 0.256
+    }
   },
   {
     "tm_player_id": 850132,
@@ -448,7 +888,18 @@
     "age": 19,
     "market_value_m": 1.8,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1455,
+      "goals": 4,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.247,
+      "assists_per_90": 0.0,
+      "form_score": 0.247
+    }
   },
   {
     "tm_player_id": 957634,
@@ -459,7 +910,18 @@
     "age": 25,
     "market_value_m": 0.4,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2825,
+      "goals": 13,
+      "assists": 8,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.414,
+      "assists_per_90": 0.255,
+      "form_score": 0.669
+    }
   },
   {
     "tm_player_id": 430824,
@@ -470,7 +932,18 @@
     "age": 24,
     "market_value_m": 0.275,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2676,
+      "goals": 19,
+      "assists": 4,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.639,
+      "assists_per_90": 0.135,
+      "form_score": 0.774
+    }
   },
   {
     "tm_player_id": 610581,
@@ -481,7 +954,18 @@
     "age": 22,
     "market_value_m": 2.5,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 16,
+      "minutes": 542,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.166,
+      "assists_per_90": 0.166,
+      "form_score": 0.332
+    }
   },
   {
     "tm_player_id": 401054,
@@ -492,7 +976,18 @@
     "age": 28,
     "market_value_m": 0.65,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 18,
+      "minutes": 901,
+      "goals": 9,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.899,
+      "assists_per_90": 0.1,
+      "form_score": 0.999
+    }
   },
   {
     "tm_player_id": 589646,
@@ -503,7 +998,18 @@
     "age": 24,
     "market_value_m": 0.6,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1422,
+      "goals": 7,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.443,
+      "assists_per_90": 0.063,
+      "form_score": 0.506
+    }
   },
   {
     "tm_player_id": 576265,
@@ -514,7 +1020,18 @@
     "age": 28,
     "market_value_m": 0.25,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 20,
+      "minutes": 760,
+      "goals": 3,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.355,
+      "assists_per_90": 0.118,
+      "form_score": 0.474
+    }
   },
   {
     "tm_player_id": 651375,
@@ -525,7 +1042,18 @@
     "age": 27,
     "market_value_m": 0.225,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 6,
+      "minutes": 189,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 959330,
@@ -536,6 +1064,17 @@
     "age": 28,
     "market_value_m": 0.125,
     "fdorg_team_id": 8062,
-    "team_name": "Iraq"
+    "team_name": "Iraq",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2520,
+      "goals": 15,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.536,
+      "assists_per_90": 0.071,
+      "form_score": 0.607
+    }
   }
 ]

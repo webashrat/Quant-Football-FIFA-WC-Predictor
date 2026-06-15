@@ -8,7 +8,18 @@
     "age": 32,
     "market_value_m": 1.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 322239,
@@ -19,7 +30,18 @@
     "age": 31,
     "market_value_m": 0.65,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 8,
+      "minutes": 720,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 343044,
@@ -30,7 +52,18 @@
     "age": 29,
     "market_value_m": 0.6,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 22,
+      "minutes": 2010,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 132561,
@@ -41,7 +74,18 @@
     "age": 32,
     "market_value_m": 0.6,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 294764,
@@ -52,7 +96,18 @@
     "age": 28,
     "market_value_m": 0.5,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 10,
+      "minutes": 900,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1030744,
@@ -63,7 +118,18 @@
     "age": 20,
     "market_value_m": 0.3,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 23,
+      "minutes": 2100,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 336363,
@@ -74,7 +140,18 @@
     "age": 27,
     "market_value_m": 0.25,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1740,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 249400,
@@ -85,7 +162,18 @@
     "age": 30,
     "market_value_m": 2.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1602,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.112,
+      "assists_per_90": 0.0,
+      "form_score": 0.112
+    }
   },
   {
     "tm_player_id": 294767,
@@ -96,7 +184,18 @@
     "age": 28,
     "market_value_m": 1.4,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 3,
+      "minutes": 270,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 617937,
@@ -107,7 +206,18 @@
     "age": 21,
     "market_value_m": 1.2,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 385102,
@@ -118,7 +228,18 @@
     "age": 27,
     "market_value_m": 0.8,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 7,
+      "minutes": 507,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1107993,
@@ -129,7 +250,18 @@
     "age": 21,
     "market_value_m": 0.6,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 14,
+      "minutes": 1016,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 527092,
@@ -140,7 +272,18 @@
     "age": 28,
     "market_value_m": 0.6,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1908,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 132563,
@@ -151,7 +294,18 @@
     "age": 32,
     "market_value_m": 0.5,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 14,
+      "minutes": 1092,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.082,
+      "form_score": 0.082
+    }
   },
   {
     "tm_player_id": 424265,
@@ -162,7 +316,18 @@
     "age": 28,
     "market_value_m": 0.275,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1555,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.058,
+      "form_score": 0.058
+    }
   },
   {
     "tm_player_id": 213715,
@@ -173,7 +338,18 @@
     "age": 35,
     "market_value_m": 0.15,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2897,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.031,
+      "assists_per_90": 0.031,
+      "form_score": 0.062
+    }
   },
   {
     "tm_player_id": 333355,
@@ -184,7 +360,18 @@
     "age": 31,
     "market_value_m": 1.2,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1567,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.172,
+      "form_score": 0.172
+    }
   },
   {
     "tm_player_id": 599240,
@@ -195,7 +382,18 @@
     "age": 26,
     "market_value_m": 0.7,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1177,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.076,
+      "assists_per_90": 0.076,
+      "form_score": 0.153
+    }
   },
   {
     "tm_player_id": 450108,
@@ -206,7 +404,18 @@
     "age": 28,
     "market_value_m": 0.5,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2447,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 294778,
@@ -217,7 +426,18 @@
     "age": 28,
     "market_value_m": 0.85,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 17,
+      "minutes": 601,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 333603,
@@ -228,7 +448,18 @@
     "age": 31,
     "market_value_m": 0.75,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 932724,
@@ -239,7 +470,18 @@
     "age": 22,
     "market_value_m": 0.7,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 29,
+      "minutes": 2588,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.07,
+      "assists_per_90": 0.104,
+      "form_score": 0.174
+    }
   },
   {
     "tm_player_id": 697155,
@@ -250,7 +492,18 @@
     "age": 26,
     "market_value_m": 0.55,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2134,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.127,
+      "form_score": 0.127
+    }
   },
   {
     "tm_player_id": 188312,
@@ -261,7 +514,18 @@
     "age": 34,
     "market_value_m": 0.375,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1331,
+      "goals": 2,
+      "assists": 6,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.135,
+      "assists_per_90": 0.406,
+      "form_score": 0.541
+    }
   },
   {
     "tm_player_id": 249271,
@@ -272,7 +536,18 @@
     "age": 28,
     "market_value_m": 1.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2710,
+      "goals": 9,
+      "assists": 2,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.299,
+      "assists_per_90": 0.066,
+      "form_score": 0.365
+    }
   },
   {
     "tm_player_id": 856087,
@@ -283,7 +558,18 @@
     "age": 23,
     "market_value_m": 1.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2213,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 11,
+      "reds": 0,
+      "goals_per_90": 0.041,
+      "assists_per_90": 0.0,
+      "form_score": 0.041
+    }
   },
   {
     "tm_player_id": 273879,
@@ -294,7 +580,18 @@
     "age": 31,
     "market_value_m": 0.65,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1495,
+      "goals": 3,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.181,
+      "assists_per_90": 0.0,
+      "form_score": 0.181
+    }
   },
   {
     "tm_player_id": 332274,
@@ -305,7 +602,18 @@
     "age": 27,
     "market_value_m": 1.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 28,
+      "minutes": 1425,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.063,
+      "form_score": 0.063
+    }
   },
   {
     "tm_player_id": 560057,
@@ -316,7 +624,18 @@
     "age": 28,
     "market_value_m": 1.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 1,
+      "minutes": 22,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 557151,
@@ -327,7 +646,18 @@
     "age": 25,
     "market_value_m": 0.65,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 18,
+      "minutes": 811,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.111,
+      "form_score": 0.111
+    }
   },
   {
     "tm_player_id": 1051591,
@@ -338,7 +668,18 @@
     "age": 18,
     "market_value_m": 0.35,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1972,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 204294,
@@ -349,7 +690,18 @@
     "age": 31,
     "market_value_m": 1.8,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 27,
+      "minutes": 1973,
+      "goals": 5,
+      "assists": 4,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.228,
+      "assists_per_90": 0.182,
+      "form_score": 0.411
+    }
   },
   {
     "tm_player_id": 1030739,
@@ -360,7 +712,18 @@
     "age": 21,
     "market_value_m": 0.9,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2302,
+      "goals": 4,
+      "assists": 3,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.156,
+      "assists_per_90": 0.117,
+      "form_score": 0.274
+    }
   },
   {
     "tm_player_id": 337533,
@@ -371,7 +734,18 @@
     "age": 29,
     "market_value_m": 0.35,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 641852,
@@ -382,7 +756,18 @@
     "age": 27,
     "market_value_m": 0.35,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1130,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.159,
+      "assists_per_90": 0.08,
+      "form_score": 0.239
+    }
   },
   {
     "tm_player_id": 478192,
@@ -393,7 +778,18 @@
     "age": 26,
     "market_value_m": 4.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1583,
+      "goals": 6,
+      "assists": 6,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.341,
+      "assists_per_90": 0.341,
+      "form_score": 0.682
+    }
   },
   {
     "tm_player_id": 603149,
@@ -404,7 +800,18 @@
     "age": 26,
     "market_value_m": 3.5,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 31,
+      "minutes": 1771,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 1,
+      "goals_per_90": 0.152,
+      "assists_per_90": 0.152,
+      "form_score": 0.305
+    }
   },
   {
     "tm_player_id": 480990,
@@ -415,7 +822,18 @@
     "age": 24,
     "market_value_m": 0.4,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2268,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.119,
+      "assists_per_90": 0.159,
+      "form_score": 0.278
+    }
   },
   {
     "tm_player_id": 480975,
@@ -426,7 +844,18 @@
     "age": 23,
     "market_value_m": 4.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2279,
+      "goals": 7,
+      "assists": 5,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.276,
+      "assists_per_90": 0.197,
+      "form_score": 0.474
+    }
   },
   {
     "tm_player_id": 213268,
@@ -437,7 +866,18 @@
     "age": 31,
     "market_value_m": 2.3,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1034,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.087,
+      "assists_per_90": 0.174,
+      "form_score": 0.261
+    }
   },
   {
     "tm_player_id": 294772,
@@ -448,7 +888,18 @@
     "age": 28,
     "market_value_m": 1.5,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1595,
+      "goals": 6,
+      "assists": 4,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.339,
+      "assists_per_90": 0.226,
+      "form_score": 0.564
+    }
   },
   {
     "tm_player_id": 537120,
@@ -459,7 +910,18 @@
     "age": 23,
     "market_value_m": 0.8,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2604,
+      "goals": 5,
+      "assists": 8,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.173,
+      "assists_per_90": 0.276,
+      "form_score": 0.449
+    }
   },
   {
     "tm_player_id": 852412,
@@ -470,7 +932,18 @@
     "age": 24,
     "market_value_m": 0.65,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 16,
+      "minutes": 819,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.11,
+      "assists_per_90": 0.0,
+      "form_score": 0.11
+    }
   },
   {
     "tm_player_id": 455356,
@@ -481,7 +954,18 @@
     "age": 28,
     "market_value_m": 0.5,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2230,
+      "goals": 5,
+      "assists": 2,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.202,
+      "assists_per_90": 0.081,
+      "form_score": 0.283
+    }
   },
   {
     "tm_player_id": 307058,
@@ -492,7 +976,18 @@
     "age": 32,
     "market_value_m": 8.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 39,
+      "minutes": 2123,
+      "goals": 16,
+      "assists": 6,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.678,
+      "assists_per_90": 0.254,
+      "form_score": 0.933
+    }
   },
   {
     "tm_player_id": 180337,
@@ -503,7 +998,18 @@
     "age": 29,
     "market_value_m": 7.5,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 15,
+      "minutes": 571,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.473,
+      "assists_per_90": 0.315,
+      "form_score": 0.788
+    }
   },
   {
     "tm_player_id": 357125,
@@ -514,7 +1020,18 @@
     "age": 30,
     "market_value_m": 1.5,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 27,
+      "minutes": 2073,
+      "goals": 8,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.347,
+      "assists_per_90": 0.087,
+      "form_score": 0.434
+    }
   },
   {
     "tm_player_id": 542380,
@@ -525,7 +1042,18 @@
     "age": 24,
     "market_value_m": 1.0,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2998,
+      "goals": 13,
+      "assists": 7,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.39,
+      "assists_per_90": 0.21,
+      "form_score": 0.6
+    }
   },
   {
     "tm_player_id": 249360,
@@ -536,7 +1064,18 @@
     "age": 29,
     "market_value_m": 0.85,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 23,
+      "minutes": 2068,
+      "goals": 6,
+      "assists": 7,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.261,
+      "assists_per_90": 0.305,
+      "form_score": 0.566
+    }
   },
   {
     "tm_player_id": 469909,
@@ -547,7 +1086,18 @@
     "age": 28,
     "market_value_m": 0.65,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 20,
+      "minutes": 870,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.103,
+      "form_score": 0.103
+    }
   },
   {
     "tm_player_id": 1051589,
@@ -558,6 +1108,17 @@
     "age": 18,
     "market_value_m": 0.1,
     "fdorg_team_id": 840,
-    "team_name": "Iran"
+    "team_name": "Iran",
+    "club_season": {
+      "apps": 7,
+      "minutes": 546,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.659,
+      "assists_per_90": 0.165,
+      "form_score": 0.824
+    }
   }
 ]

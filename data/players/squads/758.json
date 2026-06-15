@@ -8,7 +8,18 @@
     "age": 24,
     "market_value_m": 7.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 10,
+      "minutes": 900,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 264014,
@@ -19,7 +30,18 @@
     "age": 31,
     "market_value_m": 4.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 17,
+      "minutes": 1530,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 320739,
@@ -30,7 +52,18 @@
     "age": 27,
     "market_value_m": 2.5,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1790,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 563089,
@@ -41,7 +74,18 @@
     "age": 26,
     "market_value_m": 1.5,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 17,
+      "minutes": 1530,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1236474,
@@ -52,7 +96,18 @@
     "age": 19,
     "market_value_m": 0.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1339500,
@@ -63,7 +118,18 @@
     "age": 16,
     "market_value_m": 0.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 480267,
@@ -74,7 +140,18 @@
     "age": 25,
     "market_value_m": 55.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 38,
+      "minutes": 1615,
+      "goals": 4,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 1,
+      "goals_per_90": 0.223,
+      "assists_per_90": 0.0,
+      "form_score": 0.223
+    }
   },
   {
     "tm_player_id": 250845,
@@ -85,7 +162,18 @@
     "age": 29,
     "market_value_m": 20.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1521,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.059,
+      "assists_per_90": 0.059,
+      "form_score": 0.118
+    }
   },
   {
     "tm_player_id": 438001,
@@ -96,7 +184,18 @@
     "age": 26,
     "market_value_m": 8.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 34,
+      "minutes": 3003,
+      "goals": 4,
+      "assists": 2,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.12,
+      "assists_per_90": 0.06,
+      "form_score": 0.18
+    }
   },
   {
     "tm_player_id": 532389,
@@ -107,7 +206,18 @@
     "age": 25,
     "market_value_m": 6.5,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2874,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 852980,
@@ -118,7 +228,18 @@
     "age": 23,
     "market_value_m": 3.5,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2657,
+      "goals": 6,
+      "assists": 1,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.203,
+      "assists_per_90": 0.034,
+      "form_score": 0.237
+    }
   },
   {
     "tm_player_id": 1339498,
@@ -129,7 +250,18 @@
     "age": 16,
     "market_value_m": 0.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 8,
+      "minutes": 523,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 376514,
@@ -140,7 +272,18 @@
     "age": 27,
     "market_value_m": 18.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 33,
+      "minutes": 1827,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.099,
+      "form_score": 0.099
+    }
   },
   {
     "tm_player_id": 572675,
@@ -151,7 +294,18 @@
     "age": 24,
     "market_value_m": 14.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 47,
+      "minutes": 3754,
+      "goals": 7,
+      "assists": 6,
+      "yellows": 13,
+      "reds": 0,
+      "goals_per_90": 0.168,
+      "assists_per_90": 0.144,
+      "form_score": 0.312
+    }
   },
   {
     "tm_player_id": 496268,
@@ -162,7 +316,18 @@
     "age": 26,
     "market_value_m": 12.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1221,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.147,
+      "form_score": 0.147
+    }
   },
   {
     "tm_player_id": 439072,
@@ -173,7 +338,18 @@
     "age": 27,
     "market_value_m": 10.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 14,
+      "minutes": 887,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 446106,
@@ -184,7 +360,18 @@
     "age": 24,
     "market_value_m": 8.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2617,
+      "goals": 2,
+      "assists": 9,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.069,
+      "assists_per_90": 0.31,
+      "form_score": 0.378
+    }
   },
   {
     "tm_player_id": 373916,
@@ -195,7 +382,18 @@
     "age": 26,
     "market_value_m": 1.8,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 27,
+      "minutes": 967,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.093,
+      "assists_per_90": 0.186,
+      "form_score": 0.279
+    }
   },
   {
     "tm_player_id": 430339,
@@ -206,7 +404,18 @@
     "age": 27,
     "market_value_m": 2.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1912,
+      "goals": 5,
+      "assists": 4,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.235,
+      "assists_per_90": 0.188,
+      "form_score": 0.424
+    }
   },
   {
     "tm_player_id": 953901,
@@ -217,7 +426,18 @@
     "age": 22,
     "market_value_m": 2.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2917,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 12,
+      "reds": 1,
+      "goals_per_90": 0.031,
+      "assists_per_90": 0.062,
+      "form_score": 0.093
+    }
   },
   {
     "tm_player_id": 188862,
@@ -228,7 +448,18 @@
     "age": 31,
     "market_value_m": 1.5,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1770,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.153,
+      "form_score": 0.153
+    }
   },
   {
     "tm_player_id": 1038224,
@@ -239,7 +470,18 @@
     "age": 20,
     "market_value_m": 0.8,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 14,
+      "minutes": 1088,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 476701,
@@ -250,7 +492,18 @@
     "age": 23,
     "market_value_m": 50.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1005,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 354362,
@@ -261,7 +514,18 @@
     "age": 27,
     "market_value_m": 35.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2549,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.035,
+      "assists_per_90": 0.035,
+      "form_score": 0.071
+    }
   },
   {
     "tm_player_id": 318077,
@@ -272,7 +536,18 @@
     "age": 28,
     "market_value_m": 15.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 46,
+      "minutes": 3408,
+      "goals": 4,
+      "assists": 4,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.106,
+      "assists_per_90": 0.106,
+      "form_score": 0.211
+    }
   },
   {
     "tm_player_id": 707447,
@@ -283,7 +558,18 @@
     "age": 25,
     "market_value_m": 4.5,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 17,
+      "minutes": 757,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 462070,
@@ -294,7 +580,18 @@
     "age": 26,
     "market_value_m": 2.7,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2155,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 11,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 895679,
@@ -305,7 +602,18 @@
     "age": 21,
     "market_value_m": 0.5,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 28,
+      "minutes": 2441,
+      "goals": 6,
+      "assists": 0,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.221,
+      "assists_per_90": 0.0,
+      "form_score": 0.221
+    }
   },
   {
     "tm_player_id": 1339508,
@@ -316,7 +624,18 @@
     "age": 16,
     "market_value_m": 0.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1379676,
@@ -327,7 +646,18 @@
     "age": 16,
     "market_value_m": 0.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 9,
+      "minutes": 230,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.391,
+      "assists_per_90": 0.0,
+      "form_score": 0.391
+    }
   },
   {
     "tm_player_id": 369081,
@@ -338,7 +668,18 @@
     "age": 26,
     "market_value_m": 130.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 49,
+      "minutes": 4158,
+      "goals": 9,
+      "assists": 13,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.195,
+      "assists_per_90": 0.281,
+      "form_score": 0.476
+    }
   },
   {
     "tm_player_id": 397458,
@@ -349,7 +690,18 @@
     "age": 27,
     "market_value_m": 18.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 22,
+      "minutes": 656,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.137,
+      "assists_per_90": 0.137,
+      "form_score": 0.274
+    }
   },
   {
     "tm_player_id": 315063,
@@ -360,7 +712,18 @@
     "age": 29,
     "market_value_m": 4.5,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 36,
+      "minutes": 3202,
+      "goals": 8,
+      "assists": 11,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.225,
+      "assists_per_90": 0.309,
+      "form_score": 0.534
+    }
   },
   {
     "tm_player_id": 606752,
@@ -371,7 +734,18 @@
     "age": 25,
     "market_value_m": 16.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 47,
+      "minutes": 3303,
+      "goals": 23,
+      "assists": 8,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.627,
+      "assists_per_90": 0.218,
+      "form_score": 0.845
+    }
   },
   {
     "tm_player_id": 248410,
@@ -382,7 +756,18 @@
     "age": 30,
     "market_value_m": 14.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1519,
+      "goals": 9,
+      "assists": 5,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.533,
+      "assists_per_90": 0.296,
+      "form_score": 0.829
+    }
   },
   {
     "tm_player_id": 465818,
@@ -393,7 +778,18 @@
     "age": 24,
     "market_value_m": 6.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 42,
+      "minutes": 2761,
+      "goals": 13,
+      "assists": 8,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.424,
+      "assists_per_90": 0.261,
+      "form_score": 0.685
+    }
   },
   {
     "tm_player_id": 1248273,
@@ -404,7 +800,18 @@
     "age": 16,
     "market_value_m": 0.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 2,
+      "minutes": 103,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 465822,
@@ -415,7 +822,18 @@
     "age": 24,
     "market_value_m": 14.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1350,
+      "goals": 1,
+      "assists": 5,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.067,
+      "assists_per_90": 0.333,
+      "form_score": 0.4
+    }
   },
   {
     "tm_player_id": 676318,
@@ -426,7 +844,18 @@
     "age": 23,
     "market_value_m": 10.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1084,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.166,
+      "form_score": 0.166
+    }
   },
   {
     "tm_player_id": 657746,
@@ -437,7 +866,18 @@
     "age": 22,
     "market_value_m": 6.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1367,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.132,
+      "assists_per_90": 0.066,
+      "form_score": 0.198
+    }
   },
   {
     "tm_player_id": 577407,
@@ -448,7 +888,18 @@
     "age": 25,
     "market_value_m": 0.8,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 7,
+      "minutes": 417,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 546543,
@@ -459,7 +910,18 @@
     "age": 25,
     "market_value_m": 65.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1667,
+      "goals": 9,
+      "assists": 5,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.486,
+      "assists_per_90": 0.27,
+      "form_score": 0.756
+    }
   },
   {
     "tm_player_id": 856143,
@@ -470,7 +932,18 @@
     "age": 21,
     "market_value_m": 7.5,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2414,
+      "goals": 6,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.224,
+      "assists_per_90": 0.075,
+      "form_score": 0.298
+    }
   },
   {
     "tm_player_id": 812625,
@@ -481,7 +954,18 @@
     "age": 23,
     "market_value_m": 4.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 25,
+      "minutes": 886,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.406,
+      "assists_per_90": 0.102,
+      "form_score": 0.508
+    }
   },
   {
     "tm_player_id": 578419,
@@ -492,7 +976,18 @@
     "age": 26,
     "market_value_m": 4.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2507,
+      "goals": 9,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.323,
+      "assists_per_90": 0.036,
+      "form_score": 0.359
+    }
   },
   {
     "tm_player_id": 189410,
@@ -503,7 +998,18 @@
     "age": 30,
     "market_value_m": 3.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 41,
+      "minutes": 2639,
+      "goals": 9,
+      "assists": 3,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.307,
+      "assists_per_90": 0.102,
+      "form_score": 0.409
+    }
   },
   {
     "tm_player_id": 1062319,
@@ -514,7 +1020,18 @@
     "age": 18,
     "market_value_m": 0.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 6,
+      "minutes": 205,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.439,
+      "form_score": 0.439
+    }
   },
   {
     "tm_player_id": 1339511,
@@ -525,6 +1042,17 @@
     "age": 16,
     "market_value_m": 0.0,
     "fdorg_team_id": 758,
-    "team_name": "Uruguay"
+    "team_name": "Uruguay",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1254,
+      "goals": 1,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.072,
+      "assists_per_90": 0.215,
+      "form_score": 0.287
+    }
   }
 ]

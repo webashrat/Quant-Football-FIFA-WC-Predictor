@@ -8,7 +8,18 @@
     "age": 28,
     "market_value_m": 0.5,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 1,
+      "minutes": 69,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 617009,
@@ -19,7 +30,18 @@
     "age": 22,
     "market_value_m": 0.45,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 27,
+      "minutes": 2460,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 207843,
@@ -30,7 +52,18 @@
     "age": 31,
     "market_value_m": 0.225,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2250,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 733234,
@@ -41,7 +74,18 @@
     "age": 21,
     "market_value_m": 0.2,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 6,
+      "minutes": 540,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 363901,
@@ -52,7 +96,18 @@
     "age": 28,
     "market_value_m": 0.125,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1395,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 877945,
@@ -63,7 +118,18 @@
     "age": 19,
     "market_value_m": 0.1,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1974,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1007720,
@@ -74,7 +140,18 @@
     "age": 19,
     "market_value_m": 1.0,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2063,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.044,
+      "assists_per_90": 0.0,
+      "form_score": 0.044
+    }
   },
   {
     "tm_player_id": 172333,
@@ -85,7 +162,18 @@
     "age": 29,
     "market_value_m": 0.5,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 14,
+      "minutes": 1073,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.084,
+      "assists_per_90": 0.0,
+      "form_score": 0.084
+    }
   },
   {
     "tm_player_id": 724809,
@@ -96,7 +184,18 @@
     "age": 21,
     "market_value_m": 0.5,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 14,
+      "minutes": 1215,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.074,
+      "form_score": 0.074
+    }
   },
   {
     "tm_player_id": 81723,
@@ -107,7 +206,18 @@
     "age": 36,
     "market_value_m": 0.2,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 7,
+      "minutes": 397,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 455425,
@@ -118,7 +228,18 @@
     "age": 25,
     "market_value_m": 0.15,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 17,
+      "minutes": 968,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 509709,
@@ -129,7 +250,18 @@
     "age": 24,
     "market_value_m": 0.125,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2162,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.083,
+      "assists_per_90": 0.0,
+      "form_score": 0.083
+    }
   },
   {
     "tm_player_id": 54381,
@@ -140,7 +272,18 @@
     "age": 34,
     "market_value_m": 0.1,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1398,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.064,
+      "form_score": 0.064
+    }
   },
   {
     "tm_player_id": 469211,
@@ -151,7 +294,18 @@
     "age": 24,
     "market_value_m": 2.0,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 13,
+      "minutes": 782,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.115,
+      "assists_per_90": 0.0,
+      "form_score": 0.115
+    }
   },
   {
     "tm_player_id": 617021,
@@ -162,7 +316,18 @@
     "age": 22,
     "market_value_m": 0.8,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2239,
+      "goals": 5,
+      "assists": 3,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.201,
+      "assists_per_90": 0.121,
+      "form_score": 0.322
+    }
   },
   {
     "tm_player_id": 207061,
@@ -173,7 +338,18 @@
     "age": 30,
     "market_value_m": 0.375,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2023,
+      "goals": 1,
+      "assists": 7,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.044,
+      "assists_per_90": 0.311,
+      "form_score": 0.356
+    }
   },
   {
     "tm_player_id": 345343,
@@ -184,7 +360,18 @@
     "age": 26,
     "market_value_m": 0.3,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 24,
+      "minutes": 2064,
+      "goals": 1,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.044,
+      "assists_per_90": 0.131,
+      "form_score": 0.174
+    }
   },
   {
     "tm_player_id": 877290,
@@ -195,7 +382,18 @@
     "age": 19,
     "market_value_m": 0.275,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1279,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 149901,
@@ -206,7 +404,18 @@
     "age": 30,
     "market_value_m": 0.45,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 14,
+      "minutes": 868,
+      "goals": 0,
+      "assists": 5,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.518,
+      "form_score": 0.518
+    }
   },
   {
     "tm_player_id": 175699,
@@ -217,7 +426,18 @@
     "age": 31,
     "market_value_m": 0.35,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2024,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.044,
+      "assists_per_90": 0.044,
+      "form_score": 0.089
+    }
   },
   {
     "tm_player_id": 482204,
@@ -228,7 +448,18 @@
     "age": 25,
     "market_value_m": 0.3,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 27,
+      "minutes": 1744,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.052,
+      "form_score": 0.052
+    }
   },
   {
     "tm_player_id": 345700,
@@ -239,7 +470,18 @@
     "age": 25,
     "market_value_m": 1.7,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 10,
+      "minutes": 853,
+      "goals": 0,
+      "assists": 4,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.422,
+      "form_score": 0.422
+    }
   },
   {
     "tm_player_id": 256019,
@@ -250,7 +492,18 @@
     "age": 28,
     "market_value_m": 0.6,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 23,
+      "minutes": 2044,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.088,
+      "assists_per_90": 0.044,
+      "form_score": 0.132
+    }
   },
   {
     "tm_player_id": 203357,
@@ -261,7 +514,18 @@
     "age": 30,
     "market_value_m": 0.6,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 28,
+      "minutes": 2168,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.042,
+      "assists_per_90": 0.042,
+      "form_score": 0.083
+    }
   },
   {
     "tm_player_id": 617018,
@@ -272,7 +536,18 @@
     "age": 22,
     "market_value_m": 4.5,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2644,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 13,
+      "reds": 0,
+      "goals_per_90": 0.102,
+      "assists_per_90": 0.102,
+      "form_score": 0.204
+    }
   },
   {
     "tm_player_id": 617019,
@@ -283,7 +558,18 @@
     "age": 22,
     "market_value_m": 0.55,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2268,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.119,
+      "assists_per_90": 0.079,
+      "form_score": 0.198
+    }
   },
   {
     "tm_player_id": 400799,
@@ -294,7 +580,18 @@
     "age": 26,
     "market_value_m": 0.0,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 13,
+      "minutes": 984,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.183,
+      "assists_per_90": 0.0,
+      "form_score": 0.183
+    }
   },
   {
     "tm_player_id": 400797,
@@ -305,7 +602,18 @@
     "age": 25,
     "market_value_m": 0.8,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2869,
+      "goals": 12,
+      "assists": 5,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.376,
+      "assists_per_90": 0.157,
+      "form_score": 0.533
+    }
   },
   {
     "tm_player_id": 264903,
@@ -316,7 +624,18 @@
     "age": 28,
     "market_value_m": 0.65,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 33,
+      "minutes": 1768,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.204,
+      "assists_per_90": 0.051,
+      "form_score": 0.255
+    }
   },
   {
     "tm_player_id": 350357,
@@ -327,7 +646,18 @@
     "age": 25,
     "market_value_m": 0.3,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1051,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.171,
+      "assists_per_90": 0.086,
+      "form_score": 0.257
+    }
   },
   {
     "tm_player_id": 1225803,
@@ -338,7 +668,18 @@
     "age": 16,
     "market_value_m": 0.05,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 19,
+      "minutes": 389,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.463,
+      "form_score": 0.463
+    }
   },
   {
     "tm_player_id": 677509,
@@ -349,7 +690,18 @@
     "age": 22,
     "market_value_m": 0.25,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2477,
+      "goals": 9,
+      "assists": 8,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.327,
+      "assists_per_90": 0.291,
+      "form_score": 0.618
+    }
   },
   {
     "tm_player_id": 485672,
@@ -360,7 +712,18 @@
     "age": 24,
     "market_value_m": 0.3,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3215,
+      "goals": 7,
+      "assists": 8,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.196,
+      "assists_per_90": 0.224,
+      "form_score": 0.42
+    }
   },
   {
     "tm_player_id": 312317,
@@ -371,7 +734,18 @@
     "age": 26,
     "market_value_m": 0.2,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 28,
+      "minutes": 1329,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.135,
+      "assists_per_90": 0.068,
+      "form_score": 0.203
+    }
   },
   {
     "tm_player_id": 108725,
@@ -382,7 +756,18 @@
     "age": 33,
     "market_value_m": 7.0,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1189,
+      "goals": 6,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.454,
+      "assists_per_90": 0.0,
+      "form_score": 0.454
+    }
   },
   {
     "tm_player_id": 539502,
@@ -393,7 +778,18 @@
     "age": 23,
     "market_value_m": 0.6,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 37,
+      "minutes": 1935,
+      "goals": 8,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.372,
+      "assists_per_90": 0.047,
+      "form_score": 0.419
+    }
   },
   {
     "tm_player_id": 50200,
@@ -404,6 +800,17 @@
     "age": 34,
     "market_value_m": 0.4,
     "fdorg_team_id": 783,
-    "team_name": "New Zealand"
+    "team_name": "New Zealand",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1334,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.27,
+      "assists_per_90": 0.067,
+      "form_score": 0.337
+    }
   }
 ]

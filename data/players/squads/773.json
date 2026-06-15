@@ -8,7 +8,18 @@
     "age": 29,
     "market_value_m": 35.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 41,
+      "minutes": 3656,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 463600,
@@ -19,7 +30,18 @@
     "age": 23,
     "market_value_m": 30.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2340,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 191056,
@@ -30,7 +52,18 @@
     "age": 30,
     "market_value_m": 15.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 34,
+      "minutes": 3060,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 495666,
@@ -41,7 +74,18 @@
     "age": 23,
     "market_value_m": 80.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 50,
+      "minutes": 4254,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.021,
+      "assists_per_90": 0.021,
+      "form_score": 0.042
+    }
   },
   {
     "tm_player_id": 344695,
@@ -52,7 +96,18 @@
     "age": 26,
     "market_value_m": 50.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 42,
+      "minutes": 3341,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.054,
+      "assists_per_90": 0.081,
+      "form_score": 0.135
+    }
   },
   {
     "tm_player_id": 357119,
@@ -63,7 +118,18 @@
     "age": 25,
     "market_value_m": 50.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 51,
+      "minutes": 4280,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.042,
+      "assists_per_90": 0.0,
+      "form_score": 0.042
+    }
   },
   {
     "tm_player_id": 353366,
@@ -74,7 +140,18 @@
     "age": 28,
     "market_value_m": 40.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2820,
+      "goals": 1,
+      "assists": 3,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.032,
+      "assists_per_90": 0.096,
+      "form_score": 0.128
+    }
   },
   {
     "tm_player_id": 585949,
@@ -85,7 +162,18 @@
     "age": 24,
     "market_value_m": 26.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 49,
+      "minutes": 4381,
+      "goals": 2,
+      "assists": 7,
+      "yellows": 2,
+      "reds": 1,
+      "goals_per_90": 0.041,
+      "assists_per_90": 0.144,
+      "form_score": 0.185
+    }
   },
   {
     "tm_player_id": 730581,
@@ -96,7 +184,18 @@
     "age": 24,
     "market_value_m": 25.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2382,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 182904,
@@ -107,7 +206,18 @@
     "age": 29,
     "market_value_m": 7.5,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1694,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.053,
+      "form_score": 0.053
+    }
   },
   {
     "tm_player_id": 339808,
@@ -118,7 +228,18 @@
     "age": 27,
     "market_value_m": 50.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 44,
+      "minutes": 3807,
+      "goals": 9,
+      "assists": 6,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.213,
+      "assists_per_90": 0.142,
+      "form_score": 0.355
+    }
   },
   {
     "tm_player_id": 281963,
@@ -129,7 +250,18 @@
     "age": 28,
     "market_value_m": 32.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2071,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.13,
+      "form_score": 0.13
+    }
   },
   {
     "tm_player_id": 126664,
@@ -140,7 +272,18 @@
     "age": 31,
     "market_value_m": 12.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 44,
+      "minutes": 2771,
+      "goals": 0,
+      "assists": 7,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.227,
+      "form_score": 0.227
+    }
   },
   {
     "tm_player_id": 411975,
@@ -151,7 +294,18 @@
     "age": 26,
     "market_value_m": 60.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 47,
+      "minutes": 3529,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.077,
+      "assists_per_90": 0.102,
+      "form_score": 0.179
+    }
   },
   {
     "tm_player_id": 620322,
@@ -162,7 +316,18 @@
     "age": 21,
     "market_value_m": 35.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 49,
+      "minutes": 3305,
+      "goals": 3,
+      "assists": 5,
+      "yellows": 5,
+      "reds": 1,
+      "goals_per_90": 0.082,
+      "assists_per_90": 0.136,
+      "form_score": 0.218
+    }
   },
   {
     "tm_player_id": 175639,
@@ -173,7 +338,18 @@
     "age": 32,
     "market_value_m": 6.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 46,
+      "minutes": 3642,
+      "goals": 2,
+      "assists": 12,
+      "yellows": 2,
+      "reds": 1,
+      "goals_per_90": 0.049,
+      "assists_per_90": 0.297,
+      "form_score": 0.346
+    }
   },
   {
     "tm_player_id": 413112,
@@ -184,7 +360,18 @@
     "age": 24,
     "market_value_m": 80.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 49,
+      "minutes": 3941,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 11,
+      "reds": 0,
+      "goals_per_90": 0.046,
+      "assists_per_90": 0.046,
+      "form_score": 0.091
+    }
   },
   {
     "tm_player_id": 225083,
@@ -195,7 +382,18 @@
     "age": 33,
     "market_value_m": 7.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 44,
+      "minutes": 3787,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.095,
+      "assists_per_90": 0.024,
+      "form_score": 0.119
+    }
   },
   {
     "tm_player_id": 640428,
@@ -206,7 +404,18 @@
     "age": 22,
     "market_value_m": 80.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 43,
+      "minutes": 2199,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 1,
+      "goals_per_90": 0.082,
+      "assists_per_90": 0.041,
+      "form_score": 0.123
+    }
   },
   {
     "tm_player_id": 810092,
@@ -217,7 +426,18 @@
     "age": 18,
     "market_value_m": 60.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 54,
+      "minutes": 4224,
+      "goals": 3,
+      "assists": 5,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.064,
+      "assists_per_90": 0.107,
+      "form_score": 0.17
+    }
   },
   {
     "tm_player_id": 463618,
@@ -228,7 +448,18 @@
     "age": 23,
     "market_value_m": 35.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 45,
+      "minutes": 3136,
+      "goals": 4,
+      "assists": 5,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.115,
+      "assists_per_90": 0.143,
+      "form_score": 0.258
+    }
   },
   {
     "tm_player_id": 465830,
@@ -239,7 +470,18 @@
     "age": 25,
     "market_value_m": 32.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 39,
+      "minutes": 3389,
+      "goals": 4,
+      "assists": 2,
+      "yellows": 11,
+      "reds": 0,
+      "goals_per_90": 0.106,
+      "assists_per_90": 0.053,
+      "form_score": 0.159
+    }
   },
   {
     "tm_player_id": 624690,
@@ -250,7 +492,18 @@
     "age": 23,
     "market_value_m": 26.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2758,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.065,
+      "assists_per_90": 0.098,
+      "form_score": 0.163
+    }
   },
   {
     "tm_player_id": 182913,
@@ -261,7 +514,18 @@
     "age": 29,
     "market_value_m": 25.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2910,
+      "goals": 6,
+      "assists": 5,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.186,
+      "assists_per_90": 0.155,
+      "form_score": 0.34
+    }
   },
   {
     "tm_player_id": 607223,
@@ -272,7 +536,18 @@
     "age": 21,
     "market_value_m": 30.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 52,
+      "minutes": 2854,
+      "goals": 10,
+      "assists": 15,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.315,
+      "assists_per_90": 0.473,
+      "form_score": 0.788
+    }
   },
   {
     "tm_player_id": 708265,
@@ -283,7 +558,18 @@
     "age": 22,
     "market_value_m": 65.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 49,
+      "minutes": 2971,
+      "goals": 13,
+      "assists": 7,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.394,
+      "assists_per_90": 0.212,
+      "form_score": 0.606
+    }
   },
   {
     "tm_player_id": 243714,
@@ -294,7 +580,18 @@
     "age": 28,
     "market_value_m": 35.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 41,
+      "minutes": 3177,
+      "goals": 16,
+      "assists": 12,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.453,
+      "assists_per_90": 0.34,
+      "form_score": 0.793
+    }
   },
   {
     "tm_player_id": 566723,
@@ -305,7 +602,18 @@
     "age": 23,
     "market_value_m": 65.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 52,
+      "minutes": 4015,
+      "goals": 22,
+      "assists": 31,
+      "yellows": 12,
+      "reds": 0,
+      "goals_per_90": 0.493,
+      "assists_per_90": 0.695,
+      "form_score": 1.188
+    }
   },
   {
     "tm_player_id": 914562,
@@ -316,7 +624,18 @@
     "age": 19,
     "market_value_m": 40.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 41,
+      "minutes": 2558,
+      "goals": 13,
+      "assists": 11,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.457,
+      "assists_per_90": 0.387,
+      "form_score": 0.844
+    }
   },
   {
     "tm_player_id": 745200,
@@ -327,7 +646,18 @@
     "age": 22,
     "market_value_m": 40.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3425,
+      "goals": 7,
+      "assists": 11,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.184,
+      "assists_per_90": 0.289,
+      "form_score": 0.473
+    }
   },
   {
     "tm_player_id": 184892,
@@ -338,7 +668,18 @@
     "age": 31,
     "market_value_m": 5.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2714,
+      "goals": 14,
+      "assists": 10,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.464,
+      "assists_per_90": 0.332,
+      "form_score": 0.796
+    }
   },
   {
     "tm_player_id": 342229,
@@ -349,7 +690,18 @@
     "age": 26,
     "market_value_m": 160.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 44,
+      "minutes": 3621,
+      "goals": 42,
+      "assists": 7,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 1.044,
+      "assists_per_90": 0.174,
+      "form_score": 1.218
+    }
   },
   {
     "tm_player_id": 318528,
@@ -360,7 +712,18 @@
     "age": 27,
     "market_value_m": 75.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 44,
+      "minutes": 2881,
+      "goals": 18,
+      "assists": 9,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.562,
+      "assists_per_90": 0.281,
+      "form_score": 0.843
+    }
   },
   {
     "tm_player_id": 288230,
@@ -371,7 +734,18 @@
     "age": 27,
     "market_value_m": 55.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 40,
+      "minutes": 2200,
+      "goals": 20,
+      "assists": 11,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.818,
+      "assists_per_90": 0.45,
+      "form_score": 1.268
+    }
   },
   {
     "tm_player_id": 344381,
@@ -382,7 +756,18 @@
     "age": 27,
     "market_value_m": 50.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 35,
+      "minutes": 1528,
+      "goals": 8,
+      "assists": 3,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.471,
+      "assists_per_90": 0.177,
+      "form_score": 0.648
+    }
   },
   {
     "tm_player_id": 709726,
@@ -393,7 +778,18 @@
     "age": 22,
     "market_value_m": 40.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 45,
+      "minutes": 2872,
+      "goals": 17,
+      "assists": 6,
+      "yellows": 1,
+      "reds": 1,
+      "goals_per_90": 0.533,
+      "assists_per_90": 0.188,
+      "form_score": 0.721
+    }
   },
   {
     "tm_player_id": 487969,
@@ -404,7 +800,18 @@
     "age": 26,
     "market_value_m": 30.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 41,
+      "minutes": 2203,
+      "goals": 5,
+      "assists": 4,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.204,
+      "assists_per_90": 0.163,
+      "form_score": 0.368
+    }
   },
   {
     "tm_player_id": 420002,
@@ -415,6 +822,17 @@
     "age": 27,
     "market_value_m": 20.0,
     "fdorg_team_id": 773,
-    "team_name": "France"
+    "team_name": "France",
+    "club_season": {
+      "apps": 50,
+      "minutes": 3400,
+      "goals": 16,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.424,
+      "assists_per_90": 0.079,
+      "form_score": 0.503
+    }
   }
 ]

@@ -8,7 +8,18 @@
     "age": 25,
     "market_value_m": 9.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 38,
+      "minutes": 3420,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 442531,
@@ -19,7 +30,18 @@
     "age": 32,
     "market_value_m": 6.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 41,
+      "minutes": 3810,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 164904,
@@ -30,7 +52,18 @@
     "age": 31,
     "market_value_m": 1.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2655,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.034,
+      "form_score": 0.034
+    }
   },
   {
     "tm_player_id": 639043,
@@ -41,7 +74,18 @@
     "age": 32,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 14,
+      "minutes": 1260,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 936677,
@@ -52,7 +96,18 @@
     "age": 26,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1429603,
@@ -63,7 +118,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 24,
+      "minutes": 2126,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 291200,
@@ -74,7 +140,18 @@
     "age": 28,
     "market_value_m": 15.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3677,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.024,
+      "assists_per_90": 0.049,
+      "form_score": 0.073
+    }
   },
   {
     "tm_player_id": 910905,
@@ -85,7 +162,18 @@
     "age": 19,
     "market_value_m": 8.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1869,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 93128,
@@ -96,7 +184,18 @@
     "age": 33,
     "market_value_m": 8.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2336,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.077,
+      "assists_per_90": 0.077,
+      "form_score": 0.154
+    }
   },
   {
     "tm_player_id": 229005,
@@ -107,7 +206,18 @@
     "age": 28,
     "market_value_m": 6.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1145,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.157,
+      "form_score": 0.157
+    }
   },
   {
     "tm_player_id": 891998,
@@ -118,7 +228,18 @@
     "age": 20,
     "market_value_m": 3.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 40,
+      "minutes": 3231,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.056,
+      "assists_per_90": 0.028,
+      "form_score": 0.084
+    }
   },
   {
     "tm_player_id": 649026,
@@ -129,7 +250,18 @@
     "age": 24,
     "market_value_m": 1.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2986,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.03,
+      "form_score": 0.03
+    }
   },
   {
     "tm_player_id": 265383,
@@ -140,7 +272,18 @@
     "age": 32,
     "market_value_m": 0.7,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2713,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.1,
+      "assists_per_90": 0.066,
+      "form_score": 0.166
+    }
   },
   {
     "tm_player_id": 1302546,
@@ -151,7 +294,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1862,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.048,
+      "form_score": 0.048
+    }
   },
   {
     "tm_player_id": 1429606,
@@ -162,7 +316,18 @@
     "age": 23,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1839,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1435769,
@@ -173,7 +338,18 @@
     "age": 19,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 9,
+      "minutes": 114,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1111589,
@@ -184,7 +360,18 @@
     "age": 20,
     "market_value_m": 16.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2906,
+      "goals": 0,
+      "assists": 5,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.155,
+      "form_score": 0.155
+    }
   },
   {
     "tm_player_id": 375137,
@@ -195,7 +382,18 @@
     "age": 25,
     "market_value_m": 8.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 39,
+      "minutes": 2275,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.04,
+      "form_score": 0.04
+    }
   },
   {
     "tm_player_id": 649022,
@@ -206,7 +404,18 @@
     "age": 22,
     "market_value_m": 3.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2376,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.076,
+      "form_score": 0.076
+    }
   },
   {
     "tm_player_id": 718337,
@@ -217,7 +426,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1270173,
@@ -228,7 +448,18 @@
     "age": 24,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1033,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.174,
+      "assists_per_90": 0.0,
+      "form_score": 0.174
+    }
   },
   {
     "tm_player_id": 1429607,
@@ -239,7 +470,18 @@
     "age": 19,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 2,
+      "minutes": 180,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 570781,
@@ -250,7 +492,18 @@
     "age": 21,
     "market_value_m": 3.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1590,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.113,
+      "assists_per_90": 0.113,
+      "form_score": 0.226
+    }
   },
   {
     "tm_player_id": 1429605,
@@ -261,7 +514,18 @@
     "age": 22,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 10,
+      "minutes": 472,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 649033,
@@ -272,7 +536,18 @@
     "age": 22,
     "market_value_m": 6.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2246,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 12,
+      "reds": 0,
+      "goals_per_90": 0.12,
+      "assists_per_90": 0.12,
+      "form_score": 0.24
+    }
   },
   {
     "tm_player_id": 111051,
@@ -283,7 +558,18 @@
     "age": 32,
     "market_value_m": 2.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1616,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 126665,
@@ -294,7 +580,18 @@
     "age": 35,
     "market_value_m": 2.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2102,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.086,
+      "assists_per_90": 0.128,
+      "form_score": 0.214
+    }
   },
   {
     "tm_player_id": 644032,
@@ -305,7 +602,18 @@
     "age": 24,
     "market_value_m": 1.5,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1121,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.08,
+      "form_score": 0.08
+    }
   },
   {
     "tm_player_id": 776215,
@@ -316,7 +624,18 @@
     "age": 21,
     "market_value_m": 0.75,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 15,
+      "minutes": 1256,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.143,
+      "form_score": 0.143
+    }
   },
   {
     "tm_player_id": 1173015,
@@ -327,7 +646,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1332484,
@@ -338,7 +668,18 @@
     "age": 23,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1767,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1429609,
@@ -349,7 +690,18 @@
     "age": 22,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1488,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.242,
+      "assists_per_90": 0.06,
+      "form_score": 0.302
+    }
   },
   {
     "tm_player_id": 568693,
@@ -360,7 +712,18 @@
     "age": 22,
     "market_value_m": 45.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2212,
+      "goals": 2,
+      "assists": 4,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.081,
+      "assists_per_90": 0.163,
+      "form_score": 0.244
+    }
   },
   {
     "tm_player_id": 918969,
@@ -371,7 +734,18 @@
     "age": 20,
     "market_value_m": 20.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2457,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.11,
+      "assists_per_90": 0.147,
+      "form_score": 0.256
+    }
   },
   {
     "tm_player_id": 876631,
@@ -382,7 +756,18 @@
     "age": 20,
     "market_value_m": 20.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1563,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.173,
+      "assists_per_90": 0.173,
+      "form_score": 0.345
+    }
   },
   {
     "tm_player_id": 485963,
@@ -393,7 +778,18 @@
     "age": 25,
     "market_value_m": 8.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 39,
+      "minutes": 2834,
+      "goals": 5,
+      "assists": 2,
+      "yellows": 12,
+      "reds": 0,
+      "goals_per_90": 0.159,
+      "assists_per_90": 0.064,
+      "form_score": 0.222
+    }
   },
   {
     "tm_player_id": 662242,
@@ -404,7 +800,18 @@
     "age": 23,
     "market_value_m": 2.5,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2667,
+      "goals": 4,
+      "assists": 4,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.135,
+      "assists_per_90": 0.135,
+      "form_score": 0.27
+    }
   },
   {
     "tm_player_id": 525578,
@@ -415,7 +822,18 @@
     "age": 30,
     "market_value_m": 2.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3119,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 14,
+      "reds": 0,
+      "goals_per_90": 0.058,
+      "assists_per_90": 0.087,
+      "form_score": 0.144
+    }
   },
   {
     "tm_player_id": 972589,
@@ -426,7 +844,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 28,
+      "minutes": 2424,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.111,
+      "assists_per_90": 0.149,
+      "form_score": 0.26
+    }
   },
   {
     "tm_player_id": 1401774,
@@ -437,7 +866,18 @@
     "age": 17,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 21,
+      "minutes": 792,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.114,
+      "assists_per_90": 0.114,
+      "form_score": 0.227
+    }
   },
   {
     "tm_player_id": 1429608,
@@ -448,7 +888,18 @@
     "age": 15,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 10,
+      "minutes": 732,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 490426,
@@ -459,7 +910,18 @@
     "age": 25,
     "market_value_m": 10.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1235,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.146,
+      "form_score": 0.146
+    }
   },
   {
     "tm_player_id": 936705,
@@ -470,7 +932,18 @@
     "age": 28,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 12,
+      "minutes": 765,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 666983,
@@ -481,7 +954,18 @@
     "age": 22,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 17,
+      "minutes": 914,
+      "goals": 4,
+      "assists": 2,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.394,
+      "assists_per_90": 0.197,
+      "form_score": 0.591
+    }
   },
   {
     "tm_player_id": 1429593,
@@ -492,7 +976,18 @@
     "age": 20,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2071,
+      "goals": 7,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.304,
+      "assists_per_90": 0.0,
+      "form_score": 0.304
+    }
   },
   {
     "tm_player_id": 1429594,
@@ -503,7 +998,18 @@
     "age": 18,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 21,
+      "minutes": 741,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.121,
+      "form_score": 0.121
+    }
   },
   {
     "tm_player_id": 776798,
@@ -514,7 +1020,18 @@
     "age": 23,
     "market_value_m": 10.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 27,
+      "minutes": 982,
+      "goals": 7,
+      "assists": 3,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.642,
+      "assists_per_90": 0.275,
+      "form_score": 0.916
+    }
   },
   {
     "tm_player_id": 1061282,
@@ -525,7 +1042,18 @@
     "age": 19,
     "market_value_m": 9.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1157,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.156,
+      "assists_per_90": 0.078,
+      "form_score": 0.233
+    }
   },
   {
     "tm_player_id": 200512,
@@ -536,7 +1064,18 @@
     "age": 32,
     "market_value_m": 9.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 568696,
@@ -547,7 +1086,18 @@
     "age": 25,
     "market_value_m": 3.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1466,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.123,
+      "assists_per_90": 0.184,
+      "form_score": 0.307
+    }
   },
   {
     "tm_player_id": 996928,
@@ -558,7 +1108,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1302642,
@@ -569,7 +1130,18 @@
     "age": 22,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 5,
+      "minutes": 161,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 410225,
@@ -580,7 +1152,18 @@
     "age": 26,
     "market_value_m": 20.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 45,
+      "minutes": 3612,
+      "goals": 21,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.523,
+      "assists_per_90": 0.05,
+      "form_score": 0.573
+    }
   },
   {
     "tm_player_id": 623570,
@@ -591,7 +1174,18 @@
     "age": 24,
     "market_value_m": 18.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2833,
+      "goals": 6,
+      "assists": 3,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.191,
+      "assists_per_90": 0.095,
+      "form_score": 0.286
+    }
   },
   {
     "tm_player_id": 1185888,
@@ -602,7 +1196,18 @@
     "age": 16,
     "market_value_m": 2.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 31,
+      "minutes": 1242,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.217,
+      "assists_per_90": 0.145,
+      "form_score": 0.362
+    }
   },
   {
     "tm_player_id": 1429612,
@@ -613,7 +1218,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1364,
+      "goals": 2,
+      "assists": 4,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.132,
+      "assists_per_90": 0.264,
+      "form_score": 0.396
+    }
   },
   {
     "tm_player_id": 776890,
@@ -624,7 +1240,18 @@
     "age": 23,
     "market_value_m": 55.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 34,
+      "minutes": 1320,
+      "goals": 11,
+      "assists": 4,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.75,
+      "assists_per_90": 0.273,
+      "form_score": 1.023
+    }
   },
   {
     "tm_player_id": 626913,
@@ -635,7 +1262,18 @@
     "age": 28,
     "market_value_m": 15.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 30,
+      "minutes": 1311,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.137,
+      "assists_per_90": 0.137,
+      "form_score": 0.275
+    }
   },
   {
     "tm_player_id": 344888,
@@ -646,7 +1284,18 @@
     "age": 29,
     "market_value_m": 8.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1911,
+      "goals": 4,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.188,
+      "assists_per_90": 0.094,
+      "form_score": 0.283
+    }
   },
   {
     "tm_player_id": 480705,
@@ -657,7 +1306,18 @@
     "age": 28,
     "market_value_m": 4.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2284,
+      "goals": 13,
+      "assists": 5,
+      "yellows": 2,
+      "reds": 2,
+      "goals_per_90": 0.512,
+      "assists_per_90": 0.197,
+      "form_score": 0.709
+    }
   },
   {
     "tm_player_id": 1178488,
@@ -668,7 +1328,18 @@
     "age": 18,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 24,
+      "minutes": 575,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.157,
+      "assists_per_90": 0.0,
+      "form_score": 0.157
+    }
   },
   {
     "tm_player_id": 1429611,
@@ -679,6 +1350,17 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 804,
-    "team_name": "Senegal"
+    "team_name": "Senegal",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   }
 ]

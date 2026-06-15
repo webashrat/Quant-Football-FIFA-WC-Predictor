@@ -8,7 +8,18 @@
     "age": 29,
     "market_value_m": 11.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1740,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 370997,
@@ -19,7 +30,18 @@
     "age": 24,
     "market_value_m": 8.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 51,
+      "minutes": 4620,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.019,
+      "form_score": 0.019
+    }
   },
   {
     "tm_player_id": 160482,
@@ -30,7 +52,18 @@
     "age": 29,
     "market_value_m": 2.3,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1770,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 371013,
@@ -41,7 +74,18 @@
     "age": 24,
     "market_value_m": 2.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 48,
+      "minutes": 4320,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 475959,
@@ -52,7 +96,18 @@
     "age": 22,
     "market_value_m": 75.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1866,
+      "goals": 2,
+      "assists": 5,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.096,
+      "assists_per_90": 0.241,
+      "form_score": 0.338
+    }
   },
   {
     "tm_player_id": 371001,
@@ -63,7 +118,18 @@
     "age": 24,
     "market_value_m": 18.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2288,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 282144,
@@ -74,7 +140,18 @@
     "age": 27,
     "market_value_m": 10.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 48,
+      "minutes": 3801,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 17,
+      "reds": 0,
+      "goals_per_90": 0.024,
+      "assists_per_90": 0.0,
+      "form_score": 0.024
+    }
   },
   {
     "tm_player_id": 892160,
@@ -85,7 +162,18 @@
     "age": 17,
     "market_value_m": 10.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2652,
+      "goals": 6,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.204,
+      "assists_per_90": 0.034,
+      "form_score": 0.238
+    }
   },
   {
     "tm_player_id": 238266,
@@ -96,7 +184,18 @@
     "age": 28,
     "market_value_m": 8.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2629,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.034,
+      "assists_per_90": 0.0,
+      "form_score": 0.034
+    }
   },
   {
     "tm_player_id": 357003,
@@ -107,7 +206,18 @@
     "age": 26,
     "market_value_m": 5.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2871,
+      "goals": 6,
+      "assists": 1,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.188,
+      "assists_per_90": 0.031,
+      "form_score": 0.219
+    }
   },
   {
     "tm_player_id": 293194,
@@ -118,7 +228,18 @@
     "age": 26,
     "market_value_m": 6.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 18,
+      "minutes": 842,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 357796,
@@ -129,7 +250,18 @@
     "age": 25,
     "market_value_m": 4.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2052,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.044,
+      "assists_per_90": 0.044,
+      "form_score": 0.088
+    }
   },
   {
     "tm_player_id": 483046,
@@ -140,7 +272,18 @@
     "age": 24,
     "market_value_m": 28.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3153,
+      "goals": 3,
+      "assists": 7,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.086,
+      "assists_per_90": 0.2,
+      "form_score": 0.285
+    }
   },
   {
     "tm_player_id": 362977,
@@ -151,7 +294,18 @@
     "age": 29,
     "market_value_m": 6.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 11,
+      "minutes": 325,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.277,
+      "assists_per_90": 0.277,
+      "form_score": 0.554
+    }
   },
   {
     "tm_player_id": 571271,
@@ -162,7 +316,18 @@
     "age": 24,
     "market_value_m": 2.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 32,
+      "minutes": 1900,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.095,
+      "form_score": 0.095
+    }
   },
   {
     "tm_player_id": 374954,
@@ -173,7 +338,18 @@
     "age": 27,
     "market_value_m": 6.5,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 28,
+      "minutes": 1834,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.098,
+      "assists_per_90": 0.049,
+      "form_score": 0.147
+    }
   },
   {
     "tm_player_id": 316934,
@@ -184,7 +360,18 @@
     "age": 26,
     "market_value_m": 5.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 44,
+      "minutes": 2728,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.066,
+      "assists_per_90": 0.033,
+      "form_score": 0.099
+    }
   },
   {
     "tm_player_id": 51471,
@@ -195,7 +382,18 @@
     "age": 30,
     "market_value_m": 28.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 9,
+      "minutes": 242,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.372,
+      "form_score": 0.372
+    }
   },
   {
     "tm_player_id": 502722,
@@ -206,7 +404,18 @@
     "age": 22,
     "market_value_m": 18.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 28,
+      "minutes": 1351,
+      "goals": 4,
+      "assists": 3,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.266,
+      "assists_per_90": 0.2,
+      "form_score": 0.466
+    }
   },
   {
     "tm_player_id": 205938,
@@ -217,7 +426,18 @@
     "age": 29,
     "market_value_m": 13.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 46,
+      "minutes": 2771,
+      "goals": 10,
+      "assists": 7,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.325,
+      "assists_per_90": 0.227,
+      "form_score": 0.552
+    }
   },
   {
     "tm_player_id": 668207,
@@ -228,7 +448,18 @@
     "age": 21,
     "market_value_m": 12.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 27992,
@@ -239,7 +470,18 @@
     "age": 39,
     "market_value_m": 5.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2864,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.063,
+      "assists_per_90": 0.094,
+      "form_score": 0.157
+    }
   },
   {
     "tm_player_id": 387106,
@@ -250,7 +492,18 @@
     "age": 26,
     "market_value_m": 20.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 30,
+      "minutes": 1450,
+      "goals": 3,
+      "assists": 5,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.186,
+      "assists_per_90": 0.31,
+      "form_score": 0.497
+    }
   },
   {
     "tm_player_id": 580451,
@@ -261,7 +514,18 @@
     "age": 21,
     "market_value_m": 20.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 34,
+      "minutes": 1835,
+      "goals": 8,
+      "assists": 4,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.392,
+      "assists_per_90": 0.196,
+      "form_score": 0.589
+    }
   },
   {
     "tm_player_id": 293200,
@@ -272,7 +536,18 @@
     "age": 27,
     "market_value_m": 7.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 432758,
@@ -283,7 +558,18 @@
     "age": 23,
     "market_value_m": 5.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 50,
+      "minutes": 3736,
+      "goals": 19,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.458,
+      "assists_per_90": 0.072,
+      "form_score": 0.53
+    }
   },
   {
     "tm_player_id": 46580,
@@ -294,7 +580,18 @@
     "age": 33,
     "market_value_m": 4.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2422,
+      "goals": 15,
+      "assists": 8,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.557,
+      "assists_per_90": 0.297,
+      "form_score": 0.855
+    }
   },
   {
     "tm_player_id": 119150,
@@ -305,7 +602,18 @@
     "age": 32,
     "market_value_m": 1.7,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 49,
+      "minutes": 3346,
+      "goals": 4,
+      "assists": 16,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.108,
+      "assists_per_90": 0.43,
+      "form_score": 0.538
+    }
   },
   {
     "tm_player_id": 42460,
@@ -316,7 +624,18 @@
     "age": 35,
     "market_value_m": 1.5,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 395928,
@@ -327,7 +646,18 @@
     "age": 24,
     "market_value_m": 4.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 11,
+      "minutes": 650,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.277,
+      "assists_per_90": 0.0,
+      "form_score": 0.277
+    }
   },
   {
     "tm_player_id": 605268,
@@ -338,7 +668,18 @@
     "age": 21,
     "market_value_m": 8.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 50,
+      "minutes": 2636,
+      "goals": 15,
+      "assists": 4,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.512,
+      "assists_per_90": 0.137,
+      "form_score": 0.649
+    }
   },
   {
     "tm_player_id": 387110,
@@ -349,7 +690,18 @@
     "age": 26,
     "market_value_m": 7.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 46413,
@@ -360,7 +712,18 @@
     "age": 33,
     "market_value_m": 5.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 40,
+      "minutes": 3013,
+      "goals": 19,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.568,
+      "assists_per_90": 0.0,
+      "form_score": 0.568
+    }
   },
   {
     "tm_player_id": 548028,
@@ -371,6 +734,17 @@
     "age": 21,
     "market_value_m": 4.0,
     "fdorg_team_id": 799,
-    "team_name": "Croatia"
+    "team_name": "Croatia",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   }
 ]

@@ -8,7 +8,18 @@
     "age": 32,
     "market_value_m": 25.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 45,
+      "minutes": 4005,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.045,
+      "form_score": 0.045
+    }
   },
   {
     "tm_player_id": 486046,
@@ -19,7 +30,18 @@
     "age": 22,
     "market_value_m": 8.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1411,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 127202,
@@ -30,7 +52,18 @@
     "age": 32,
     "market_value_m": 7.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 38,
+      "minutes": 3327,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 834397,
@@ -41,7 +74,18 @@
     "age": 19,
     "market_value_m": 5.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 52,
+      "minutes": 4631,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 503883,
@@ -52,7 +96,18 @@
     "age": 22,
     "market_value_m": 4.5,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 37,
+      "minutes": 3330,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 548193,
@@ -63,7 +118,18 @@
     "age": 21,
     "market_value_m": 24.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1503,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.12,
+      "form_score": 0.12
+    }
   },
   {
     "tm_player_id": 292808,
@@ -74,7 +140,18 @@
     "age": 26,
     "market_value_m": 20.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2265,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.04,
+      "assists_per_90": 0.04,
+      "form_score": 0.079
+    }
   },
   {
     "tm_player_id": 368891,
@@ -85,7 +162,18 @@
     "age": 24,
     "market_value_m": 20.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2984,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.03,
+      "assists_per_90": 0.03,
+      "form_score": 0.06
+    }
   },
   {
     "tm_player_id": 490384,
@@ -96,7 +184,18 @@
     "age": 22,
     "market_value_m": 12.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 29,
+      "minutes": 2047,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.044,
+      "assists_per_90": 0.044,
+      "form_score": 0.088
+    }
   },
   {
     "tm_player_id": 620598,
@@ -107,7 +206,18 @@
     "age": 22,
     "market_value_m": 10.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 9,
+      "minutes": 421,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 236168,
@@ -118,7 +228,18 @@
     "age": 31,
     "market_value_m": 3.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 57,
+      "minutes": 5008,
+      "goals": 8,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.144,
+      "assists_per_90": 0.054,
+      "form_score": 0.198
+    }
   },
   {
     "tm_player_id": 429915,
@@ -129,7 +250,18 @@
     "age": 24,
     "market_value_m": 12.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 31,
+      "minutes": 1481,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.122,
+      "assists_per_90": 0.182,
+      "form_score": 0.304
+    }
   },
   {
     "tm_player_id": 981196,
@@ -140,7 +272,18 @@
     "age": 19,
     "market_value_m": 7.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 55,
+      "minutes": 4231,
+      "goals": 5,
+      "assists": 8,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.106,
+      "assists_per_90": 0.17,
+      "form_score": 0.277
+    }
   },
   {
     "tm_player_id": 262226,
@@ -151,7 +294,18 @@
     "age": 29,
     "market_value_m": 15.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2362,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.038,
+      "form_score": 0.038
+    }
   },
   {
     "tm_player_id": 100986,
@@ -162,7 +316,18 @@
     "age": 33,
     "market_value_m": 2.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2549,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.071,
+      "assists_per_90": 0.106,
+      "form_score": 0.177
+    }
   },
   {
     "tm_player_id": 485706,
@@ -173,7 +338,18 @@
     "age": 23,
     "market_value_m": 55.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2637,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.068,
+      "assists_per_90": 0.0,
+      "form_score": 0.068
+    }
   },
   {
     "tm_player_id": 422763,
@@ -184,7 +360,18 @@
     "age": 23,
     "market_value_m": 6.5,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 50,
+      "minutes": 4204,
+      "goals": 7,
+      "assists": 9,
+      "yellows": 11,
+      "reds": 0,
+      "goals_per_90": 0.15,
+      "assists_per_90": 0.193,
+      "form_score": 0.343
+    }
   },
   {
     "tm_player_id": 569845,
@@ -195,7 +382,18 @@
     "age": 26,
     "market_value_m": 5.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 44,
+      "minutes": 3099,
+      "goals": 1,
+      "assists": 4,
+      "yellows": 13,
+      "reds": 0,
+      "goals_per_90": 0.029,
+      "assists_per_90": 0.116,
+      "form_score": 0.145
+    }
   },
   {
     "tm_player_id": 35047,
@@ -206,7 +404,18 @@
     "age": 35,
     "market_value_m": 2.5,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1105532,
@@ -217,7 +426,18 @@
     "age": 16,
     "market_value_m": 1.5,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 39,
+      "minutes": 2132,
+      "goals": 5,
+      "assists": 3,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.211,
+      "assists_per_90": 0.127,
+      "form_score": 0.338
+    }
   },
   {
     "tm_player_id": 249565,
@@ -228,7 +448,18 @@
     "age": 27,
     "market_value_m": 30.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2586,
+      "goals": 2,
+      "assists": 7,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.07,
+      "assists_per_90": 0.244,
+      "form_score": 0.313
+    }
   },
   {
     "tm_player_id": 356081,
@@ -239,7 +470,18 @@
     "age": 27,
     "market_value_m": 10.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 56,
+      "minutes": 5016,
+      "goals": 7,
+      "assists": 3,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.126,
+      "assists_per_90": 0.054,
+      "form_score": 0.179
+    }
   },
   {
     "tm_player_id": 381950,
@@ -250,7 +492,18 @@
     "age": 25,
     "market_value_m": 12.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 39,
+      "minutes": 3077,
+      "goals": 3,
+      "assists": 5,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.088,
+      "assists_per_90": 0.146,
+      "form_score": 0.234
+    }
   },
   {
     "tm_player_id": 655006,
@@ -261,7 +514,18 @@
     "age": 20,
     "market_value_m": 6.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 42,
+      "minutes": 2932,
+      "goals": 5,
+      "assists": 9,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.153,
+      "assists_per_90": 0.276,
+      "form_score": 0.43
+    }
   },
   {
     "tm_player_id": 435772,
@@ -272,7 +536,18 @@
     "age": 23,
     "market_value_m": 38.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 42,
+      "minutes": 3039,
+      "goals": 5,
+      "assists": 7,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.148,
+      "assists_per_90": 0.207,
+      "form_score": 0.355
+    }
   },
   {
     "tm_player_id": 88755,
@@ -283,7 +558,18 @@
     "age": 33,
     "market_value_m": 35.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1360,
+      "goals": 5,
+      "assists": 4,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.331,
+      "assists_per_90": 0.265,
+      "form_score": 0.596
+    }
   },
   {
     "tm_player_id": 137576,
@@ -294,7 +580,18 @@
     "age": 32,
     "market_value_m": 6.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 57,
+      "minutes": 4941,
+      "goals": 12,
+      "assists": 7,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.219,
+      "assists_per_90": 0.128,
+      "form_score": 0.346
+    }
   },
   {
     "tm_player_id": 486049,
@@ -305,7 +602,18 @@
     "age": 22,
     "market_value_m": 60.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 47,
+      "minutes": 2962,
+      "goals": 8,
+      "assists": 14,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.243,
+      "assists_per_90": 0.425,
+      "form_score": 0.668
+    }
   },
   {
     "tm_player_id": 144028,
@@ -316,7 +624,18 @@
     "age": 30,
     "market_value_m": 30.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 50,
+      "minutes": 2922,
+      "goals": 8,
+      "assists": 11,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.246,
+      "assists_per_90": 0.339,
+      "form_score": 0.585
+    }
   },
   {
     "tm_player_id": 743386,
@@ -327,7 +646,18 @@
     "age": 19,
     "market_value_m": 25.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 16,
+      "minutes": 921,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.195,
+      "assists_per_90": 0.098,
+      "form_score": 0.293
+    }
   },
   {
     "tm_player_id": 303259,
@@ -338,7 +668,18 @@
     "age": 27,
     "market_value_m": 20.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1351,
+      "goals": 2,
+      "assists": 5,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.133,
+      "assists_per_90": 0.333,
+      "form_score": 0.466
+    }
   },
   {
     "tm_player_id": 368887,
@@ -349,7 +690,18 @@
     "age": 24,
     "market_value_m": 60.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 37,
+      "minutes": 1133,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.159,
+      "assists_per_90": 0.0,
+      "form_score": 0.159
+    }
   },
   {
     "tm_player_id": 96341,
@@ -360,7 +712,18 @@
     "age": 31,
     "market_value_m": 25.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 7,
+      "minutes": 64,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 1.406,
+      "assists_per_90": 0.0,
+      "form_score": 1.406
+    }
   },
   {
     "tm_player_id": 179184,
@@ -371,7 +734,18 @@
     "age": 31,
     "market_value_m": 7.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 10,
+      "minutes": 172,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.523,
+      "assists_per_90": 0.0,
+      "form_score": 0.523
+    }
   },
   {
     "tm_player_id": 708454,
@@ -382,6 +756,17 @@
     "age": 20,
     "market_value_m": 4.0,
     "fdorg_team_id": 805,
-    "team_name": "Belgium"
+    "team_name": "Belgium",
+    "club_season": {
+      "apps": 49,
+      "minutes": 2013,
+      "goals": 12,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.537,
+      "assists_per_90": 0.089,
+      "form_score": 0.626
+    }
   }
 ]

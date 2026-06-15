@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 432298,
-    "espn_player_id": null,
+    "espn_player_id": 333663,
     "name": "Zion Suzuki",
     "slug": "zion-suzuki",
     "position": "Goalkeeper",
@@ -45,7 +45,7 @@
   },
   {
     "tm_player_id": 415521,
-    "espn_player_id": null,
+    "espn_player_id": 255723,
     "name": "Keisuke Osako",
     "slug": "keisuke-osako",
     "position": "Goalkeeper",
@@ -89,7 +89,7 @@
   },
   {
     "tm_player_id": 683271,
-    "espn_player_id": null,
+    "espn_player_id": 312924,
     "name": "Tomoki Hayakawa",
     "slug": "tomoki-hayakawa",
     "position": "Goalkeeper",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 353892,
-    "espn_player_id": null,
+    "espn_player_id": 219350,
     "name": "Hiroki Ito",
     "slug": "hiroki-ito",
     "position": "Centre-Back",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 355816,
-    "espn_player_id": null,
+    "espn_player_id": 238033,
     "name": "Ko Itakura",
     "slug": "ko-itakura",
     "position": "Centre-Back",
@@ -221,7 +221,7 @@
   },
   {
     "tm_player_id": 598791,
-    "espn_player_id": null,
+    "espn_player_id": 276279,
     "name": "Tsuyoshi Watanabe",
     "slug": "tsuyoshi-watanabe",
     "position": "Centre-Back",
@@ -265,7 +265,7 @@
   },
   {
     "tm_player_id": 307870,
-    "espn_player_id": null,
+    "espn_player_id": 202728,
     "name": "Shogo Taniguchi",
     "slug": "shogo-taniguchi",
     "position": "Centre-Back",
@@ -287,7 +287,7 @@
   },
   {
     "tm_player_id": 188915,
-    "espn_player_id": null,
+    "espn_player_id": 274277,
     "name": "Naomichi Ueda",
     "slug": "naomichi-ueda",
     "position": "Centre-Back",
@@ -353,7 +353,7 @@
   },
   {
     "tm_player_id": 405389,
-    "espn_player_id": null,
+    "espn_player_id": 258270,
     "name": "Ayumu Seko",
     "slug": "ayumu-seko",
     "position": "Centre-Back",
@@ -463,7 +463,7 @@
   },
   {
     "tm_player_id": 79522,
-    "espn_player_id": null,
+    "espn_player_id": 119082,
     "name": "Yuto Nagatomo",
     "slug": "yuto-nagatomo",
     "position": "Left-Back",
@@ -485,7 +485,7 @@
   },
   {
     "tm_player_id": 405385,
-    "espn_player_id": null,
+    "espn_player_id": 265965,
     "name": "Yukinari Sugawara",
     "slug": "yukinari-sugawara",
     "position": "Right-Back",
@@ -595,7 +595,7 @@
   },
   {
     "tm_player_id": 643574,
-    "espn_player_id": null,
+    "espn_player_id": 357030,
     "name": "Kaishu Sano",
     "slug": "kaishu-sano",
     "position": "Defensive Midfield",
@@ -617,7 +617,7 @@
   },
   {
     "tm_player_id": 665618,
-    "espn_player_id": null,
+    "espn_player_id": 253173,
     "name": "Satoshi Tanaka",
     "slug": "satoshi-tanaka",
     "position": "Defensive Midfield",
@@ -859,7 +859,7 @@
   },
   {
     "tm_player_id": 589813,
-    "espn_player_id": null,
+    "espn_player_id": 256587,
     "name": "Tojiro Kubo",
     "slug": "tojiro-kubo",
     "position": "Right Midfield",
@@ -903,7 +903,7 @@
   },
   {
     "tm_player_id": 356141,
-    "espn_player_id": null,
+    "espn_player_id": 219362,
     "name": "Daichi Kamada",
     "slug": "daichi-kamada",
     "position": "Attacking Midfield",
@@ -1013,7 +1013,7 @@
   },
   {
     "tm_player_id": 405397,
-    "espn_player_id": null,
+    "espn_player_id": 265953,
     "name": "Keito Nakamura",
     "slug": "keito-nakamura",
     "position": "Left Winger",
@@ -1035,7 +1035,7 @@
   },
   {
     "tm_player_id": 420931,
-    "espn_player_id": null,
+    "espn_player_id": 286347,
     "name": "Daizen Maeda",
     "slug": "daizen-maeda",
     "position": "Left Winger",
@@ -1145,7 +1145,7 @@
   },
   {
     "tm_player_id": 358504,
-    "espn_player_id": null,
+    "espn_player_id": 219627,
     "name": "Ritsu Doan",
     "slug": "ritsu-doan",
     "position": "Right Winger",
@@ -1321,7 +1321,7 @@
   },
   {
     "tm_player_id": 550580,
-    "espn_player_id": null,
+    "espn_player_id": 271352,
     "name": "Shuto Machino",
     "slug": "shuto-machino",
     "position": "Centre-Forward",
@@ -1343,7 +1343,7 @@
   },
   {
     "tm_player_id": 351567,
-    "espn_player_id": null,
+    "espn_player_id": 238016,
     "name": "Koki Ogawa",
     "slug": "koki-ogawa",
     "position": "Centre-Forward",
@@ -1431,7 +1431,7 @@
   },
   {
     "tm_player_id": 916623,
-    "espn_player_id": null,
+    "espn_player_id": 346208,
     "name": "Keisuke Goto",
     "slug": "keisuke-goto",
     "position": "Centre-Forward",

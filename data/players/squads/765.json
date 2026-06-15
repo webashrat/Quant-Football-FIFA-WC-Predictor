@@ -8,7 +8,18 @@
     "age": 25,
     "market_value_m": 40.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 49,
+      "minutes": 4347,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 249994,
@@ -19,7 +30,18 @@
     "age": 31,
     "market_value_m": 8.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 24,
+      "minutes": 2160,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 234811,
@@ -30,7 +52,18 @@
     "age": 30,
     "market_value_m": 5.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 48,
+      "minutes": 4380,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 929868,
@@ -41,7 +74,18 @@
     "age": 20,
     "market_value_m": 0.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 29,
+      "minutes": 2530,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 258004,
@@ -52,7 +96,18 @@
     "age": 27,
     "market_value_m": 75.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2646,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.068,
+      "assists_per_90": 0.0,
+      "form_score": 0.068
+    }
   },
   {
     "tm_player_id": 549006,
@@ -63,7 +118,18 @@
     "age": 23,
     "market_value_m": 45.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 46,
+      "minutes": 4007,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.067,
+      "assists_per_90": 0.067,
+      "form_score": 0.135
+    }
   },
   {
     "tm_player_id": 650568,
@@ -74,7 +140,18 @@
     "age": 21,
     "market_value_m": 38.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 41,
+      "minutes": 3116,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.029,
+      "assists_per_90": 0.029,
+      "form_score": 0.058
+    }
   },
   {
     "tm_player_id": 805714,
@@ -85,7 +162,18 @@
     "age": 21,
     "market_value_m": 10.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 42,
+      "minutes": 3352,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.027,
+      "assists_per_90": 0.0,
+      "form_score": 0.027
+    }
   },
   {
     "tm_player_id": 616341,
@@ -96,7 +184,18 @@
     "age": 22,
     "market_value_m": 55.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 41,
+      "minutes": 2979,
+      "goals": 6,
+      "assists": 7,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.181,
+      "assists_per_90": 0.211,
+      "form_score": 0.393
+    }
   },
   {
     "tm_player_id": 535955,
@@ -107,7 +206,18 @@
     "age": 24,
     "market_value_m": 25.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 28,
+      "minutes": 1800,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.05,
+      "form_score": 0.05
+    }
   },
   {
     "tm_player_id": 357147,
@@ -118,7 +228,18 @@
     "age": 25,
     "market_value_m": 40.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2796,
+      "goals": 1,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.032,
+      "assists_per_90": 0.097,
+      "form_score": 0.129
+    }
   },
   {
     "tm_player_id": 601883,
@@ -129,7 +250,18 @@
     "age": 26,
     "market_value_m": 40.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 49,
+      "minutes": 4015,
+      "goals": 1,
+      "assists": 9,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.022,
+      "assists_per_90": 0.202,
+      "form_score": 0.224
+    }
   },
   {
     "tm_player_id": 182712,
@@ -140,7 +272,18 @@
     "age": 30,
     "market_value_m": 18.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1901,
+      "goals": 3,
+      "assists": 6,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.142,
+      "assists_per_90": 0.284,
+      "form_score": 0.426
+    }
   },
   {
     "tm_player_id": 231572,
@@ -151,7 +294,18 @@
     "age": 31,
     "market_value_m": 10.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 40,
+      "minutes": 3023,
+      "goals": 1,
+      "assists": 3,
+      "yellows": 11,
+      "reds": 0,
+      "goals_per_90": 0.03,
+      "assists_per_90": 0.089,
+      "form_score": 0.119
+    }
   },
   {
     "tm_player_id": 487469,
@@ -162,7 +316,18 @@
     "age": 24,
     "market_value_m": 55.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 50,
+      "minutes": 4056,
+      "goals": 7,
+      "assists": 10,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.155,
+      "assists_per_90": 0.222,
+      "form_score": 0.377
+    }
   },
   {
     "tm_player_id": 257455,
@@ -173,7 +338,18 @@
     "age": 29,
     "market_value_m": 40.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 45,
+      "minutes": 2917,
+      "goals": 7,
+      "assists": 3,
+      "yellows": 12,
+      "reds": 0,
+      "goals_per_90": 0.216,
+      "assists_per_90": 0.093,
+      "form_score": 0.309
+    }
   },
   {
     "tm_player_id": 225161,
@@ -184,7 +360,18 @@
     "age": 27,
     "market_value_m": 28.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3718,
+      "goals": 12,
+      "assists": 10,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.29,
+      "assists_per_90": 0.242,
+      "form_score": 0.533
+    }
   },
   {
     "tm_player_id": 670681,
@@ -195,7 +382,18 @@
     "age": 20,
     "market_value_m": 60.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2701,
+      "goals": 7,
+      "assists": 4,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.233,
+      "assists_per_90": 0.133,
+      "form_score": 0.367
+    }
   },
   {
     "tm_player_id": 241641,
@@ -206,7 +404,18 @@
     "age": 30,
     "market_value_m": 60.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 53,
+      "minutes": 3854,
+      "goals": 3,
+      "assists": 5,
+      "yellows": 14,
+      "reds": 0,
+      "goals_per_90": 0.07,
+      "assists_per_90": 0.117,
+      "form_score": 0.187
+    }
   },
   {
     "tm_player_id": 240306,
@@ -217,7 +426,18 @@
     "age": 30,
     "market_value_m": 55.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 37,
+      "minutes": 3203,
+      "goals": 9,
+      "assists": 22,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.253,
+      "assists_per_90": 0.618,
+      "form_score": 0.871
+    }
   },
   {
     "tm_player_id": 412669,
@@ -228,7 +448,18 @@
     "age": 25,
     "market_value_m": 27.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 54,
+      "minutes": 4603,
+      "goals": 13,
+      "assists": 18,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.254,
+      "assists_per_90": 0.352,
+      "form_score": 0.606
+    }
   },
   {
     "tm_player_id": 957653,
@@ -239,7 +470,18 @@
     "age": 17,
     "market_value_m": 10.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 44,
+      "minutes": 1860,
+      "goals": 5,
+      "assists": 2,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.242,
+      "assists_per_90": 0.097,
+      "form_score": 0.339
+    }
   },
   {
     "tm_player_id": 357164,
@@ -250,7 +492,18 @@
     "age": 25,
     "market_value_m": 75.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 31,
+      "minutes": 1968,
+      "goals": 10,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.457,
+      "assists_per_90": 0.137,
+      "form_score": 0.595
+    }
   },
   {
     "tm_player_id": 340950,
@@ -261,7 +514,18 @@
     "age": 28,
     "market_value_m": 50.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 426620,
@@ -272,7 +536,18 @@
     "age": 26,
     "market_value_m": 32.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 41,
+      "minutes": 2913,
+      "goals": 15,
+      "assists": 9,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.463,
+      "assists_per_90": 0.278,
+      "form_score": 0.742
+    }
   },
   {
     "tm_player_id": 487465,
@@ -283,7 +558,18 @@
     "age": 24,
     "market_value_m": 55.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 52,
+      "minutes": 3767,
+      "goals": 10,
+      "assists": 10,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.239,
+      "assists_per_90": 0.239,
+      "form_score": 0.478
+    }
   },
   {
     "tm_player_id": 487474,
@@ -294,7 +580,18 @@
     "age": 22,
     "market_value_m": 36.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 42,
+      "minutes": 2694,
+      "goals": 4,
+      "assists": 5,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.134,
+      "assists_per_90": 0.167,
+      "form_score": 0.301
+    }
   },
   {
     "tm_player_id": 1138758,
@@ -305,7 +602,18 @@
     "age": 17,
     "market_value_m": 30.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 32,
+      "minutes": 1615,
+      "goals": 6,
+      "assists": 9,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.334,
+      "assists_per_90": 0.502,
+      "form_score": 0.836
+    }
   },
   {
     "tm_player_id": 742451,
@@ -316,7 +624,18 @@
     "age": 20,
     "market_value_m": 8.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 51,
+      "minutes": 3788,
+      "goals": 11,
+      "assists": 12,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.261,
+      "assists_per_90": 0.285,
+      "form_score": 0.546
+    }
   },
   {
     "tm_player_id": 462250,
@@ -327,7 +646,18 @@
     "age": 25,
     "market_value_m": 30.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 47,
+      "minutes": 3781,
+      "goals": 26,
+      "assists": 19,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.619,
+      "assists_per_90": 0.452,
+      "form_score": 1.071
+    }
   },
   {
     "tm_player_id": 550550,
@@ -338,7 +668,18 @@
     "age": 23,
     "market_value_m": 50.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 45,
+      "minutes": 1704,
+      "goals": 12,
+      "assists": 2,
+      "yellows": 2,
+      "reds": 1,
+      "goals_per_90": 0.634,
+      "assists_per_90": 0.106,
+      "form_score": 0.739
+    }
   },
   {
     "tm_player_id": 8198,
@@ -349,6 +690,17 @@
     "age": 39,
     "market_value_m": 12.0,
     "fdorg_team_id": 765,
-    "team_name": "Portugal"
+    "team_name": "Portugal",
+    "club_season": {
+      "apps": 37,
+      "minutes": 3164,
+      "goals": 30,
+      "assists": 5,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.853,
+      "assists_per_90": 0.142,
+      "form_score": 0.996
+    }
   }
 ]

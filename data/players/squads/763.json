@@ -8,7 +8,18 @@
     "age": 28,
     "market_value_m": 1.8,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 37,
+      "minutes": 3285,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 418144,
@@ -19,7 +30,18 @@
     "age": 28,
     "market_value_m": 0.3,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 12,
+      "minutes": 1080,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 576099,
@@ -30,7 +52,18 @@
     "age": 24,
     "market_value_m": 0.3,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2280,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 837368,
@@ -41,7 +74,18 @@
     "age": 32,
     "market_value_m": 0.075,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1710,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 563963,
@@ -52,7 +96,18 @@
     "age": 25,
     "market_value_m": 15.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1613,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.056,
+      "assists_per_90": 0.0,
+      "form_score": 0.056
+    }
   },
   {
     "tm_player_id": 798404,
@@ -63,7 +118,18 @@
     "age": 24,
     "market_value_m": 9.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1549,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.058,
+      "form_score": 0.058
+    }
   },
   {
     "tm_player_id": 250844,
@@ -74,7 +140,18 @@
     "age": 30,
     "market_value_m": 8.5,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2307,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 734676,
@@ -85,7 +162,18 @@
     "age": 21,
     "market_value_m": 4.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 27,
+      "minutes": 2127,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 408563,
@@ -96,7 +184,18 @@
     "age": 26,
     "market_value_m": 2.9,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 36,
+      "minutes": 3056,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.029,
+      "assists_per_90": 0.059,
+      "form_score": 0.088
+    }
   },
   {
     "tm_player_id": 327536,
@@ -107,7 +206,18 @@
     "age": 26,
     "market_value_m": 0.8,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1002,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.09,
+      "form_score": 0.09
+    }
   },
   {
     "tm_player_id": 1113451,
@@ -118,7 +228,18 @@
     "age": 20,
     "market_value_m": 0.3,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3465,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.026,
+      "assists_per_90": 0.0,
+      "form_score": 0.026
+    }
   },
   {
     "tm_player_id": 739935,
@@ -129,7 +250,18 @@
     "age": 26,
     "market_value_m": 0.125,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2790,
+      "goals": 3,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.097,
+      "assists_per_90": 0.0,
+      "form_score": 0.097
+    }
   },
   {
     "tm_player_id": 391780,
@@ -140,7 +272,18 @@
     "age": 25,
     "market_value_m": 6.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1902,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.047,
+      "assists_per_90": 0.095,
+      "form_score": 0.142
+    }
   },
   {
     "tm_player_id": 397171,
@@ -151,7 +294,18 @@
     "age": 26,
     "market_value_m": 3.5,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2424,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.037,
+      "form_score": 0.037
+    }
   },
   {
     "tm_player_id": 861221,
@@ -162,7 +316,18 @@
     "age": 22,
     "market_value_m": 0.8,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1592,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.057,
+      "form_score": 0.057
+    }
   },
   {
     "tm_player_id": 504148,
@@ -173,7 +338,18 @@
     "age": 24,
     "market_value_m": 12.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 2,
+      "minutes": 25,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 837244,
@@ -184,7 +360,18 @@
     "age": 22,
     "market_value_m": 0.125,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1845,
+      "goals": 5,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.244,
+      "assists_per_90": 0.049,
+      "form_score": 0.293
+    }
   },
   {
     "tm_player_id": 230784,
@@ -195,7 +382,18 @@
     "age": 31,
     "market_value_m": 15.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 32,
+      "minutes": 1325,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 688707,
@@ -206,7 +404,18 @@
     "age": 24,
     "market_value_m": 7.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 28,
+      "minutes": 1528,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.059,
+      "form_score": 0.059
+    }
   },
   {
     "tm_player_id": 982267,
@@ -217,7 +426,18 @@
     "age": 21,
     "market_value_m": 6.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 20,
+      "minutes": 965,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.093,
+      "assists_per_90": 0.0,
+      "form_score": 0.093
+    }
   },
   {
     "tm_player_id": 395695,
@@ -228,7 +448,18 @@
     "age": 27,
     "market_value_m": 3.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 29,
+      "minutes": 2349,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 883168,
@@ -239,7 +470,18 @@
     "age": 19,
     "market_value_m": 0.25,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 12,
+      "minutes": 845,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 360140,
@@ -250,7 +492,18 @@
     "age": 27,
     "market_value_m": 2.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 13,
+      "minutes": 594,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.152,
+      "assists_per_90": 0.0,
+      "form_score": 0.152
+    }
   },
   {
     "tm_player_id": 658533,
@@ -261,7 +514,18 @@
     "age": 23,
     "market_value_m": 1.8,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 8,
+      "minutes": 532,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 733410,
@@ -272,7 +536,18 @@
     "age": 21,
     "market_value_m": 1.5,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2056,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.131,
+      "form_score": 0.131
+    }
   },
   {
     "tm_player_id": 538006,
@@ -283,7 +558,18 @@
     "age": 26,
     "market_value_m": 0.8,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 27,
+      "minutes": 1806,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1240763,
@@ -294,7 +580,18 @@
     "age": 18,
     "market_value_m": 0.05,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2999,
+      "goals": 2,
+      "assists": 6,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.06,
+      "assists_per_90": 0.18,
+      "form_score": 0.24
+    }
   },
   {
     "tm_player_id": 1328036,
@@ -305,7 +602,18 @@
     "age": 20,
     "market_value_m": 0.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1144,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.157,
+      "assists_per_90": 0.0,
+      "form_score": 0.157
+    }
   },
   {
     "tm_player_id": 1110406,
@@ -316,7 +624,18 @@
     "age": 20,
     "market_value_m": 16.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 33,
+      "minutes": 1778,
+      "goals": 2,
+      "assists": 4,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.101,
+      "assists_per_90": 0.202,
+      "form_score": 0.304
+    }
   },
   {
     "tm_player_id": 746695,
@@ -327,7 +646,18 @@
     "age": 22,
     "market_value_m": 13.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 37,
+      "minutes": 1345,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.201,
+      "assists_per_90": 0.134,
+      "form_score": 0.335
+    }
   },
   {
     "tm_player_id": 534435,
@@ -338,7 +668,18 @@
     "age": 26,
     "market_value_m": 10.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 14,
+      "minutes": 1041,
+      "goals": 4,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.346,
+      "assists_per_90": 0.173,
+      "form_score": 0.519
+    }
   },
   {
     "tm_player_id": 1119447,
@@ -349,7 +690,18 @@
     "age": 20,
     "market_value_m": 6.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2881,
+      "goals": 3,
+      "assists": 13,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.094,
+      "assists_per_90": 0.406,
+      "form_score": 0.5
+    }
   },
   {
     "tm_player_id": 872380,
@@ -360,7 +712,18 @@
     "age": 21,
     "market_value_m": 2.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 36,
+      "minutes": 1402,
+      "goals": 5,
+      "assists": 6,
+      "yellows": 3,
+      "reds": 1,
+      "goals_per_90": 0.321,
+      "assists_per_90": 0.385,
+      "form_score": 0.706
+    }
   },
   {
     "tm_player_id": 1103743,
@@ -371,7 +734,18 @@
     "age": 17,
     "market_value_m": 0.05,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2422,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.074,
+      "assists_per_90": 0.0,
+      "form_score": 0.074
+    }
   },
   {
     "tm_player_id": 543499,
@@ -382,7 +756,18 @@
     "age": 24,
     "market_value_m": 50.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1921,
+      "goals": 3,
+      "assists": 6,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.141,
+      "assists_per_90": 0.281,
+      "form_score": 0.422
+    }
   },
   {
     "tm_player_id": 583255,
@@ -393,7 +778,18 @@
     "age": 24,
     "market_value_m": 28.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 48,
+      "minutes": 3870,
+      "goals": 21,
+      "assists": 6,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.488,
+      "assists_per_90": 0.14,
+      "form_score": 0.628
+    }
   },
   {
     "tm_player_id": 255508,
@@ -404,7 +800,18 @@
     "age": 30,
     "market_value_m": 20.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 39,
+      "minutes": 2708,
+      "goals": 4,
+      "assists": 6,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.133,
+      "assists_per_90": 0.199,
+      "form_score": 0.332
+    }
   },
   {
     "tm_player_id": 955070,
@@ -415,7 +822,18 @@
     "age": 21,
     "market_value_m": 15.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 3,
+      "minutes": 32,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 864121,
@@ -426,7 +844,18 @@
     "age": 20,
     "market_value_m": 13.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 44,
+      "minutes": 3722,
+      "goals": 9,
+      "assists": 8,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.218,
+      "assists_per_90": 0.193,
+      "form_score": 0.411
+    }
   },
   {
     "tm_player_id": 153678,
@@ -437,7 +866,18 @@
     "age": 31,
     "market_value_m": 0.85,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1764,
+      "goals": 4,
+      "assists": 6,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.204,
+      "assists_per_90": 0.306,
+      "form_score": 0.51
+    }
   },
   {
     "tm_player_id": 1071086,
@@ -448,7 +888,18 @@
     "age": 19,
     "market_value_m": 0.1,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1065,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.338,
+      "assists_per_90": 0.085,
+      "form_score": 0.423
+    }
   },
   {
     "tm_player_id": 108354,
@@ -459,7 +910,18 @@
     "age": 33,
     "market_value_m": 3.5,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 45,
+      "minutes": 2366,
+      "goals": 6,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.228,
+      "assists_per_90": 0.114,
+      "form_score": 0.342
+    }
   },
   {
     "tm_player_id": 979410,
@@ -470,7 +932,18 @@
     "age": 22,
     "market_value_m": 3.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 27,
+      "minutes": 779,
+      "goals": 3,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.347,
+      "assists_per_90": 0.0,
+      "form_score": 0.347
+    }
   },
   {
     "tm_player_id": 451747,
@@ -481,7 +954,18 @@
     "age": 26,
     "market_value_m": 3.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 34,
+      "minutes": 1970,
+      "goals": 13,
+      "assists": 4,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.594,
+      "assists_per_90": 0.183,
+      "form_score": 0.777
+    }
   },
   {
     "tm_player_id": 734799,
@@ -492,7 +976,18 @@
     "age": 21,
     "market_value_m": 2.5,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 43,
+      "minutes": 2234,
+      "goals": 8,
+      "assists": 1,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.322,
+      "assists_per_90": 0.04,
+      "form_score": 0.363
+    }
   },
   {
     "tm_player_id": 207593,
@@ -503,7 +998,18 @@
     "age": 27,
     "market_value_m": 2.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 15,
+      "minutes": 1096,
+      "goals": 9,
+      "assists": 6,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.739,
+      "assists_per_90": 0.493,
+      "form_score": 1.232
+    }
   },
   {
     "tm_player_id": 718057,
@@ -514,7 +1020,18 @@
     "age": 25,
     "market_value_m": 0.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 16,
+      "minutes": 659,
+      "goals": 4,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.546,
+      "assists_per_90": 0.0,
+      "form_score": 0.546
+    }
   },
   {
     "tm_player_id": 1332184,
@@ -525,6 +1042,17 @@
     "age": 18,
     "market_value_m": 0.0,
     "fdorg_team_id": 763,
-    "team_name": "Ghana"
+    "team_name": "Ghana",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2654,
+      "goals": 5,
+      "assists": 2,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.17,
+      "assists_per_90": 0.068,
+      "form_score": 0.237
+    }
   }
 ]

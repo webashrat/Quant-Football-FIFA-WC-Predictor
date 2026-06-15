@@ -8,7 +8,18 @@
     "age": 30,
     "market_value_m": 4.0,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1743,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 398048,
@@ -19,7 +30,18 @@
     "age": 27,
     "market_value_m": 0.1,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1800,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 242277,
@@ -30,7 +52,18 @@
     "age": 38,
     "market_value_m": 0.05,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1710,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 902870,
@@ -41,7 +74,18 @@
     "age": 22,
     "market_value_m": 0.0,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 484988,
@@ -52,7 +96,18 @@
     "age": 23,
     "market_value_m": 15.0,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 2,
+      "minutes": 28,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 349570,
@@ -63,7 +118,18 @@
     "age": 29,
     "market_value_m": 1.0,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2370,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.076,
+      "assists_per_90": 0.0,
+      "form_score": 0.076
+    }
   },
   {
     "tm_player_id": 247666,
@@ -74,7 +140,18 @@
     "age": 29,
     "market_value_m": 0.6,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 1,
+      "minutes": 22,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 655080,
@@ -85,7 +162,18 @@
     "age": 30,
     "market_value_m": 0.4,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2254,
+      "goals": 5,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.2,
+      "assists_per_90": 0.04,
+      "form_score": 0.24
+    }
   },
   {
     "tm_player_id": 662119,
@@ -96,7 +184,18 @@
     "age": 24,
     "market_value_m": 0.3,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 12,
+      "minutes": 960,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.094,
+      "assists_per_90": 0.0,
+      "form_score": 0.094
+    }
   },
   {
     "tm_player_id": 166158,
@@ -107,7 +206,18 @@
     "age": 32,
     "market_value_m": 0.25,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2249,
+      "goals": 3,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 1,
+      "goals_per_90": 0.12,
+      "assists_per_90": 0.0,
+      "form_score": 0.12
+    }
   },
   {
     "tm_player_id": 322061,
@@ -118,7 +228,18 @@
     "age": 26,
     "market_value_m": 0.2,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 15,
+      "minutes": 977,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 80486,
@@ -129,7 +250,18 @@
     "age": 36,
     "market_value_m": 0.05,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 41,
+      "minutes": 3526,
+      "goals": 4,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.102,
+      "assists_per_90": 0.0,
+      "form_score": 0.102
+    }
   },
   {
     "tm_player_id": 696688,
@@ -140,7 +272,18 @@
     "age": 24,
     "market_value_m": 0.0,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 27,
+      "minutes": 2029,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1044831,
@@ -151,7 +294,18 @@
     "age": 20,
     "market_value_m": 0.0,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2854,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 774769,
@@ -162,7 +316,18 @@
     "age": 21,
     "market_value_m": 0.6,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1728,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.052,
+      "assists_per_90": 0.0,
+      "form_score": 0.052
+    }
   },
   {
     "tm_player_id": 611855,
@@ -173,7 +338,18 @@
     "age": 22,
     "market_value_m": 0.325,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 28,
+      "minutes": 1833,
+      "goals": 6,
+      "assists": 6,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.295,
+      "assists_per_90": 0.295,
+      "form_score": 0.589
+    }
   },
   {
     "tm_player_id": 1072017,
@@ -184,7 +360,18 @@
     "age": 22,
     "market_value_m": 3.0,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 40,
+      "minutes": 3132,
+      "goals": 0,
+      "assists": 9,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.259,
+      "form_score": 0.259
+    }
   },
   {
     "tm_player_id": 203517,
@@ -195,7 +382,18 @@
     "age": 30,
     "market_value_m": 1.8,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 15,
+      "minutes": 1211,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 975128,
@@ -206,7 +404,18 @@
     "age": 24,
     "market_value_m": 0.3,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1017,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 681827,
@@ -217,7 +426,18 @@
     "age": 23,
     "market_value_m": 0.25,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1523,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.059,
+      "form_score": 0.059
+    }
   },
   {
     "tm_player_id": 544586,
@@ -228,7 +448,18 @@
     "age": 27,
     "market_value_m": 3.5,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 40,
+      "minutes": 2046,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.088,
+      "assists_per_90": 0.0,
+      "form_score": 0.088
+    }
   },
   {
     "tm_player_id": 258513,
@@ -239,7 +470,18 @@
     "age": 27,
     "market_value_m": 0.9,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2709,
+      "goals": 0,
+      "assists": 6,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.199,
+      "form_score": 0.199
+    }
   },
   {
     "tm_player_id": 623965,
@@ -250,7 +492,18 @@
     "age": 26,
     "market_value_m": 0.5,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 39,
+      "minutes": 3043,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.089,
+      "assists_per_90": 0.089,
+      "form_score": 0.177
+    }
   },
   {
     "tm_player_id": 486766,
@@ -261,7 +514,18 @@
     "age": 26,
     "market_value_m": 0.3,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1391,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 7,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.065,
+      "form_score": 0.065
+    }
   },
   {
     "tm_player_id": 1173606,
@@ -272,7 +536,18 @@
     "age": 19,
     "market_value_m": 0.1,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2193,
+      "goals": 5,
+      "assists": 2,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.205,
+      "assists_per_90": 0.082,
+      "form_score": 0.287
+    }
   },
   {
     "tm_player_id": 272930,
@@ -283,7 +558,18 @@
     "age": 31,
     "market_value_m": 1.5,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1456,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.124,
+      "assists_per_90": 0.185,
+      "form_score": 0.309
+    }
   },
   {
     "tm_player_id": 432852,
@@ -294,7 +580,18 @@
     "age": 25,
     "market_value_m": 1.0,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 56,
+      "minutes": 4010,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.067,
+      "assists_per_90": 0.067,
+      "form_score": 0.135
+    }
   },
   {
     "tm_player_id": 507467,
@@ -305,7 +602,18 @@
     "age": 23,
     "market_value_m": 0.4,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1469,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 620307,
@@ -316,7 +624,18 @@
     "age": 29,
     "market_value_m": 0.4,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2148,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.126,
+      "form_score": 0.126
+    }
   },
   {
     "tm_player_id": 1160599,
@@ -327,7 +646,18 @@
     "age": 20,
     "market_value_m": 0.8,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1503,
+      "goals": 4,
+      "assists": 2,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.24,
+      "assists_per_90": 0.12,
+      "form_score": 0.359
+    }
   },
   {
     "tm_player_id": 416089,
@@ -338,7 +668,18 @@
     "age": 25,
     "market_value_m": 0.25,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 6,
+      "minutes": 75,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 840836,
@@ -349,7 +690,18 @@
     "age": 22,
     "market_value_m": 2.0,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 45,
+      "minutes": 2834,
+      "goals": 6,
+      "assists": 3,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.191,
+      "assists_per_90": 0.095,
+      "form_score": 0.286
+    }
   },
   {
     "tm_player_id": 448466,
@@ -360,7 +712,18 @@
     "age": 26,
     "market_value_m": 1.5,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 27,
+      "minutes": 1679,
+      "goals": 7,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.375,
+      "assists_per_90": 0.054,
+      "form_score": 0.429
+    }
   },
   {
     "tm_player_id": 535959,
@@ -371,7 +734,18 @@
     "age": 24,
     "market_value_m": 1.2,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2446,
+      "goals": 4,
+      "assists": 5,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.147,
+      "assists_per_90": 0.184,
+      "form_score": 0.331
+    }
   },
   {
     "tm_player_id": 531450,
@@ -382,7 +756,18 @@
     "age": 30,
     "market_value_m": 1.2,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3288,
+      "goals": 22,
+      "assists": 11,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.602,
+      "assists_per_90": 0.301,
+      "form_score": 0.903
+    }
   },
   {
     "tm_player_id": 111627,
@@ -393,7 +778,18 @@
     "age": 34,
     "market_value_m": 0.7,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2309,
+      "goals": 5,
+      "assists": 2,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.195,
+      "assists_per_90": 0.078,
+      "form_score": 0.273
+    }
   },
   {
     "tm_player_id": 337670,
@@ -404,7 +800,18 @@
     "age": 27,
     "market_value_m": 0.6,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 10,
+      "minutes": 545,
+      "goals": 1,
+      "assists": 5,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.165,
+      "assists_per_90": 0.826,
+      "form_score": 0.991
+    }
   },
   {
     "tm_player_id": 445517,
@@ -415,7 +822,18 @@
     "age": 27,
     "market_value_m": 0.4,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2419,
+      "goals": 6,
+      "assists": 10,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.223,
+      "assists_per_90": 0.372,
+      "form_score": 0.595
+    }
   },
   {
     "tm_player_id": 647132,
@@ -426,7 +844,18 @@
     "age": 24,
     "market_value_m": 0.3,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 11,
+      "minutes": 135,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1021770,
@@ -437,7 +866,18 @@
     "age": 22,
     "market_value_m": 0.3,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2504,
+      "goals": 5,
+      "assists": 6,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.18,
+      "assists_per_90": 0.216,
+      "form_score": 0.395
+    }
   },
   {
     "tm_player_id": 170895,
@@ -448,7 +888,18 @@
     "age": 34,
     "market_value_m": 0.9,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2292,
+      "goals": 6,
+      "assists": 8,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.236,
+      "assists_per_90": 0.314,
+      "form_score": 0.55
+    }
   },
   {
     "tm_player_id": 791528,
@@ -459,7 +910,18 @@
     "age": 23,
     "market_value_m": 0.8,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 34,
+      "minutes": 1451,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 1,
+      "goals_per_90": 0.124,
+      "assists_per_90": 0.0,
+      "form_score": 0.124
+    }
   },
   {
     "tm_player_id": 1070645,
@@ -470,7 +932,18 @@
     "age": 23,
     "market_value_m": 0.6,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 14,
+      "minutes": 297,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.303,
+      "assists_per_90": 0.0,
+      "form_score": 0.303
+    }
   },
   {
     "tm_player_id": 336819,
@@ -481,7 +954,18 @@
     "age": 30,
     "market_value_m": 0.4,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 40,
+      "minutes": 2574,
+      "goals": 13,
+      "assists": 10,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.455,
+      "assists_per_90": 0.35,
+      "form_score": 0.804
+    }
   },
   {
     "tm_player_id": 676411,
@@ -492,7 +976,18 @@
     "age": 23,
     "market_value_m": 0.8,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1174,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.077,
+      "form_score": 0.077
+    }
   },
   {
     "tm_player_id": 820252,
@@ -503,7 +998,18 @@
     "age": 23,
     "market_value_m": 0.7,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1479,
+      "goals": 12,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.73,
+      "assists_per_90": 0.061,
+      "form_score": 0.791
+    }
   },
   {
     "tm_player_id": 306166,
@@ -514,6 +1020,17 @@
     "age": 33,
     "market_value_m": 0.65,
     "fdorg_team_id": 1930,
-    "team_name": "Cape Verde"
+    "team_name": "Cape Verde",
+    "club_season": {
+      "apps": 35,
+      "minutes": 1383,
+      "goals": 6,
+      "assists": 3,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.39,
+      "assists_per_90": 0.195,
+      "form_score": 0.586
+    }
   }
 ]

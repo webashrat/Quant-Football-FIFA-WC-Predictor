@@ -8,7 +8,18 @@
     "age": 23,
     "market_value_m": 1.5,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1440,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 311958,
@@ -19,7 +30,18 @@
     "age": 33,
     "market_value_m": 0.6,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 11,
+      "minutes": 990,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 312690,
@@ -30,7 +52,18 @@
     "age": 29,
     "market_value_m": 0.35,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 12,
+      "minutes": 1080,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 888630,
@@ -41,7 +74,18 @@
     "age": 22,
     "market_value_m": 0.3,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 6,
+      "minutes": 540,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 763079,
@@ -52,7 +96,18 @@
     "age": 20,
     "market_value_m": 12.0,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2817,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 581429,
@@ -63,7 +118,18 @@
     "age": 25,
     "market_value_m": 1.7,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 11,
+      "minutes": 770,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.117,
+      "form_score": 0.117
+    }
   },
   {
     "tm_player_id": 288883,
@@ -74,7 +140,18 @@
     "age": 28,
     "market_value_m": 0.7,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1928,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.047,
+      "assists_per_90": 0.0,
+      "form_score": 0.047
+    }
   },
   {
     "tm_player_id": 493725,
@@ -85,7 +162,18 @@
     "age": 32,
     "market_value_m": 0.65,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1422,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.127,
+      "form_score": 0.127
+    }
   },
   {
     "tm_player_id": 500288,
@@ -96,7 +184,18 @@
     "age": 28,
     "market_value_m": 0.6,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1553,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 883732,
@@ -107,7 +206,18 @@
     "age": 23,
     "market_value_m": 0.6,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 9,
+      "minutes": 652,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.138,
+      "assists_per_90": 0.0,
+      "form_score": 0.138
+    }
   },
   {
     "tm_player_id": 712357,
@@ -118,7 +228,18 @@
     "age": 22,
     "market_value_m": 0.5,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 10,
+      "minutes": 855,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 989069,
@@ -129,7 +250,18 @@
     "age": 20,
     "market_value_m": 0.4,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 11,
+      "minutes": 990,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 538764,
@@ -140,7 +272,18 @@
     "age": 24,
     "market_value_m": 0.35,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 11,
+      "minutes": 959,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.094,
+      "assists_per_90": 0.094,
+      "form_score": 0.188
+    }
   },
   {
     "tm_player_id": 661080,
@@ -151,7 +294,18 @@
     "age": 25,
     "market_value_m": 0.25,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 8,
+      "minutes": 329,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.274,
+      "assists_per_90": 0.0,
+      "form_score": 0.274
+    }
   },
   {
     "tm_player_id": 102683,
@@ -162,7 +316,18 @@
     "age": 35,
     "market_value_m": 0.075,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 9,
+      "minutes": 785,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 608537,
@@ -173,7 +338,18 @@
     "age": 26,
     "market_value_m": 1.2,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 17,
+      "minutes": 1507,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.06,
+      "form_score": 0.06
+    }
   },
   {
     "tm_player_id": 704545,
@@ -184,7 +360,18 @@
     "age": 23,
     "market_value_m": 0.9,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 10,
+      "minutes": 714,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.126,
+      "assists_per_90": 0.0,
+      "form_score": 0.126
+    }
   },
   {
     "tm_player_id": 212499,
@@ -195,7 +382,18 @@
     "age": 33,
     "market_value_m": 0.35,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 11,
+      "minutes": 752,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.239,
+      "form_score": 0.239
+    }
   },
   {
     "tm_player_id": 492558,
@@ -206,7 +404,18 @@
     "age": 27,
     "market_value_m": 0.8,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 12,
+      "minutes": 1028,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.088,
+      "assists_per_90": 0.175,
+      "form_score": 0.263
+    }
   },
   {
     "tm_player_id": 989049,
@@ -217,7 +426,18 @@
     "age": 21,
     "market_value_m": 0.5,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1663,
+      "goals": 4,
+      "assists": 8,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.216,
+      "assists_per_90": 0.433,
+      "form_score": 0.649
+    }
   },
   {
     "tm_player_id": 596250,
@@ -228,7 +448,18 @@
     "age": 25,
     "market_value_m": 0.3,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 8,
+      "minutes": 472,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.381,
+      "form_score": 0.381
+    }
   },
   {
     "tm_player_id": 288915,
@@ -239,7 +470,18 @@
     "age": 28,
     "market_value_m": 1.2,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 30,
+      "minutes": 1938,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.093,
+      "form_score": 0.093
+    }
   },
   {
     "tm_player_id": 570272,
@@ -250,7 +492,18 @@
     "age": 27,
     "market_value_m": 0.75,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 10,
+      "minutes": 840,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 743864,
@@ -261,7 +514,18 @@
     "age": 22,
     "market_value_m": 0.6,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 12,
+      "minutes": 811,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 431911,
@@ -272,7 +536,18 @@
     "age": 26,
     "market_value_m": 2.8,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 294525,
@@ -283,7 +558,18 @@
     "age": 28,
     "market_value_m": 1.8,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1268,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.213,
+      "form_score": 0.213
+    }
   },
   {
     "tm_player_id": 562022,
@@ -294,7 +580,18 @@
     "age": 25,
     "market_value_m": 1.3,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 493593,
@@ -305,7 +602,18 @@
     "age": 30,
     "market_value_m": 1.0,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 12,
+      "minutes": 715,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.378,
+      "assists_per_90": 0.378,
+      "form_score": 0.755
+    }
   },
   {
     "tm_player_id": 500289,
@@ -316,7 +624,18 @@
     "age": 26,
     "market_value_m": 0.7,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 12,
+      "minutes": 844,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.107,
+      "assists_per_90": 0.213,
+      "form_score": 0.32
+    }
   },
   {
     "tm_player_id": 260857,
@@ -327,7 +646,18 @@
     "age": 31,
     "market_value_m": 0.9,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 12,
+      "minutes": 915,
+      "goals": 2,
+      "assists": 6,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.197,
+      "assists_per_90": 0.59,
+      "form_score": 0.787
+    }
   },
   {
     "tm_player_id": 704546,
@@ -338,7 +668,18 @@
     "age": 22,
     "market_value_m": 0.75,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 13,
+      "minutes": 908,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.099,
+      "assists_per_90": 0.099,
+      "form_score": 0.198
+    }
   },
   {
     "tm_player_id": 492556,
@@ -349,7 +690,18 @@
     "age": 24,
     "market_value_m": 2.5,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 274536,
@@ -360,7 +712,18 @@
     "age": 31,
     "market_value_m": 1.8,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 2,
+      "minutes": 32,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 630015,
@@ -371,7 +734,18 @@
     "age": 23,
     "market_value_m": 1.5,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 13,
+      "minutes": 533,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.169,
+      "assists_per_90": 0.169,
+      "form_score": 0.338
+    }
   },
   {
     "tm_player_id": 754040,
@@ -382,7 +756,18 @@
     "age": 23,
     "market_value_m": 0.4,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 10,
+      "minutes": 804,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.336,
+      "assists_per_90": 0.224,
+      "form_score": 0.56
+    }
   },
   {
     "tm_player_id": 754037,
@@ -393,7 +778,18 @@
     "age": 21,
     "market_value_m": 8.0,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 294502,
@@ -404,7 +800,18 @@
     "age": 28,
     "market_value_m": 0.75,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 630017,
@@ -415,7 +822,18 @@
     "age": 23,
     "market_value_m": 0.45,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 11,
+      "minutes": 726,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.372,
+      "assists_per_90": 0.372,
+      "form_score": 0.744
+    }
   },
   {
     "tm_player_id": 744137,
@@ -426,7 +844,18 @@
     "age": 30,
     "market_value_m": 0.4,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 13,
+      "minutes": 944,
+      "goals": 8,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 1,
+      "goals_per_90": 0.763,
+      "assists_per_90": 0.095,
+      "form_score": 0.858
+    }
   },
   {
     "tm_player_id": 358166,
@@ -437,7 +866,18 @@
     "age": 29,
     "market_value_m": 4.0,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 431912,
@@ -448,7 +888,18 @@
     "age": 27,
     "market_value_m": 0.8,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1244,
+      "goals": 8,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.579,
+      "assists_per_90": 0.0,
+      "form_score": 0.579
+    }
   },
   {
     "tm_player_id": 185372,
@@ -459,7 +910,18 @@
     "age": 31,
     "market_value_m": 0.8,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 6,
+      "minutes": 450,
+      "goals": 3,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.6,
+      "assists_per_90": 0.0,
+      "form_score": 0.6
+    }
   },
   {
     "tm_player_id": 704549,
@@ -470,7 +932,18 @@
     "age": 22,
     "market_value_m": 0.4,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 5,
+      "minutes": 351,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.513,
+      "assists_per_90": 0.0,
+      "form_score": 0.513
+    }
   },
   {
     "tm_player_id": 763092,
@@ -481,6 +954,17 @@
     "age": 20,
     "market_value_m": 0.25,
     "fdorg_team_id": 8070,
-    "team_name": "Uzbekistan"
+    "team_name": "Uzbekistan",
+    "club_season": {
+      "apps": 10,
+      "minutes": 539,
+      "goals": 4,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.668,
+      "assists_per_90": 0.0,
+      "form_score": 0.668
+    }
   }
 ]

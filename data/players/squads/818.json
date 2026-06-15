@@ -8,7 +8,18 @@
     "age": 24,
     "market_value_m": 8.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2745,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.033,
+      "form_score": 0.033
+    }
   },
   {
     "tm_player_id": 292985,
@@ -19,7 +30,18 @@
     "age": 29,
     "market_value_m": 1.5,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 17,
+      "minutes": 1530,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 74113,
@@ -30,7 +52,18 @@
     "age": 35,
     "market_value_m": 1.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2970,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.03,
+      "form_score": 0.03
+    }
   },
   {
     "tm_player_id": 73396,
@@ -41,7 +74,18 @@
     "age": 36,
     "market_value_m": 0.6,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 13,
+      "minutes": 1170,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 341429,
@@ -52,7 +96,18 @@
     "age": 28,
     "market_value_m": 19.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 45,
+      "minutes": 3684,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.049,
+      "assists_per_90": 0.0,
+      "form_score": 0.049
+    }
   },
   {
     "tm_player_id": 413565,
@@ -63,7 +118,18 @@
     "age": 26,
     "market_value_m": 18.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3567,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.025,
+      "assists_per_90": 0.025,
+      "form_score": 0.05
+    }
   },
   {
     "tm_player_id": 716276,
@@ -74,7 +140,18 @@
     "age": 23,
     "market_value_m": 8.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2485,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 13,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 609255,
@@ -85,7 +162,18 @@
     "age": 26,
     "market_value_m": 6.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 49,
+      "minutes": 4298,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 13,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.042,
+      "form_score": 0.042
+    }
   },
   {
     "tm_player_id": 474589,
@@ -96,7 +184,18 @@
     "age": 25,
     "market_value_m": 5.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1369,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.131,
+      "assists_per_90": 0.131,
+      "form_score": 0.263
+    }
   },
   {
     "tm_player_id": 289446,
@@ -107,7 +206,18 @@
     "age": 30,
     "market_value_m": 3.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 27,
+      "minutes": 2243,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 1,
+      "goals_per_90": 0.08,
+      "assists_per_90": 0.0,
+      "form_score": 0.08
+    }
   },
   {
     "tm_player_id": 332560,
@@ -118,7 +228,18 @@
     "age": 31,
     "market_value_m": 3.5,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1309,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.069,
+      "form_score": 0.069
+    }
   },
   {
     "tm_player_id": 262939,
@@ -129,7 +250,18 @@
     "age": 32,
     "market_value_m": 2.2,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2726,
+      "goals": 0,
+      "assists": 4,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.132,
+      "form_score": 0.132
+    }
   },
   {
     "tm_player_id": 356099,
@@ -140,7 +272,18 @@
     "age": 31,
     "market_value_m": 2.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 40,
+      "minutes": 3324,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.081,
+      "form_score": 0.081
+    }
   },
   {
     "tm_player_id": 366324,
@@ -151,7 +294,18 @@
     "age": 27,
     "market_value_m": 1.2,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 39,
+      "minutes": 3368,
+      "goals": 6,
+      "assists": 2,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.16,
+      "assists_per_90": 0.053,
+      "form_score": 0.214
+    }
   },
   {
     "tm_player_id": 493003,
@@ -162,7 +316,18 @@
     "age": 28,
     "market_value_m": 25.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 46,
+      "minutes": 3881,
+      "goals": 5,
+      "assists": 4,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.116,
+      "assists_per_90": 0.093,
+      "form_score": 0.209
+    }
   },
   {
     "tm_player_id": 120443,
@@ -173,7 +338,18 @@
     "age": 32,
     "market_value_m": 2.2,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 14,
+      "minutes": 1003,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.179,
+      "form_score": 0.179
+    }
   },
   {
     "tm_player_id": 552474,
@@ -184,7 +360,18 @@
     "age": 29,
     "market_value_m": 1.4,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 24,
+      "minutes": 2119,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.085,
+      "assists_per_90": 0.042,
+      "form_score": 0.127
+    }
   },
   {
     "tm_player_id": 735573,
@@ -195,7 +382,18 @@
     "age": 24,
     "market_value_m": 14.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 45,
+      "minutes": 3637,
+      "goals": 8,
+      "assists": 6,
+      "yellows": 16,
+      "reds": 0,
+      "goals_per_90": 0.198,
+      "assists_per_90": 0.148,
+      "form_score": 0.346
+    }
   },
   {
     "tm_player_id": 262980,
@@ -206,7 +404,18 @@
     "age": 30,
     "market_value_m": 14.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 48,
+      "minutes": 2538,
+      "goals": 0,
+      "assists": 6,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.213,
+      "form_score": 0.213
+    }
   },
   {
     "tm_player_id": 857948,
@@ -217,7 +426,18 @@
     "age": 24,
     "market_value_m": 6.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 7,
+      "minutes": 220,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 936981,
@@ -228,7 +448,18 @@
     "age": 21,
     "market_value_m": 3.5,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2715,
+      "goals": 3,
+      "assists": 1,
+      "yellows": 14,
+      "reds": 0,
+      "goals_per_90": 0.099,
+      "assists_per_90": 0.033,
+      "form_score": 0.133
+    }
   },
   {
     "tm_player_id": 585747,
@@ -239,7 +470,18 @@
     "age": 26,
     "market_value_m": 3.5,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1021,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 260385,
@@ -250,7 +492,18 @@
     "age": 32,
     "market_value_m": 0.35,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2219,
+      "goals": 1,
+      "assists": 6,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.041,
+      "assists_per_90": 0.243,
+      "form_score": 0.284
+    }
   },
   {
     "tm_player_id": 354145,
@@ -261,7 +514,18 @@
     "age": 26,
     "market_value_m": 7.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 31,
+      "minutes": 1823,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.148,
+      "assists_per_90": 0.197,
+      "form_score": 0.346
+    }
   },
   {
     "tm_player_id": 88103,
@@ -272,7 +536,18 @@
     "age": 33,
     "market_value_m": 2.5,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1255,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.215,
+      "assists_per_90": 0.287,
+      "form_score": 0.502
+    }
   },
   {
     "tm_player_id": 122582,
@@ -283,7 +558,18 @@
     "age": 31,
     "market_value_m": 2.5,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 19,
+      "minutes": 948,
+      "goals": 4,
+      "assists": 4,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.38,
+      "assists_per_90": 0.38,
+      "form_score": 0.759
+    }
   },
   {
     "tm_player_id": 480692,
@@ -294,7 +580,18 @@
     "age": 27,
     "market_value_m": 85.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 51,
+      "minutes": 4060,
+      "goals": 26,
+      "assists": 23,
+      "yellows": 8,
+      "reds": 1,
+      "goals_per_90": 0.576,
+      "assists_per_90": 0.51,
+      "form_score": 1.086
+    }
   },
   {
     "tm_player_id": 491553,
@@ -305,7 +602,18 @@
     "age": 24,
     "market_value_m": 6.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1155,
+      "goals": 1,
+      "assists": 5,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.078,
+      "assists_per_90": 0.39,
+      "form_score": 0.468
+    }
   },
   {
     "tm_player_id": 957461,
@@ -316,7 +624,18 @@
     "age": 22,
     "market_value_m": 5.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 29,
+      "minutes": 2277,
+      "goals": 4,
+      "assists": 3,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.158,
+      "assists_per_90": 0.119,
+      "form_score": 0.277
+    }
   },
   {
     "tm_player_id": 572042,
@@ -327,7 +646,18 @@
     "age": 25,
     "market_value_m": 2.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 857818,
@@ -338,7 +668,18 @@
     "age": 21,
     "market_value_m": 18.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1105,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.081,
+      "assists_per_90": 0.081,
+      "form_score": 0.163
+    }
   },
   {
     "tm_player_id": 588989,
@@ -349,7 +690,18 @@
     "age": 27,
     "market_value_m": 16.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 51,
+      "minutes": 3081,
+      "goals": 8,
+      "assists": 3,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.234,
+      "assists_per_90": 0.088,
+      "form_score": 0.321
+    }
   },
   {
     "tm_player_id": 663319,
@@ -360,7 +712,18 @@
     "age": 22,
     "market_value_m": 2.8,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 18,
+      "minutes": 580,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.155,
+      "form_score": 0.155
+    }
   },
   {
     "tm_player_id": 745927,
@@ -371,7 +734,18 @@
     "age": 27,
     "market_value_m": 1.2,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 33,
+      "minutes": 1698,
+      "goals": 6,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.318,
+      "assists_per_90": 0.053,
+      "form_score": 0.371
+    }
   },
   {
     "tm_player_id": 649317,
@@ -382,7 +756,18 @@
     "age": 21,
     "market_value_m": 40.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 30,
+      "minutes": 1451,
+      "goals": 7,
+      "assists": 3,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.434,
+      "assists_per_90": 0.186,
+      "form_score": 0.62
+    }
   },
   {
     "tm_player_id": 459463,
@@ -393,7 +778,18 @@
     "age": 25,
     "market_value_m": 18.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 40,
+      "minutes": 3130,
+      "goals": 15,
+      "assists": 3,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.431,
+      "assists_per_90": 0.086,
+      "form_score": 0.518
+    }
   },
   {
     "tm_player_id": 185245,
@@ -404,7 +800,18 @@
     "age": 31,
     "market_value_m": 14.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 41,
+      "minutes": 3241,
+      "goals": 22,
+      "assists": 10,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.611,
+      "assists_per_90": 0.278,
+      "form_score": 0.889
+    }
   },
   {
     "tm_player_id": 323831,
@@ -415,7 +822,18 @@
     "age": 29,
     "market_value_m": 8.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 424784,
@@ -426,7 +844,18 @@
     "age": 27,
     "market_value_m": 5.0,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 53,
+      "minutes": 4373,
+      "goals": 38,
+      "assists": 9,
+      "yellows": 12,
+      "reds": 0,
+      "goals_per_90": 0.782,
+      "assists_per_90": 0.185,
+      "form_score": 0.967
+    }
   },
   {
     "tm_player_id": 42457,
@@ -437,6 +866,17 @@
     "age": 39,
     "market_value_m": 0.1,
     "fdorg_team_id": 818,
-    "team_name": "Colombia"
+    "team_name": "Colombia",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1755,
+      "goals": 10,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.513,
+      "assists_per_90": 0.051,
+      "form_score": 0.564
+    }
   }
 ]

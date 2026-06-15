@@ -23,7 +23,7 @@
   },
   {
     "tm_player_id": 195778,
-    "espn_player_id": null,
+    "espn_player_id": 205750,
     "name": "Alexander Nübel",
     "slug": "alexander-nubel",
     "position": "Goalkeeper",
@@ -67,7 +67,7 @@
   },
   {
     "tm_player_id": 55089,
-    "espn_player_id": null,
+    "espn_player_id": 138213,
     "name": "Oliver Baumann",
     "slug": "oliver-baumann",
     "position": "Goalkeeper",
@@ -111,7 +111,7 @@
   },
   {
     "tm_player_id": 388198,
-    "espn_player_id": null,
+    "espn_player_id": 286828,
     "name": "Nico Schlotterbeck",
     "slug": "nico-schlotterbeck",
     "position": "Centre-Back",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 196357,
-    "espn_player_id": null,
+    "espn_player_id": 188052,
     "name": "Jonathan Tah",
     "slug": "jonathan-tah",
     "position": "Centre-Back",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 86202,
-    "espn_player_id": null,
+    "espn_player_id": 169438,
     "name": "Antonio Rüdiger",
     "slug": "antonio-rudiger",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 193004,
-    "espn_player_id": null,
+    "espn_player_id": 220714,
     "name": "Waldemar Anton",
     "slug": "waldemar-anton",
     "position": "Centre-Back",
@@ -221,7 +221,7 @@
   },
   {
     "tm_player_id": 521964,
-    "espn_player_id": null,
+    "espn_player_id": 303444,
     "name": "Malick Thiaw",
     "slug": "malick-thiaw",
     "position": "Centre-Back",
@@ -309,7 +309,7 @@
   },
   {
     "tm_player_id": 318204,
-    "espn_player_id": null,
+    "espn_player_id": 249548,
     "name": "David Raum",
     "slug": "david-raum",
     "position": "Left-Back",
@@ -375,7 +375,7 @@
   },
   {
     "tm_player_id": 691892,
-    "espn_player_id": null,
+    "espn_player_id": 120829,
     "name": "Nathaniel Brown",
     "slug": "nathaniel-brown",
     "position": "Left-Back",
@@ -419,7 +419,7 @@
   },
   {
     "tm_player_id": 792380,
-    "espn_player_id": null,
+    "espn_player_id": 359370,
     "name": "Aleksandar Pavlovic",
     "slug": "aleksandar-pavlovic",
     "position": "Defensive Midfield",
@@ -441,7 +441,7 @@
   },
   {
     "tm_player_id": 161056,
-    "espn_player_id": null,
+    "espn_player_id": 190161,
     "name": "Joshua Kimmich",
     "slug": "joshua-kimmich",
     "position": "Defensive Midfield",
@@ -463,7 +463,7 @@
   },
   {
     "tm_player_id": 443710,
-    "espn_player_id": null,
+    "espn_player_id": 290232,
     "name": "Angelo Stiller",
     "slug": "angelo-stiller",
     "position": "Defensive Midfield",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 406640,
-    "espn_player_id": null,
+    "espn_player_id": 281122,
     "name": "Felix Nmecha",
     "slug": "felix-nmecha",
     "position": "Central Midfield",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 153084,
-    "espn_player_id": null,
+    "espn_player_id": 174550,
     "name": "Leon Goretzka",
     "slug": "leon-goretzka",
     "position": "Central Midfield",
@@ -573,7 +573,7 @@
   },
   {
     "tm_player_id": 232454,
-    "espn_player_id": null,
+    "espn_player_id": 210818,
     "name": "Nadiem Amiri",
     "slug": "nadiem-amiri",
     "position": "Central Midfield",
@@ -595,7 +595,7 @@
   },
   {
     "tm_player_id": 897424,
-    "espn_player_id": null,
+    "espn_player_id": 364897,
     "name": "Assan Ouédraogo",
     "slug": "assan-ouedraogo",
     "position": "Central Midfield",
@@ -639,7 +639,7 @@
   },
   {
     "tm_player_id": 580195,
-    "espn_player_id": null,
+    "espn_player_id": 303821,
     "name": "Jamal Musiala",
     "slug": "jamal-musiala",
     "position": "Attacking Midfield",
@@ -661,7 +661,7 @@
   },
   {
     "tm_player_id": 598577,
-    "espn_player_id": null,
+    "espn_player_id": 303748,
     "name": "Florian Wirtz",
     "slug": "florian-wirtz",
     "position": "Attacking Midfield",
@@ -749,7 +749,7 @@
   },
   {
     "tm_player_id": 192565,
-    "espn_player_id": null,
+    "espn_player_id": 202641,
     "name": "Leroy Sané",
     "slug": "leroy-sane",
     "position": "Right Winger",
@@ -793,7 +793,7 @@
   },
   {
     "tm_player_id": 518505,
-    "espn_player_id": null,
+    "espn_player_id": 290811,
     "name": "Jamie Leweling",
     "slug": "jamie-leweling",
     "position": "Right Winger",
@@ -837,7 +837,7 @@
   },
   {
     "tm_player_id": 578392,
-    "espn_player_id": null,
+    "espn_player_id": 290639,
     "name": "Maximilian Beier",
     "slug": "maximilian-beier",
     "position": "Centre-Forward",
@@ -859,7 +859,7 @@
   },
   {
     "tm_player_id": 339314,
-    "espn_player_id": null,
+    "espn_player_id": 273300,
     "name": "Deniz Undav",
     "slug": "deniz-undav",
     "position": "Centre-Forward",
@@ -947,7 +947,7 @@
   },
   {
     "tm_player_id": 455661,
-    "espn_player_id": null,
+    "espn_player_id": 298349,
     "name": "Nick Woltemade",
     "slug": "nick-woltemade",
     "position": "Centre-Forward",

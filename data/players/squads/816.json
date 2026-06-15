@@ -8,7 +8,18 @@
     "age": 27,
     "market_value_m": 3.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 39,
+      "minutes": 3555,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 393686,
@@ -19,7 +30,18 @@
     "age": 24,
     "market_value_m": 2.5,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2370,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 186374,
@@ -30,7 +52,18 @@
     "age": 28,
     "market_value_m": 2.5,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 47,
+      "minutes": 4260,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 488063,
@@ -41,7 +74,18 @@
     "age": 22,
     "market_value_m": 1.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 34,
+      "minutes": 3090,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 291097,
@@ -52,7 +96,18 @@
     "age": 27,
     "market_value_m": 0.4,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2996,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 263236,
@@ -63,7 +118,18 @@
     "age": 26,
     "market_value_m": 25.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2328,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 225657,
@@ -74,7 +140,18 @@
     "age": 28,
     "market_value_m": 15.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2450,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.073,
+      "assists_per_90": 0.0,
+      "form_score": 0.073
+    }
   },
   {
     "tm_player_id": 223974,
@@ -85,7 +162,18 @@
     "age": 27,
     "market_value_m": 10.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2184,
+      "goals": 3,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.124,
+      "assists_per_90": 0.0,
+      "form_score": 0.124
+    }
   },
   {
     "tm_player_id": 59016,
@@ -96,7 +184,18 @@
     "age": 32,
     "market_value_m": 10.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 16,
+      "minutes": 575,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 156990,
@@ -107,7 +206,18 @@
     "age": 26,
     "market_value_m": 10.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2639,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.034,
+      "assists_per_90": 0.0,
+      "form_score": 0.034
+    }
   },
   {
     "tm_player_id": 263361,
@@ -118,7 +228,18 @@
     "age": 26,
     "market_value_m": 8.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 4,
+      "minutes": 159,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 655217,
@@ -129,7 +250,18 @@
     "age": 20,
     "market_value_m": 6.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2071,
+      "goals": 2,
+      "assists": 2,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.087,
+      "assists_per_90": 0.087,
+      "form_score": 0.174
+    }
   },
   {
     "tm_player_id": 597432,
@@ -140,7 +272,18 @@
     "age": 21,
     "market_value_m": 5.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 34,
+      "minutes": 3004,
+      "goals": 7,
+      "assists": 0,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.21,
+      "assists_per_90": 0.0,
+      "form_score": 0.21
+    }
   },
   {
     "tm_player_id": 59145,
@@ -151,7 +294,18 @@
     "age": 32,
     "market_value_m": 3.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 5,
+      "minutes": 282,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 393766,
@@ -162,7 +316,18 @@
     "age": 24,
     "market_value_m": 2.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 14,
+      "minutes": 585,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.154,
+      "form_score": 0.154
+    }
   },
   {
     "tm_player_id": 127573,
@@ -173,7 +338,18 @@
     "age": 30,
     "market_value_m": 1.8,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 39,
+      "minutes": 2781,
+      "goals": 1,
+      "assists": 5,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.032,
+      "assists_per_90": 0.162,
+      "form_score": 0.194
+    }
   },
   {
     "tm_player_id": 223967,
@@ -184,7 +360,18 @@
     "age": 27,
     "market_value_m": 25.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 47,
+      "minutes": 3297,
+      "goals": 3,
+      "assists": 13,
+      "yellows": 14,
+      "reds": 0,
+      "goals_per_90": 0.082,
+      "assists_per_90": 0.355,
+      "form_score": 0.437
+    }
   },
   {
     "tm_player_id": 85791,
@@ -195,7 +382,18 @@
     "age": 32,
     "market_value_m": 1.8,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 38,
+      "minutes": 3202,
+      "goals": 1,
+      "assists": 7,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.028,
+      "assists_per_90": 0.197,
+      "form_score": 0.225
+    }
   },
   {
     "tm_player_id": 404950,
@@ -206,7 +404,18 @@
     "age": 23,
     "market_value_m": 16.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 37,
+      "minutes": 3046,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.059,
+      "form_score": 0.059
+    }
   },
   {
     "tm_player_id": 195736,
@@ -217,7 +426,18 @@
     "age": 29,
     "market_value_m": 3.5,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2189,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.123,
+      "assists_per_90": 0.082,
+      "form_score": 0.206
+    }
   },
   {
     "tm_player_id": 223979,
@@ -228,7 +448,18 @@
     "age": 27,
     "market_value_m": 28.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2067,
+      "goals": 3,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.131,
+      "assists_per_90": 0.044,
+      "form_score": 0.174
+    }
   },
   {
     "tm_player_id": 106987,
@@ -239,7 +470,18 @@
     "age": 30,
     "market_value_m": 15.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2348,
+      "goals": 1,
+      "assists": 4,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.038,
+      "assists_per_90": 0.153,
+      "form_score": 0.192
+    }
   },
   {
     "tm_player_id": 118397,
@@ -250,7 +492,18 @@
     "age": 30,
     "market_value_m": 0.8,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2556,
+      "goals": 5,
+      "assists": 6,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.176,
+      "assists_per_90": 0.211,
+      "form_score": 0.387
+    }
   },
   {
     "tm_player_id": 601143,
@@ -261,7 +514,18 @@
     "age": 21,
     "market_value_m": 0.8,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 31,
+      "minutes": 1051,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.086,
+      "form_score": 0.086
+    }
   },
   {
     "tm_player_id": 434116,
@@ -272,7 +536,18 @@
     "age": 23,
     "market_value_m": 9.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 34,
+      "minutes": 1417,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.191,
+      "assists_per_90": 0.127,
+      "form_score": 0.318
+    }
   },
   {
     "tm_player_id": 324278,
@@ -283,7 +558,18 @@
     "age": 25,
     "market_value_m": 18.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 37,
+      "minutes": 3019,
+      "goals": 17,
+      "assists": 9,
+      "yellows": 11,
+      "reds": 0,
+      "goals_per_90": 0.507,
+      "assists_per_90": 0.268,
+      "form_score": 0.775
+    }
   },
   {
     "tm_player_id": 346853,
@@ -294,7 +580,18 @@
     "age": 24,
     "market_value_m": 15.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 35,
+      "minutes": 3083,
+      "goals": 4,
+      "assists": 8,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.117,
+      "assists_per_90": 0.234,
+      "form_score": 0.35
+    }
   },
   {
     "tm_player_id": 422281,
@@ -305,7 +602,18 @@
     "age": 24,
     "market_value_m": 5.5,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 26,
+      "minutes": 862,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.313,
+      "form_score": 0.313
+    }
   },
   {
     "tm_player_id": 106872,
@@ -316,7 +624,18 @@
     "age": 31,
     "market_value_m": 4.5,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 32,
+      "minutes": 1573,
+      "goals": 1,
+      "assists": 4,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.057,
+      "assists_per_90": 0.229,
+      "form_score": 0.286
+    }
   },
   {
     "tm_player_id": 391766,
@@ -327,7 +646,18 @@
     "age": 26,
     "market_value_m": 4.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2102,
+      "goals": 3,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.128,
+      "assists_per_90": 0.043,
+      "form_score": 0.171
+    }
   },
   {
     "tm_player_id": 406608,
@@ -338,7 +668,18 @@
     "age": 22,
     "market_value_m": 3.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 43,
+      "minutes": 2635,
+      "goals": 1,
+      "assists": 10,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.034,
+      "assists_per_90": 0.342,
+      "form_score": 0.376
+    }
   },
   {
     "tm_player_id": 283497,
@@ -349,7 +690,18 @@
     "age": 28,
     "market_value_m": 1.5,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1312,
+      "goals": 3,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.206,
+      "assists_per_90": 0.069,
+      "form_score": 0.274
+    }
   },
   {
     "tm_player_id": 533295,
@@ -360,7 +712,18 @@
     "age": 23,
     "market_value_m": 12.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 27,
+      "minutes": 1769,
+      "goals": 4,
+      "assists": 6,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.204,
+      "assists_per_90": 0.305,
+      "form_score": 0.509
+    }
   },
   {
     "tm_player_id": 803052,
@@ -371,7 +734,18 @@
     "age": 18,
     "market_value_m": 1.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 45,
+      "minutes": 2777,
+      "goals": 5,
+      "assists": 6,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.162,
+      "assists_per_90": 0.194,
+      "form_score": 0.356
+    }
   },
   {
     "tm_player_id": 120205,
@@ -382,7 +756,18 @@
     "age": 30,
     "market_value_m": 6.0,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 31,
+      "minutes": 1343,
+      "goals": 9,
+      "assists": 4,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.603,
+      "assists_per_90": 0.268,
+      "form_score": 0.871
+    }
   },
   {
     "tm_player_id": 41384,
@@ -393,7 +778,18 @@
     "age": 35,
     "market_value_m": 3.5,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 32,
+      "minutes": 1928,
+      "goals": 10,
+      "assists": 9,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.467,
+      "assists_per_90": 0.42,
+      "form_score": 0.887
+    }
   },
   {
     "tm_player_id": 449444,
@@ -404,7 +800,18 @@
     "age": 23,
     "market_value_m": 1.5,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 34,
+      "minutes": 1658,
+      "goals": 8,
+      "assists": 4,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.434,
+      "assists_per_90": 0.217,
+      "form_score": 0.651
+    }
   },
   {
     "tm_player_id": 49693,
@@ -415,6 +822,17 @@
     "age": 33,
     "market_value_m": 0.8,
     "fdorg_team_id": 816,
-    "team_name": "Austria"
+    "team_name": "Austria",
+    "club_season": {
+      "apps": 44,
+      "minutes": 2083,
+      "goals": 2,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.086,
+      "assists_per_90": 0.13,
+      "form_score": 0.216
+    }
   }
 ]

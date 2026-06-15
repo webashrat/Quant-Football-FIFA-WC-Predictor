@@ -8,7 +8,18 @@
     "age": 32,
     "market_value_m": 0.8,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 34,
+      "minutes": 3060,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 569433,
@@ -19,7 +30,18 @@
     "age": 27,
     "market_value_m": 0.65,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 28,
+      "minutes": 2550,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 679463,
@@ -30,7 +52,18 @@
     "age": 24,
     "market_value_m": 0.3,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 33,
+      "minutes": 3000,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 295381,
@@ -41,7 +74,18 @@
     "age": 28,
     "market_value_m": 0.3,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2865,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 206758,
@@ -52,7 +96,18 @@
     "age": 36,
     "market_value_m": 0.175,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 23,
+      "minutes": 2054,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 441867,
@@ -63,7 +118,18 @@
     "age": 35,
     "market_value_m": 0.1,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 33,
+      "minutes": 2970,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 496706,
@@ -74,7 +140,18 @@
     "age": 26,
     "market_value_m": 5.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2790,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.032,
+      "form_score": 0.032
+    }
   },
   {
     "tm_player_id": 306330,
@@ -85,7 +162,18 @@
     "age": 31,
     "market_value_m": 1.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 25,
+      "minutes": 2146,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.084,
+      "assists_per_90": 0.0,
+      "form_score": 0.084
+    }
   },
   {
     "tm_player_id": 657796,
@@ -96,7 +184,18 @@
     "age": 23,
     "market_value_m": 1.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 17,
+      "minutes": 1162,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 1,
+      "goals_per_90": 0.077,
+      "assists_per_90": 0.0,
+      "form_score": 0.077
+    }
   },
   {
     "tm_player_id": 450417,
@@ -107,7 +206,18 @@
     "age": 29,
     "market_value_m": 1.3,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1818,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.05,
+      "assists_per_90": 0.05,
+      "form_score": 0.099
+    }
   },
   {
     "tm_player_id": 275956,
@@ -118,7 +228,18 @@
     "age": 29,
     "market_value_m": 0.9,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2987,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.03,
+      "assists_per_90": 0.03,
+      "form_score": 0.06
+    }
   },
   {
     "tm_player_id": 454494,
@@ -129,7 +250,18 @@
     "age": 29,
     "market_value_m": 0.7,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 29,
+      "minutes": 2610,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 244044,
@@ -140,7 +272,18 @@
     "age": 33,
     "market_value_m": 0.45,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 38,
+      "minutes": 3187,
+      "goals": 6,
+      "assists": 1,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.169,
+      "assists_per_90": 0.028,
+      "form_score": 0.198
+    }
   },
   {
     "tm_player_id": 191407,
@@ -151,7 +294,18 @@
     "age": 32,
     "market_value_m": 0.4,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1967,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.046,
+      "form_score": 0.046
+    }
   },
   {
     "tm_player_id": 295428,
@@ -162,7 +316,18 @@
     "age": 28,
     "market_value_m": 0.4,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 28,
+      "minutes": 2454,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1071742,
@@ -173,7 +338,18 @@
     "age": 20,
     "market_value_m": 0.2,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1998,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.09,
+      "assists_per_90": 0.045,
+      "form_score": 0.135
+    }
   },
   {
     "tm_player_id": 211474,
@@ -184,7 +360,18 @@
     "age": 31,
     "market_value_m": 3.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 32,
+      "minutes": 1657,
+      "goals": 3,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 1,
+      "goals_per_90": 0.163,
+      "assists_per_90": 0.0,
+      "form_score": 0.163
+    }
   },
   {
     "tm_player_id": 454495,
@@ -195,7 +382,18 @@
     "age": 29,
     "market_value_m": 0.65,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 38,
+      "minutes": 3220,
+      "goals": 1,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.028,
+      "assists_per_90": 0.084,
+      "form_score": 0.112
+    }
   },
   {
     "tm_player_id": 133042,
@@ -206,7 +404,18 @@
     "age": 34,
     "market_value_m": 0.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 27,
+      "minutes": 2276,
+      "goals": 3,
+      "assists": 7,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.119,
+      "assists_per_90": 0.277,
+      "form_score": 0.395
+    }
   },
   {
     "tm_player_id": 406008,
@@ -217,7 +426,18 @@
     "age": 25,
     "market_value_m": 1.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2993,
+      "goals": 0,
+      "assists": 4,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.12,
+      "form_score": 0.12
+    }
   },
   {
     "tm_player_id": 1034598,
@@ -228,7 +448,18 @@
     "age": 20,
     "market_value_m": 0.8,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 11,
+      "minutes": 833,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.216,
+      "assists_per_90": 0.0,
+      "form_score": 0.216
+    }
   },
   {
     "tm_player_id": 290406,
@@ -239,7 +470,18 @@
     "age": 29,
     "market_value_m": 0.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1883,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.048,
+      "assists_per_90": 0.048,
+      "form_score": 0.096
+    }
   },
   {
     "tm_player_id": 966603,
@@ -250,7 +492,18 @@
     "age": 21,
     "market_value_m": 0.45,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1354,
+      "goals": 0,
+      "assists": 2,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.133,
+      "form_score": 0.133
+    }
   },
   {
     "tm_player_id": 898076,
@@ -261,7 +514,18 @@
     "age": 24,
     "market_value_m": 0.2,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 5,
+      "minutes": 222,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.405,
+      "assists_per_90": 0.0,
+      "form_score": 0.405
+    }
   },
   {
     "tm_player_id": 290587,
@@ -272,7 +536,18 @@
     "age": 29,
     "market_value_m": 9.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 34,
+      "minutes": 1854,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 1,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 673513,
@@ -283,7 +558,18 @@
     "age": 24,
     "market_value_m": 3.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 35,
+      "minutes": 1741,
+      "goals": 2,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.103,
+      "assists_per_90": 0.052,
+      "form_score": 0.155
+    }
   },
   {
     "tm_player_id": 781998,
@@ -294,7 +580,18 @@
     "age": 25,
     "market_value_m": 0.6,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2429,
+      "goals": 6,
+      "assists": 5,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.222,
+      "assists_per_90": 0.185,
+      "form_score": 0.408
+    }
   },
   {
     "tm_player_id": 233782,
@@ -305,7 +602,18 @@
     "age": 28,
     "market_value_m": 5.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1869,
+      "goals": 1,
+      "assists": 5,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.048,
+      "assists_per_90": 0.241,
+      "form_score": 0.289
+    }
   },
   {
     "tm_player_id": 546712,
@@ -316,7 +624,18 @@
     "age": 23,
     "market_value_m": 2.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 26,
+      "minutes": 1372,
+      "goals": 5,
+      "assists": 6,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.328,
+      "assists_per_90": 0.394,
+      "form_score": 0.722
+    }
   },
   {
     "tm_player_id": 577881,
@@ -327,7 +646,18 @@
     "age": 25,
     "market_value_m": 2.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 33,
+      "minutes": 1811,
+      "goals": 1,
+      "assists": 4,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.05,
+      "assists_per_90": 0.199,
+      "form_score": 0.248
+    }
   },
   {
     "tm_player_id": 191903,
@@ -338,7 +668,18 @@
     "age": 32,
     "market_value_m": 1.4,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 29,
+      "minutes": 2490,
+      "goals": 8,
+      "assists": 2,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.289,
+      "assists_per_90": 0.072,
+      "form_score": 0.361
+    }
   },
   {
     "tm_player_id": 581156,
@@ -349,7 +690,18 @@
     "age": 24,
     "market_value_m": 1.2,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 41,
+      "minutes": 3098,
+      "goals": 3,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.087,
+      "assists_per_90": 0.029,
+      "form_score": 0.116
+    }
   },
   {
     "tm_player_id": 388220,
@@ -360,7 +712,18 @@
     "age": 24,
     "market_value_m": 2.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 27,
+      "minutes": 1595,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.169,
+      "assists_per_90": 0.113,
+      "form_score": 0.282
+    }
   },
   {
     "tm_player_id": 782935,
@@ -371,7 +734,18 @@
     "age": 23,
     "market_value_m": 1.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 35,
+      "minutes": 3033,
+      "goals": 0,
+      "assists": 4,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.119,
+      "form_score": 0.119
+    }
   },
   {
     "tm_player_id": 607224,
@@ -382,7 +756,18 @@
     "age": 21,
     "market_value_m": 9.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 30,
+      "minutes": 1369,
+      "goals": 1,
+      "assists": 4,
+      "yellows": 11,
+      "reds": 0,
+      "goals_per_90": 0.066,
+      "assists_per_90": 0.263,
+      "form_score": 0.329
+    }
   },
   {
     "tm_player_id": 295382,
@@ -393,7 +778,18 @@
     "age": 28,
     "market_value_m": 4.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 32,
+      "minutes": 1509,
+      "goals": 3,
+      "assists": 5,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.179,
+      "assists_per_90": 0.298,
+      "form_score": 0.477
+    }
   },
   {
     "tm_player_id": 295409,
@@ -404,7 +800,18 @@
     "age": 28,
     "market_value_m": 0.85,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 42,
+      "minutes": 2771,
+      "goals": 2,
+      "assists": 6,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.065,
+      "assists_per_90": 0.195,
+      "form_score": 0.26
+    }
   },
   {
     "tm_player_id": 810096,
@@ -415,7 +822,18 @@
     "age": 20,
     "market_value_m": 7.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 10,
+      "minutes": 316,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.285,
+      "form_score": 0.285
+    }
   },
   {
     "tm_player_id": 526466,
@@ -426,7 +844,18 @@
     "age": 25,
     "market_value_m": 4.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 24,
+      "minutes": 1219,
+      "goals": 0,
+      "assists": 4,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.295,
+      "form_score": 0.295
+    }
   },
   {
     "tm_player_id": 645589,
@@ -437,7 +866,18 @@
     "age": 25,
     "market_value_m": 3.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 37,
+      "minutes": 2368,
+      "goals": 5,
+      "assists": 7,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.19,
+      "assists_per_90": 0.266,
+      "form_score": 0.456
+    }
   },
   {
     "tm_player_id": 184491,
@@ -448,7 +888,18 @@
     "age": 32,
     "market_value_m": 2.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 17,
+      "minutes": 908,
+      "goals": 1,
+      "assists": 3,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.099,
+      "assists_per_90": 0.297,
+      "form_score": 0.396
+    }
   },
   {
     "tm_player_id": 230921,
@@ -459,7 +910,18 @@
     "age": 30,
     "market_value_m": 1.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 28,
+      "minutes": 2279,
+      "goals": 2,
+      "assists": 6,
+      "yellows": 6,
+      "reds": 1,
+      "goals_per_90": 0.079,
+      "assists_per_90": 0.237,
+      "form_score": 0.316
+    }
   },
   {
     "tm_player_id": 539677,
@@ -470,7 +932,18 @@
     "age": 22,
     "market_value_m": 1.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 49,
+      "minutes": 2941,
+      "goals": 5,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.153,
+      "assists_per_90": 0.092,
+      "form_score": 0.245
+    }
   },
   {
     "tm_player_id": 569961,
@@ -481,7 +954,18 @@
     "age": 25,
     "market_value_m": 0.8,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2185,
+      "goals": 2,
+      "assists": 6,
+      "yellows": 8,
+      "reds": 1,
+      "goals_per_90": 0.082,
+      "assists_per_90": 0.247,
+      "form_score": 0.33
+    }
   },
   {
     "tm_player_id": 1373350,
@@ -492,7 +976,18 @@
     "age": 18,
     "market_value_m": 0.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2258,
+      "goals": 6,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.239,
+      "assists_per_90": 0.04,
+      "form_score": 0.279
+    }
   },
   {
     "tm_player_id": 208880,
@@ -503,7 +998,18 @@
     "age": 32,
     "market_value_m": 0.75,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 23,
+      "minutes": 1784,
+      "goals": 1,
+      "assists": 10,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.05,
+      "assists_per_90": 0.504,
+      "form_score": 0.555
+    }
   },
   {
     "tm_player_id": 1198342,
@@ -514,7 +1020,18 @@
     "age": 19,
     "market_value_m": 0.1,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 6,
+      "minutes": 462,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.195,
+      "assists_per_90": 0.0,
+      "form_score": 0.195
+    }
   },
   {
     "tm_player_id": 975337,
@@ -525,7 +1042,18 @@
     "age": 18,
     "market_value_m": 0.0,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 2,
+      "minutes": 153,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 209304,
@@ -536,7 +1064,18 @@
     "age": 31,
     "market_value_m": 0.7,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 22,
+      "minutes": 744,
+      "goals": 4,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.484,
+      "assists_per_90": 0.0,
+      "form_score": 0.484
+    }
   },
   {
     "tm_player_id": 402087,
@@ -547,7 +1086,18 @@
     "age": 28,
     "market_value_m": 0.5,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2242,
+      "goals": 14,
+      "assists": 0,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.562,
+      "assists_per_90": 0.0,
+      "form_score": 0.562
+    }
   },
   {
     "tm_player_id": 953150,
@@ -558,7 +1108,18 @@
     "age": 27,
     "market_value_m": 0.4,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 30,
+      "minutes": 1650,
+      "goals": 4,
+      "assists": 3,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.218,
+      "assists_per_90": 0.164,
+      "form_score": 0.382
+    }
   },
   {
     "tm_player_id": 862950,
@@ -569,7 +1130,18 @@
     "age": 20,
     "market_value_m": 0.35,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 18,
+      "minutes": 976,
+      "goals": 6,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.553,
+      "assists_per_90": 0.184,
+      "form_score": 0.738
+    }
   },
   {
     "tm_player_id": 122635,
@@ -580,6 +1152,17 @@
     "age": 33,
     "market_value_m": 0.3,
     "fdorg_team_id": 802,
-    "team_name": "Tunisia"
+    "team_name": "Tunisia",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1519,
+      "goals": 3,
+      "assists": 5,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.178,
+      "assists_per_90": 0.296,
+      "form_score": 0.474
+    }
   }
 ]

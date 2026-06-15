@@ -8,7 +8,18 @@
     "age": 32,
     "market_value_m": 25.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 44,
+      "minutes": 3870,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.023,
+      "form_score": 0.023
+    }
   },
   {
     "tm_player_id": 296802,
@@ -19,7 +30,18 @@
     "age": 31,
     "market_value_m": 12.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 8,
+      "minutes": 750,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 229604,
@@ -30,7 +52,18 @@
     "age": 32,
     "market_value_m": 5.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 39,
+      "minutes": 3510,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 435001,
@@ -41,7 +74,18 @@
     "age": 27,
     "market_value_m": 2.2,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 23,
+      "minutes": 2100,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1296407,
@@ -52,7 +96,18 @@
     "age": 17,
     "market_value_m": 0.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 6,
+      "minutes": 495,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 355915,
@@ -63,7 +118,18 @@
     "age": 26,
     "market_value_m": 65.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2657,
+      "goals": 6,
+      "assists": 4,
+      "yellows": 11,
+      "reds": 1,
+      "goals_per_90": 0.203,
+      "assists_per_90": 0.135,
+      "form_score": 0.339
+    }
   },
   {
     "tm_player_id": 474800,
@@ -74,7 +140,18 @@
     "age": 25,
     "market_value_m": 25.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 26,
+      "minutes": 2015,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.045,
+      "form_score": 0.045
+    }
   },
   {
     "tm_player_id": 469781,
@@ -85,7 +162,18 @@
     "age": 27,
     "market_value_m": 24.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 39,
+      "minutes": 3365,
+      "goals": 0,
+      "assists": 5,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.134,
+      "form_score": 0.134
+    }
   },
   {
     "tm_player_id": 575998,
@@ -96,7 +184,18 @@
     "age": 25,
     "market_value_m": 20.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 36,
+      "minutes": 2853,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.032,
+      "assists_per_90": 0.032,
+      "form_score": 0.063
+    }
   },
   {
     "tm_player_id": 480763,
@@ -107,7 +206,18 @@
     "age": 26,
     "market_value_m": 7.5,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 18,
+      "minutes": 1314,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 428920,
@@ -118,7 +228,18 @@
     "age": 27,
     "market_value_m": 6.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 48,
+      "minutes": 4182,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 15,
+      "reds": 0,
+      "goals_per_90": 0.065,
+      "assists_per_90": 0.043,
+      "form_score": 0.108
+    }
   },
   {
     "tm_player_id": 661136,
@@ -129,7 +250,18 @@
     "age": 22,
     "market_value_m": 4.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 17,
+      "minutes": 1369,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.066,
+      "form_score": 0.066
+    }
   },
   {
     "tm_player_id": 113133,
@@ -140,7 +272,18 @@
     "age": 33,
     "market_value_m": 2.7,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 8,
+      "minutes": 507,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 54781,
@@ -151,7 +294,18 @@
     "age": 36,
     "market_value_m": 1.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 49,
+      "minutes": 4314,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 12,
+      "reds": 1,
+      "goals_per_90": 0.063,
+      "assists_per_90": 0.083,
+      "form_score": 0.146
+    }
   },
   {
     "tm_player_id": 1261395,
@@ -162,7 +316,18 @@
     "age": 21,
     "market_value_m": 0.15,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 22,
+      "minutes": 1988,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.045,
+      "assists_per_90": 0.0,
+      "form_score": 0.045
+    }
   },
   {
     "tm_player_id": 131225,
@@ -173,7 +338,18 @@
     "age": 32,
     "market_value_m": 7.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2019,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 7,
+      "reds": 2,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.134,
+      "form_score": 0.134
+    }
   },
   {
     "tm_player_id": 60410,
@@ -184,7 +360,18 @@
     "age": 33,
     "market_value_m": 3.5,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 17,
+      "minutes": 1153,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.078,
+      "assists_per_90": 0.078,
+      "form_score": 0.156
+    }
   },
   {
     "tm_player_id": 424042,
@@ -195,7 +382,18 @@
     "age": 26,
     "market_value_m": 25.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 46,
+      "minutes": 2400,
+      "goals": 2,
+      "assists": 4,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.075,
+      "assists_per_90": 0.15,
+      "form_score": 0.225
+    }
   },
   {
     "tm_player_id": 402733,
@@ -206,7 +404,18 @@
     "age": 27,
     "market_value_m": 5.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1650,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.218,
+      "assists_per_90": 0.055,
+      "form_score": 0.273
+    }
   },
   {
     "tm_player_id": 756990,
@@ -217,7 +426,18 @@
     "age": 23,
     "market_value_m": 35.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 45,
+      "minutes": 3053,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.059,
+      "assists_per_90": 0.0,
+      "form_score": 0.059
+    }
   },
   {
     "tm_player_id": 642758,
@@ -228,7 +448,18 @@
     "age": 25,
     "market_value_m": 11.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 24,
+      "minutes": 2091,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.129,
+      "form_score": 0.129
+    }
   },
   {
     "tm_player_id": 668547,
@@ -239,7 +470,18 @@
     "age": 21,
     "market_value_m": 9.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 41,
+      "minutes": 3073,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.088,
+      "assists_per_90": 0.117,
+      "form_score": 0.205
+    }
   },
   {
     "tm_player_id": 671915,
@@ -250,7 +492,18 @@
     "age": 23,
     "market_value_m": 7.5,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 43,
+      "minutes": 2970,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.061,
+      "assists_per_90": 0.0,
+      "form_score": 0.061
+    }
   },
   {
     "tm_player_id": 166237,
@@ -261,7 +514,18 @@
     "age": 30,
     "market_value_m": 5.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1634,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.165,
+      "assists_per_90": 0.22,
+      "form_score": 0.386
+    }
   },
   {
     "tm_player_id": 534033,
@@ -272,7 +536,18 @@
     "age": 26,
     "market_value_m": 80.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 55,
+      "minutes": 3885,
+      "goals": 5,
+      "assists": 7,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.116,
+      "assists_per_90": 0.162,
+      "form_score": 0.278
+    }
   },
   {
     "tm_player_id": 648195,
@@ -283,7 +558,18 @@
     "age": 23,
     "market_value_m": 75.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 54,
+      "minutes": 4379,
+      "goals": 15,
+      "assists": 7,
+      "yellows": 14,
+      "reds": 0,
+      "goals_per_90": 0.308,
+      "assists_per_90": 0.144,
+      "form_score": 0.452
+    }
   },
   {
     "tm_player_id": 401578,
@@ -294,7 +580,18 @@
     "age": 26,
     "market_value_m": 40.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 25,
+      "minutes": 1580,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.057,
+      "form_score": 0.057
+    }
   },
   {
     "tm_player_id": 255901,
@@ -305,7 +602,18 @@
     "age": 30,
     "market_value_m": 25.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 15,
+      "minutes": 1350,
+      "goals": 4,
+      "assists": 4,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.267,
+      "assists_per_90": 0.267,
+      "form_score": 0.533
+    }
   },
   {
     "tm_player_id": 849410,
@@ -316,7 +624,18 @@
     "age": 20,
     "market_value_m": 6.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3359,
+      "goals": 3,
+      "assists": 9,
+      "yellows": 8,
+      "reds": 0,
+      "goals_per_90": 0.08,
+      "assists_per_90": 0.241,
+      "form_score": 0.322
+    }
   },
   {
     "tm_player_id": 348795,
@@ -327,7 +646,18 @@
     "age": 28,
     "market_value_m": 20.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 32,
+      "minutes": 1777,
+      "goals": 3,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.152,
+      "assists_per_90": 0.152,
+      "form_score": 0.304
+    }
   },
   {
     "tm_player_id": 948294,
@@ -338,7 +668,18 @@
     "age": 20,
     "market_value_m": 20.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 40,
+      "minutes": 3291,
+      "goals": 13,
+      "assists": 8,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.356,
+      "assists_per_90": 0.219,
+      "form_score": 0.574
+    }
   },
   {
     "tm_player_id": 486031,
@@ -349,7 +690,18 @@
     "age": 26,
     "market_value_m": 35.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 39,
+      "minutes": 1931,
+      "goals": 5,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.233,
+      "assists_per_90": 0.0,
+      "form_score": 0.233
+    }
   },
   {
     "tm_player_id": 576028,
@@ -360,7 +712,18 @@
     "age": 23,
     "market_value_m": 27.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 40,
+      "minutes": 1704,
+      "goals": 4,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.211,
+      "assists_per_90": 0.106,
+      "form_score": 0.317
+    }
   },
   {
     "tm_player_id": 321247,
@@ -371,7 +734,18 @@
     "age": 28,
     "market_value_m": 18.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 54,
+      "minutes": 2885,
+      "goals": 11,
+      "assists": 9,
+      "yellows": 9,
+      "reds": 0,
+      "goals_per_90": 0.343,
+      "assists_per_90": 0.281,
+      "form_score": 0.624
+    }
   },
   {
     "tm_player_id": 961022,
@@ -382,7 +756,18 @@
     "age": 21,
     "market_value_m": 6.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 20,
+      "minutes": 677,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.399,
+      "form_score": 0.399
+    }
   },
   {
     "tm_player_id": 28003,
@@ -393,7 +778,18 @@
     "age": 37,
     "market_value_m": 20.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1423,
+      "goals": 13,
+      "assists": 7,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.822,
+      "assists_per_90": 0.443,
+      "form_score": 1.265
+    }
   },
   {
     "tm_player_id": 1057316,
@@ -404,7 +800,18 @@
     "age": 17,
     "market_value_m": 15.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 35,
+      "minutes": 1484,
+      "goals": 3,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.182,
+      "assists_per_90": 0.061,
+      "form_score": 0.243
+    }
   },
   {
     "tm_player_id": 742201,
@@ -415,7 +822,18 @@
     "age": 22,
     "market_value_m": 12.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 53,
+      "minutes": 3803,
+      "goals": 7,
+      "assists": 8,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.166,
+      "assists_per_90": 0.189,
+      "form_score": 0.355
+    }
   },
   {
     "tm_player_id": 1000674,
@@ -426,7 +844,18 @@
     "age": 18,
     "market_value_m": 10.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 41,
+      "minutes": 2126,
+      "goals": 3,
+      "assists": 6,
+      "yellows": 13,
+      "reds": 0,
+      "goals_per_90": 0.127,
+      "assists_per_90": 0.254,
+      "form_score": 0.381
+    }
   },
   {
     "tm_player_id": 266807,
@@ -437,7 +866,18 @@
     "age": 29,
     "market_value_m": 15.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 50,
+      "minutes": 4270,
+      "goals": 18,
+      "assists": 13,
+      "yellows": 10,
+      "reds": 0,
+      "goals_per_90": 0.379,
+      "assists_per_90": 0.274,
+      "form_score": 0.653
+    }
   },
   {
     "tm_player_id": 406625,
@@ -448,7 +888,18 @@
     "age": 27,
     "market_value_m": 100.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 41,
+      "minutes": 2767,
+      "goals": 22,
+      "assists": 6,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.716,
+      "assists_per_90": 0.195,
+      "form_score": 0.911
+    }
   },
   {
     "tm_player_id": 576024,
@@ -459,7 +910,18 @@
     "age": 24,
     "market_value_m": 80.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 49,
+      "minutes": 3549,
+      "goals": 20,
+      "assists": 9,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.507,
+      "assists_per_90": 0.228,
+      "form_score": 0.735
+    }
   },
   {
     "tm_player_id": 849520,
@@ -470,7 +932,18 @@
     "age": 20,
     "market_value_m": 25.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 51,
+      "minutes": 3443,
+      "goals": 11,
+      "assists": 4,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.288,
+      "assists_per_90": 0.105,
+      "form_score": 0.392
+    }
   },
   {
     "tm_player_id": 844797,
@@ -481,7 +954,18 @@
     "age": 24,
     "market_value_m": 9.0,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2701,
+      "goals": 14,
+      "assists": 10,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.466,
+      "assists_per_90": 0.333,
+      "form_score": 0.8
+    }
   },
   {
     "tm_player_id": 1064871,
@@ -492,6 +976,17 @@
     "age": 22,
     "market_value_m": 0.8,
     "fdorg_team_id": 762,
-    "team_name": "Argentina"
+    "team_name": "Argentina",
+    "club_season": {
+      "apps": 39,
+      "minutes": 2932,
+      "goals": 20,
+      "assists": 4,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.614,
+      "assists_per_90": 0.123,
+      "form_score": 0.737
+    }
   }
 ]

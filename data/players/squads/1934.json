@@ -8,7 +8,18 @@
     "age": 19,
     "market_value_m": 3.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 31,
+      "minutes": 2790,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 541420,
@@ -19,7 +30,18 @@
     "age": 25,
     "market_value_m": 1.4,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 10,
+      "minutes": 900,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 371816,
@@ -30,7 +52,18 @@
     "age": 26,
     "market_value_m": 1.2,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 13,
+      "minutes": 1170,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 164915,
@@ -41,7 +74,18 @@
     "age": 30,
     "market_value_m": 0.6,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 4,
+      "minutes": 315,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 134700,
@@ -52,7 +96,18 @@
     "age": 39,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 590421,
@@ -63,7 +118,18 @@
     "age": 27,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 914777,
@@ -74,7 +140,18 @@
     "age": 24,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 4,
+      "minutes": 360,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 342046,
@@ -85,7 +162,18 @@
     "age": 27,
     "market_value_m": 5.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1337,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.067,
+      "assists_per_90": 0.0,
+      "form_score": 0.067
+    }
   },
   {
     "tm_player_id": 203348,
@@ -96,7 +184,18 @@
     "age": 30,
     "market_value_m": 5.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1657,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.054,
+      "form_score": 0.054
+    }
   },
   {
     "tm_player_id": 679709,
@@ -107,7 +206,18 @@
     "age": 26,
     "market_value_m": 2.5,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 42,
+      "minutes": 3749,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.024,
+      "assists_per_90": 0.0,
+      "form_score": 0.024
+    }
   },
   {
     "tm_player_id": 289432,
@@ -118,7 +228,18 @@
     "age": 28,
     "market_value_m": 2.5,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 21,
+      "minutes": 1862,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.048,
+      "assists_per_90": 0.0,
+      "form_score": 0.048
+    }
   },
   {
     "tm_player_id": 727633,
@@ -129,7 +250,18 @@
     "age": 31,
     "market_value_m": 0.45,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 16,
+      "minutes": 1253,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 511802,
@@ -140,7 +272,18 @@
     "age": 25,
     "market_value_m": 0.4,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2988,
+      "goals": 5,
+      "assists": 1,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.151,
+      "assists_per_90": 0.03,
+      "form_score": 0.181
+    }
   },
   {
     "tm_player_id": 863248,
@@ -151,7 +294,18 @@
     "age": 26,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 914782,
@@ -162,7 +316,18 @@
     "age": 24,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 8,
+      "minutes": 667,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.135,
+      "assists_per_90": 0.0,
+      "form_score": 0.135
+    }
   },
   {
     "tm_player_id": 934871,
@@ -173,7 +338,18 @@
     "age": 23,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1302203,
@@ -184,7 +360,18 @@
     "age": 26,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 5,
+      "minutes": 450,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 181380,
@@ -195,7 +382,18 @@
     "age": 31,
     "market_value_m": 3.5,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 10,
+      "minutes": 481,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 129586,
@@ -206,7 +404,18 @@
     "age": 30,
     "market_value_m": 2.5,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 39,
+      "minutes": 2890,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 6,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.031,
+      "form_score": 0.031
+    }
   },
   {
     "tm_player_id": 1336570,
@@ -217,7 +426,18 @@
     "age": 24,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1431007,
@@ -228,7 +448,18 @@
     "age": 20,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 477758,
@@ -239,7 +470,18 @@
     "age": 27,
     "market_value_m": 22.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 27,
+      "minutes": 2204,
+      "goals": 0,
+      "assists": 3,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.123,
+      "form_score": 0.123
+    }
   },
   {
     "tm_player_id": 395685,
@@ -250,7 +492,18 @@
     "age": 27,
     "market_value_m": 2.5,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 19,
+      "minutes": 1377,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.065,
+      "form_score": 0.065
+    }
   },
   {
     "tm_player_id": 503795,
@@ -261,7 +514,18 @@
     "age": 24,
     "market_value_m": 1.5,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 34,
+      "minutes": 2657,
+      "goals": 3,
+      "assists": 4,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.102,
+      "assists_per_90": 0.135,
+      "form_score": 0.237
+    }
   },
   {
     "tm_player_id": 715470,
@@ -272,7 +536,18 @@
     "age": 24,
     "market_value_m": 0.4,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 13,
+      "minutes": 1132,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.08,
+      "form_score": 0.08
+    }
   },
   {
     "tm_player_id": 1431006,
@@ -283,7 +558,18 @@
     "age": 20,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1016015,
@@ -294,7 +580,18 @@
     "age": 20,
     "market_value_m": 10.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 42,
+      "minutes": 2283,
+      "goals": 2,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.079,
+      "assists_per_90": 0.0,
+      "form_score": 0.079
+    }
   },
   {
     "tm_player_id": 243879,
@@ -305,7 +602,18 @@
     "age": 27,
     "market_value_m": 2.4,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 26,
+      "minutes": 856,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 1,
+      "goals_per_90": 0.105,
+      "assists_per_90": 0.0,
+      "form_score": 0.105
+    }
   },
   {
     "tm_player_id": 934873,
@@ -316,7 +624,18 @@
     "age": 26,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 984694,
@@ -327,7 +646,18 @@
     "age": 24,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 13,
+      "minutes": 1170,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 727089,
@@ -338,7 +668,18 @@
     "age": 20,
     "market_value_m": 8.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 35,
+      "minutes": 3042,
+      "goals": 0,
+      "assists": 1,
+      "yellows": 11,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.03,
+      "form_score": 0.03
+    }
   },
   {
     "tm_player_id": 486477,
@@ -349,7 +690,18 @@
     "age": 26,
     "market_value_m": 3.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 38,
+      "minutes": 2587,
+      "goals": 4,
+      "assists": 1,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.139,
+      "assists_per_90": 0.035,
+      "form_score": 0.174
+    }
   },
   {
     "tm_player_id": 353403,
@@ -360,7 +712,18 @@
     "age": 28,
     "market_value_m": 2.2,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2657,
+      "goals": 3,
+      "assists": 0,
+      "yellows": 7,
+      "reds": 0,
+      "goals_per_90": 0.102,
+      "assists_per_90": 0.0,
+      "form_score": 0.102
+    }
   },
   {
     "tm_player_id": 243633,
@@ -371,7 +734,18 @@
     "age": 29,
     "market_value_m": 0.4,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1631,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1098854,
@@ -382,7 +756,18 @@
     "age": 22,
     "market_value_m": 0.075,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 494375,
@@ -393,7 +778,18 @@
     "age": 28,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 10,
+      "minutes": 828,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 588866,
@@ -404,7 +800,18 @@
     "age": 20,
     "market_value_m": 14.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 30,
+      "minutes": 1168,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.077,
+      "assists_per_90": 0.077,
+      "form_score": 0.154
+    }
   },
   {
     "tm_player_id": 423678,
@@ -415,7 +822,18 @@
     "age": 27,
     "market_value_m": 5.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 25,
+      "minutes": 989,
+      "goals": 3,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.273,
+      "assists_per_90": 0.091,
+      "form_score": 0.364
+    }
   },
   {
     "tm_player_id": 74297,
@@ -426,7 +844,18 @@
     "age": 33,
     "market_value_m": 1.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2087,
+      "goals": 9,
+      "assists": 5,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.388,
+      "assists_per_90": 0.216,
+      "form_score": 0.604
+    }
   },
   {
     "tm_player_id": 754176,
@@ -437,7 +866,18 @@
     "age": 26,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 8,
+      "minutes": 347,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1431008,
@@ -448,7 +888,18 @@
     "age": 20,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 7,
+      "minutes": 251,
+      "goals": 1,
+      "assists": 1,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.359,
+      "assists_per_90": 0.359,
+      "form_score": 0.717
+    }
   },
   {
     "tm_player_id": 1431009,
@@ -459,7 +910,18 @@
     "age": 18,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 502239,
@@ -470,7 +932,18 @@
     "age": 23,
     "market_value_m": 7.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 18,
+      "minutes": 745,
+      "goals": 1,
+      "assists": 2,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.121,
+      "assists_per_90": 0.242,
+      "form_score": 0.362
+    }
   },
   {
     "tm_player_id": 557614,
@@ -481,7 +954,18 @@
     "age": 22,
     "market_value_m": 2.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 32,
+      "minutes": 2294,
+      "goals": 4,
+      "assists": 6,
+      "yellows": 5,
+      "reds": 0,
+      "goals_per_90": 0.157,
+      "assists_per_90": 0.235,
+      "form_score": 0.392
+    }
   },
   {
     "tm_player_id": 700565,
@@ -492,7 +976,18 @@
     "age": 26,
     "market_value_m": 0.5,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 30,
+      "minutes": 2250,
+      "goals": 6,
+      "assists": 9,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.24,
+      "assists_per_90": 0.36,
+      "form_score": 0.6
+    }
   },
   {
     "tm_player_id": 1072351,
@@ -503,7 +998,18 @@
     "age": 24,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1267722,
@@ -514,7 +1020,18 @@
     "age": 19,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1302205,
@@ -525,7 +1042,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 11,
+      "minutes": 928,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.097,
+      "assists_per_90": 0.0,
+      "form_score": 0.097
+    }
   },
   {
     "tm_player_id": 612826,
@@ -536,7 +1064,18 @@
     "age": 26,
     "market_value_m": 10.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 9,
+      "minutes": 400,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.225,
+      "assists_per_90": 0.0,
+      "form_score": 0.225
+    }
   },
   {
     "tm_player_id": 280701,
@@ -547,7 +1086,18 @@
     "age": 29,
     "market_value_m": 6.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 6,
+      "minutes": 110,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 342048,
@@ -558,7 +1108,18 @@
     "age": 26,
     "market_value_m": 3.8,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 21,
+      "minutes": 950,
+      "goals": 1,
+      "assists": 0,
+      "yellows": 3,
+      "reds": 0,
+      "goals_per_90": 0.095,
+      "assists_per_90": 0.0,
+      "form_score": 0.095
+    }
   },
   {
     "tm_player_id": 1087164,
@@ -569,7 +1130,18 @@
     "age": 19,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1680,
+      "goals": 12,
+      "assists": 6,
+      "yellows": 2,
+      "reds": 0,
+      "goals_per_90": 0.643,
+      "assists_per_90": 0.321,
+      "form_score": 0.964
+    }
   },
   {
     "tm_player_id": 388165,
@@ -580,7 +1152,18 @@
     "age": 28,
     "market_value_m": 28.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 28,
+      "minutes": 904,
+      "goals": 3,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.299,
+      "assists_per_90": 0.199,
+      "form_score": 0.498
+    }
   },
   {
     "tm_player_id": 344869,
@@ -591,7 +1174,18 @@
     "age": 28,
     "market_value_m": 15.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 20,
+      "minutes": 1421,
+      "goals": 9,
+      "assists": 1,
+      "yellows": 1,
+      "reds": 0,
+      "goals_per_90": 0.57,
+      "assists_per_90": 0.063,
+      "form_score": 0.633
+    }
   },
   {
     "tm_player_id": 395522,
@@ -602,7 +1196,18 @@
     "age": 26,
     "market_value_m": 4.5,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 29,
+      "minutes": 1317,
+      "goals": 6,
+      "assists": 1,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.41,
+      "assists_per_90": 0.068,
+      "form_score": 0.478
+    }
   },
   {
     "tm_player_id": 549966,
@@ -613,7 +1218,18 @@
     "age": 25,
     "market_value_m": 3.5,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 35,
+      "minutes": 2686,
+      "goals": 8,
+      "assists": 4,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.268,
+      "assists_per_90": 0.134,
+      "form_score": 0.402
+    }
   },
   {
     "tm_player_id": 127048,
@@ -624,7 +1240,18 @@
     "age": 33,
     "market_value_m": 1.8,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 27,
+      "minutes": 1175,
+      "goals": 4,
+      "assists": 3,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.306,
+      "assists_per_90": 0.23,
+      "form_score": 0.536
+    }
   },
   {
     "tm_player_id": 727157,
@@ -635,7 +1262,18 @@
     "age": 30,
     "market_value_m": 1.2,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 43,
+      "minutes": 3114,
+      "goals": 14,
+      "assists": 2,
+      "yellows": 4,
+      "reds": 0,
+      "goals_per_90": 0.405,
+      "assists_per_90": 0.058,
+      "form_score": 0.462
+    }
   },
   {
     "tm_player_id": 648080,
@@ -646,7 +1284,18 @@
     "age": 25,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 10,
+      "minutes": 867,
+      "goals": 5,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.519,
+      "assists_per_90": 0.0,
+      "form_score": 0.519
+    }
   },
   {
     "tm_player_id": 1087161,
@@ -657,7 +1306,18 @@
     "age": 21,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 5,
+      "minutes": 242,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1336595,
@@ -668,7 +1328,18 @@
     "age": 20,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   },
   {
     "tm_player_id": 1401567,
@@ -679,6 +1350,17 @@
     "age": 19,
     "market_value_m": 0.0,
     "fdorg_team_id": 1934,
-    "team_name": "Democratic Republic of the Congo"
+    "team_name": "Democratic Republic of the Congo",
+    "club_season": {
+      "apps": 0,
+      "minutes": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellows": 0,
+      "reds": 0,
+      "goals_per_90": 0.0,
+      "assists_per_90": 0.0,
+      "form_score": 0.0
+    }
   }
 ]
