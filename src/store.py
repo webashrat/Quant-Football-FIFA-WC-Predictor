@@ -81,8 +81,13 @@ def log_prediction(records: list[dict]):
     df_new = pd.DataFrame(records)
     if PREDICTIONS_PATH.exists():
         df_existing = pd.read_csv(PREDICTIONS_PATH)
+        # For rows that appear in both: preserve actual_outcome from existing,
+        # but take updated probabilities/tip from new prediction (keep='last').
+        if "actual_outcome" in df_existing.columns and "actual_outcome" in df_new.columns:
+            outcome_map = df_existing.dropna(subset=["actual_outcome"]).set_index("fixture_id")["actual_outcome"].to_dict()
+            df_new["actual_outcome"] = df_new["fixture_id"].map(outcome_map)
         df_all = pd.concat([df_existing, df_new], ignore_index=True)
-        df_all = df_all.drop_duplicates(subset=["fixture_id"])
+        df_all = df_all.drop_duplicates(subset=["fixture_id"], keep="last")
     else:
         df_all = df_new
     df_all.to_csv(PREDICTIONS_PATH, index=False)

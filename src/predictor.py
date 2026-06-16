@@ -38,6 +38,11 @@ _PLAYER_LO_SCALE = 1.0
 # before log-odds conversion so a huge value gap can't dominate completely.
 _MAX_PLAYER_NUDGE_PP = 12.0
 
+# WC draw recalibration: empirical WC 2026 draw rate (53.8%) >> model baseline (~27%).
+# Conservative 1.35x boost to P(draw), redistributing the probability mass from W/L.
+# Rationale: WC group stage draws are strategically valuable and teams defend tightly.
+_WC_DRAW_BOOST = 1.35
+
 
 class UnifiedPredictor:
     """
@@ -127,6 +132,11 @@ class UnifiedPredictor:
         # Only the win/loss split shifts; draw probability is held proportionally.
         p_w, p_d, p_l = self._apply_nudge(p_w, p_d, p_l, nudge_pp)
 
+        # ── Step 3b: WC draw recalibration ────────────────────────────────────
+        # WC 2026 empirical draw rate (~54%) far exceeds model baseline (~27%).
+        # Boost P(draw) by _WC_DRAW_BOOST and redistribute from W/L proportionally.
+        p_w, p_d, p_l = self._wc_draw_boost(p_w, p_d, p_l)
+
         # ── Step 4: Package result ────────────────────────────────────────────
         win_pct  = round(p_w * 100, 1)
         draw_pct = round(p_d * 100, 1)
@@ -173,6 +183,19 @@ class UnifiedPredictor:
             "L": round((1 - ph) * 0.75, 4),
         }
 
+    def _wc_draw_boost(self, p_w: float, p_d: float, p_l: float) -> tuple:
+        """Boost draw probability for WC group stage matches, rescaling W/L proportionally."""
+        p_d_new = min(p_d * _WC_DRAW_BOOST, 0.62)  # hard cap at 62%
+        overflow = p_d_new - p_d                    # probability mass taken from W+L
+        wl_sum = p_w + p_l
+        if wl_sum > 1e-6:
+            p_w_new = max(0.01, p_w - overflow * (p_w / wl_sum))
+            p_l_new = max(0.01, p_l - overflow * (p_l / wl_sum))
+        else:
+            p_w_new, p_l_new = p_w, p_l
+        total = p_w_new + p_d_new + p_l_new
+        return p_w_new / total, p_d_new / total, p_l_new / total
+
     def _apply_nudge(self, p_w, p_d, p_l, nudge_pp: float):
         """Shift win/loss in log-odds space, keep draw proportional."""
         if abs(nudge_pp) < 0.01:
@@ -198,8 +221,9 @@ class UnifiedPredictor:
     def _player_nudge(self, home_id: int, away_id: int, today: str) -> float:
         """Compute total player nudge in pp (positive = favours home)."""
         nudge = 0.0
+        hp = ap = None
 
-        # 1. Squad availability (injuries / suspensions)
+        # 1. Squad availability (injuries / suspensions) + capture squad values
         try:
             hp = get_team_player_features(home_id, today)
             ap = get_team_player_features(away_id, today)
@@ -222,6 +246,19 @@ class UnifiedPredictor:
             nudge += max(-3.0, min(3.0, (h_wc - a_wc) * 2.0))
         except Exception as e:
             logger.debug(f"wc momentum nudge error: {e}")
+
+        # 4. Squad market value differential (upset detection feature)
+        # Captures quality gap: a €1bn squad vs €50M squad suggests clear favourite.
+        # Scale: 200M gap ≈ 1pp nudge; capped at ±5pp to avoid dominating the signal.
+        try:
+            if hp is not None and ap is not None:
+                h_val = hp.get("squad_value_m", 0.0)
+                a_val = ap.get("squad_value_m", 0.0)
+                if h_val > 0 and a_val > 0:
+                    val_gap_pp = (h_val - a_val) / 200.0
+                    nudge += max(-5.0, min(5.0, val_gap_pp))
+        except Exception as e:
+            logger.debug(f"squad value nudge error: {e}")
 
         return nudge
 

@@ -83,6 +83,7 @@ FDORG_TO_TM: dict[int, tuple[int, str, str]] = {
     774:  (3806,  "sudafrika",                      "africa"),    # South Africa
     836:  (14161, "haiti",                          "haiti"),     # Haiti
     8873: (3380,  "schottland",                      "scotland"),  # Scotland
+    8872: (3440,  "norwegen",                        "norway"),    # Norway
 }
 
 

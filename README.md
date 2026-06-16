@@ -2,7 +2,9 @@
 
 A live, data-driven match prediction system for the 2026 FIFA World Cup. Runs every match day: ingests results, retrains the model, and prints probability breakdowns for upcoming fixtures.
 
-**Current accuracy: 4/10 (40%) | Model CV AUC: 0.602 | Training rows: 924**
+**Current accuracy: 4/14 (29%) | Model CV AUC: 0.607 | Training rows: 932**
+
+> **Draw crisis**: WC 2026 draw rate is 50% (8/16 matches). Model now applies a 1.35× draw recalibration and squad-value differential nudge.
 
 ---
 
@@ -159,14 +161,28 @@ Sample output:
 | Jun 14 | Netherlands vs Japan | Netherlands | 62.4% | 2–2 | ✗ |
 | Jun 14 | Ivory Coast vs Ecuador | Ecuador | 36.7% | 1–0 | ✗ |
 | Jun 14 | Sweden vs Tunisia | Sweden | 39.5% | 5–1 | ✓ |
+| Jun 15 | Spain vs Cape Verde Islands | Spain | 83.0% | 0–0 | ✗ |
+| Jun 15 | Belgium vs Egypt | Belgium | 53.0% | 1–1 | ✗ |
+| Jun 15 | Saudi Arabia vs Uruguay | Uruguay | 40.0% | 1–1 | ✗ |
+| Jun 15 | Iran vs New Zealand | Iran | 58.0% | 2–2 | ✗ |
+
+### June 16 Predictions (with draw-boost model)
+
+| Match | Tip | Win% | Draw% | Loss% | Conf |
+|-------|-----|------|-------|-------|------|
+| France vs Senegal | **France** | 46.1% | 39.4% | 14.5% | MEDIUM |
+| Iraq vs Norway | **Norway** | 35.3% | 27.6% | 37.1% | LOW |
+| Argentina vs Algeria | **Argentina** | 48.3% | 31.5% | 20.2% | MEDIUM |
+| Austria vs Jordan | **Austria** | 43.4% | 41.9% | 14.8% | LOW |
 
 ---
 
 ## Model details
 
 - **Algorithm**: LightGBM (3-class: W/D/L) wrapped in `CalibratedClassifierCV(cv=5, method="isotonic")`
-- **Training data**: ~900 international matches, 2022–present, weighted by competition importance (WC = 1.0, Friendly = 0.3)
+- **Training data**: ~932 international matches, 2022–present, weighted by competition importance (WC = 1.0, Friendly = 0.3)
 - **Features** (home − away diffs, 16 total): win rate, draw rate, goals for/against, goal diff, form score (recency-weighted), clean sheet rate, 3-match momentum, unbeaten streak, current Elo gap (`d_elo`), historical average Elo gap (`d_avg_elo`), H2H win/draw rate, home advantage
-- **Player nudge**: applied in log-odds space, capped at ±12pp total. Components: squad availability (TM injuries/suspensions), club-season form (G+A/90 of top 3 scorers), WC tournament momentum (goals/game)
+- **Player nudge**: applied in log-odds space, capped at ±12pp total. Components: squad availability (TM injuries/suspensions), club-season form (G+A/90 of top 3 scorers), WC tournament momentum (goals/game), **squad value differential** (€M gap / 200, capped ±5pp)
+- **WC draw recalibration**: P(draw) boosted ×1.35 post-prediction. WC 2026 empirical draw rate = 50% (8/16 matches) vs model baseline ~25%. Conservative 1.35× applied; probability redistributed proportionally from W/L.
 - **Elo**: seeded daily from [eloratings.net](https://eloratings.net/) (244 teams, proper Elo methodology), updated intra-tournament from live WC matches (K=30). Falls back to FIFA WR points if fetch fails.
 # Quant-Football-FIFA-WC-Predictor
