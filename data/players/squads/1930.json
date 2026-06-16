@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 182722,
-    "espn_player_id": null,
+    "espn_player_id": 366092,
     "name": "Bruno Varela",
     "slug": "bruno-varela",
     "position": "Goalkeeper",
@@ -23,7 +23,7 @@
   },
   {
     "tm_player_id": 398048,
-    "espn_player_id": null,
+    "espn_player_id": 260758,
     "name": "Márcio Rosa",
     "slug": "marcio-rosa",
     "position": "Goalkeeper",
@@ -45,7 +45,7 @@
   },
   {
     "tm_player_id": 242277,
-    "espn_player_id": null,
+    "espn_player_id": 181330,
     "name": "Vozinha",
     "slug": "vozinha",
     "position": "Goalkeeper",
@@ -89,7 +89,7 @@
   },
   {
     "tm_player_id": 484988,
-    "espn_player_id": null,
+    "espn_player_id": 224798,
     "name": "Logan Costa",
     "slug": "logan-costa",
     "position": "Centre-Back",
@@ -111,7 +111,7 @@
   },
   {
     "tm_player_id": 349570,
-    "espn_player_id": null,
+    "espn_player_id": 214683,
     "name": "Diney Borges",
     "slug": "diney-borges",
     "position": "Centre-Back",
@@ -133,7 +133,7 @@
   },
   {
     "tm_player_id": 247666,
-    "espn_player_id": null,
+    "espn_player_id": 265874,
     "name": "Ricardo Santos",
     "slug": "ricardo-santos",
     "position": "Centre-Back",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 662119,
-    "espn_player_id": null,
+    "espn_player_id": 378479,
     "name": "Kelvin Pires",
     "slug": "kelvin-pires",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 166158,
-    "espn_player_id": null,
+    "espn_player_id": 257716,
     "name": "Roberto Lopes",
     "slug": "roberto-lopes",
     "position": "Centre-Back",
@@ -243,7 +243,7 @@
   },
   {
     "tm_player_id": 80486,
-    "espn_player_id": null,
+    "espn_player_id": 148146,
     "name": "Stopira",
     "slug": "stopira",
     "position": "Centre-Back",
@@ -287,7 +287,7 @@
   },
   {
     "tm_player_id": 1044831,
-    "espn_player_id": null,
+    "espn_player_id": 180113,
     "name": "David Moreira",
     "slug": "david-moreira",
     "position": "Centre-Back",
@@ -309,7 +309,7 @@
   },
   {
     "tm_player_id": 774769,
-    "espn_player_id": null,
+    "espn_player_id": 101251,
     "name": "Jordan Semedo",
     "slug": "jordan-semedo",
     "position": "Left-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 611855,
-    "espn_player_id": null,
+    "espn_player_id": 250059,
     "name": "Sidny Lopes Cabral",
     "slug": "sidny-lopes-cabral",
     "position": "Left-Back",
@@ -353,7 +353,7 @@
   },
   {
     "tm_player_id": 1072017,
-    "espn_player_id": null,
+    "espn_player_id": 365810,
     "name": "Wagner Pina",
     "slug": "wagner-pina",
     "position": "Right-Back",
@@ -463,7 +463,7 @@
   },
   {
     "tm_player_id": 258513,
-    "espn_player_id": null,
+    "espn_player_id": 246442,
     "name": "Laros Duarte",
     "slug": "laros-duarte",
     "position": "Defensive Midfield",
@@ -485,7 +485,7 @@
   },
   {
     "tm_player_id": 623965,
-    "espn_player_id": null,
+    "espn_player_id": 318631,
     "name": "João Paulo",
     "slug": "joao-paulo",
     "position": "Defensive Midfield",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 1173606,
-    "espn_player_id": null,
+    "espn_player_id": 135216,
     "name": "Elson Mendes",
     "slug": "elson-mendes",
     "position": "Defensive Midfield",
@@ -551,7 +551,7 @@
   },
   {
     "tm_player_id": 272930,
-    "espn_player_id": null,
+    "espn_player_id": 227441,
     "name": "Jamiro Monteiro",
     "slug": "jamiro-monteiro",
     "position": "Central Midfield",
@@ -881,7 +881,7 @@
   },
   {
     "tm_player_id": 170895,
-    "espn_player_id": null,
+    "espn_player_id": 175012,
     "name": "Garry Rodrigues",
     "slug": "garry-rodrigues",
     "position": "Right Winger",
@@ -903,7 +903,7 @@
   },
   {
     "tm_player_id": 791528,
-    "espn_player_id": null,
+    "espn_player_id": 304076,
     "name": "Telmo Arcanjo",
     "slug": "telmo-arcanjo",
     "position": "Right Winger",
@@ -969,7 +969,7 @@
   },
   {
     "tm_player_id": 676411,
-    "espn_player_id": null,
+    "espn_player_id": 330211,
     "name": "Dailon Livramento",
     "slug": "dailon-livramento",
     "position": "Centre-Forward",
@@ -991,7 +991,7 @@
   },
   {
     "tm_player_id": 820252,
-    "espn_player_id": null,
+    "espn_player_id": 310261,
     "name": "Benchimol",
     "slug": "benchimol",
     "position": "Centre-Forward",

@@ -23,7 +23,7 @@
   },
   {
     "tm_player_id": 264014,
-    "espn_player_id": null,
+    "espn_player_id": 184206,
     "name": "Sergio Rochet",
     "slug": "sergio-rochet",
     "position": "Goalkeeper",
@@ -45,7 +45,7 @@
   },
   {
     "tm_player_id": 320739,
-    "espn_player_id": null,
+    "espn_player_id": 203067,
     "name": "Santiago Mele",
     "slug": "santiago-mele",
     "position": "Goalkeeper",
@@ -89,7 +89,7 @@
   },
   {
     "tm_player_id": 1236474,
-    "espn_player_id": null,
+    "espn_player_id": 109962,
     "name": "Kevin Martínez",
     "slug": "kevin-martinez",
     "position": "Goalkeeper",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 250845,
-    "espn_player_id": null,
+    "espn_player_id": 188398,
     "name": "José María Giménez",
     "slug": "jose-maria-gimenez",
     "position": "Centre-Back",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 438001,
-    "espn_player_id": null,
+    "espn_player_id": 241225,
     "name": "Santiago Bueno",
     "slug": "santiago-bueno",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 532389,
-    "espn_player_id": null,
+    "espn_player_id": 285756,
     "name": "Sebastián Cáceres",
     "slug": "sebastian-caceres",
     "position": "Centre-Back",
@@ -265,7 +265,7 @@
   },
   {
     "tm_player_id": 376514,
-    "espn_player_id": null,
+    "espn_player_id": 234881,
     "name": "Mathías Olivera",
     "slug": "mathias-olivera",
     "position": "Left-Back",
@@ -287,7 +287,7 @@
   },
   {
     "tm_player_id": 572675,
-    "espn_player_id": null,
+    "espn_player_id": 287025,
     "name": "Maxi Araújo",
     "slug": "maxi-araujo",
     "position": "Left-Back",
@@ -309,7 +309,7 @@
   },
   {
     "tm_player_id": 496268,
-    "espn_player_id": null,
+    "espn_player_id": 254007,
     "name": "Joaquín Piquerez",
     "slug": "joaquin-piquerez",
     "position": "Left-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 439072,
-    "espn_player_id": null,
+    "espn_player_id": 254032,
     "name": "Matías Viña",
     "slug": "matias-vina",
     "position": "Left-Back",
@@ -353,7 +353,7 @@
   },
   {
     "tm_player_id": 446106,
-    "espn_player_id": null,
+    "espn_player_id": 287497,
     "name": "Juan Manuel Sanabria",
     "slug": "juan-manuel-sanabria",
     "position": "Left-Back",
@@ -397,7 +397,7 @@
   },
   {
     "tm_player_id": 430339,
-    "espn_player_id": null,
+    "espn_player_id": 144325,
     "name": "José Luis Rodríguez",
     "slug": "jose-luis-rodriguez",
     "position": "Right-Back",
@@ -441,7 +441,7 @@
   },
   {
     "tm_player_id": 188862,
-    "espn_player_id": null,
+    "espn_player_id": 188368,
     "name": "Guillermo Varela",
     "slug": "guillermo-varela",
     "position": "Right-Back",
@@ -485,7 +485,7 @@
   },
   {
     "tm_player_id": 476701,
-    "espn_player_id": null,
+    "espn_player_id": 241468,
     "name": "Manuel Ugarte",
     "slug": "manuel-ugarte",
     "position": "Defensive Midfield",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 354362,
-    "espn_player_id": null,
+    "espn_player_id": 215772,
     "name": "Rodrigo Bentancur",
     "slug": "rodrigo-bentancur",
     "position": "Defensive Midfield",
@@ -661,7 +661,7 @@
   },
   {
     "tm_player_id": 369081,
-    "espn_player_id": null,
+    "espn_player_id": 235818,
     "name": "Federico Valverde",
     "slug": "federico-valverde",
     "position": "Central Midfield",
@@ -683,7 +683,7 @@
   },
   {
     "tm_player_id": 397458,
-    "espn_player_id": null,
+    "espn_player_id": 251889,
     "name": "Nicolás de la Cruz",
     "slug": "nicolas-de-la-cruz",
     "position": "Central Midfield",
@@ -727,7 +727,7 @@
   },
   {
     "tm_player_id": 606752,
-    "espn_player_id": null,
+    "espn_player_id": 287494,
     "name": "Rodrigo Zalazar",
     "slug": "rodrigo-zalazar",
     "position": "Attacking Midfield",
@@ -837,7 +837,7 @@
   },
   {
     "tm_player_id": 676318,
-    "espn_player_id": null,
+    "espn_player_id": 290538,
     "name": "Facundo Pellistri",
     "slug": "facundo-pellistri",
     "position": "Right Winger",
@@ -903,7 +903,7 @@
   },
   {
     "tm_player_id": 546543,
-    "espn_player_id": null,
+    "espn_player_id": 271788,
     "name": "Darwin Núñez",
     "slug": "darwin-nunez",
     "position": "Centre-Forward",
@@ -969,7 +969,7 @@
   },
   {
     "tm_player_id": 578419,
-    "espn_player_id": null,
+    "espn_player_id": 295847,
     "name": "Federico Viñas",
     "slug": "federico-vinas",
     "position": "Centre-Forward",
@@ -991,7 +991,7 @@
   },
   {
     "tm_player_id": 189410,
-    "espn_player_id": null,
+    "espn_player_id": 159042,
     "name": "Rodrigo Aguirre",
     "slug": "rodrigo-aguirre",
     "position": "Centre-Forward",

@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 108390,
-    "espn_player_id": null,
+    "espn_player_id": 134283,
     "name": "Thibaut Courtois",
     "slug": "thibaut-courtois",
     "position": "Goalkeeper",
@@ -67,7 +67,7 @@
   },
   {
     "tm_player_id": 834397,
-    "espn_player_id": null,
+    "espn_player_id": 332343,
     "name": "Mike Penders",
     "slug": "mike-penders",
     "position": "Goalkeeper",
@@ -89,7 +89,7 @@
   },
   {
     "tm_player_id": 503883,
-    "espn_player_id": null,
+    "espn_player_id": 301425,
     "name": "Senne Lammens",
     "slug": "senne-lammens",
     "position": "Goalkeeper",
@@ -155,7 +155,7 @@
   },
   {
     "tm_player_id": 368891,
-    "espn_player_id": null,
+    "espn_player_id": 304222,
     "name": "Arthur Theate",
     "slug": "arthur-theate",
     "position": "Centre-Back",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 490384,
-    "espn_player_id": null,
+    "espn_player_id": 309570,
     "name": "Koni De Winter",
     "slug": "koni-de-winter",
     "position": "Centre-Back",
@@ -221,7 +221,7 @@
   },
   {
     "tm_player_id": 236168,
-    "espn_player_id": null,
+    "espn_player_id": 191222,
     "name": "Brandon Mechele",
     "slug": "brandon-mechele",
     "position": "Centre-Back",
@@ -243,7 +243,7 @@
   },
   {
     "tm_player_id": 429915,
-    "espn_player_id": null,
+    "espn_player_id": 301327,
     "name": "Maxim De Cuyper",
     "slug": "maxim-de-cuyper",
     "position": "Left-Back",
@@ -265,7 +265,7 @@
   },
   {
     "tm_player_id": 981196,
-    "espn_player_id": null,
+    "espn_player_id": 363068,
     "name": "Joaquin Seys",
     "slug": "joaquin-seys",
     "position": "Left-Back",
@@ -287,7 +287,7 @@
   },
   {
     "tm_player_id": 262226,
-    "espn_player_id": null,
+    "espn_player_id": 197163,
     "name": "Timothy Castagne",
     "slug": "timothy-castagne",
     "position": "Right-Back",
@@ -309,7 +309,7 @@
   },
   {
     "tm_player_id": 100986,
-    "espn_player_id": null,
+    "espn_player_id": 166473,
     "name": "Thomas Meunier",
     "slug": "thomas-meunier",
     "position": "Right-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 485706,
-    "espn_player_id": null,
+    "espn_player_id": 304799,
     "name": "Amadou Onana",
     "slug": "amadou-onana",
     "position": "Defensive Midfield",
@@ -353,7 +353,7 @@
   },
   {
     "tm_player_id": 422763,
-    "espn_player_id": null,
+    "espn_player_id": 260027,
     "name": "Nicolas Raskin",
     "slug": "nicolas-raskin",
     "position": "Defensive Midfield",
@@ -397,7 +397,7 @@
   },
   {
     "tm_player_id": 35047,
-    "espn_player_id": null,
+    "espn_player_id": 164895,
     "name": "Axel Witsel",
     "slug": "axel-witsel",
     "position": "Defensive Midfield",
@@ -441,7 +441,7 @@
   },
   {
     "tm_player_id": 249565,
-    "espn_player_id": null,
+    "espn_player_id": 193297,
     "name": "Youri Tielemans",
     "slug": "youri-tielemans",
     "position": "Central Midfield",
@@ -485,7 +485,7 @@
   },
   {
     "tm_player_id": 381950,
-    "espn_player_id": null,
+    "espn_player_id": 271132,
     "name": "Alexis Saelemaekers",
     "slug": "alexis-saelemaekers",
     "position": "Right Midfield",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 655006,
-    "espn_player_id": null,
+    "espn_player_id": 340678,
     "name": "Diego Moreira",
     "slug": "diego-moreira",
     "position": "Left Midfield",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 435772,
-    "espn_player_id": null,
+    "espn_player_id": 296319,
     "name": "Charles De Ketelaere",
     "slug": "charles-de-ketelaere",
     "position": "Attacking Midfield",
@@ -551,7 +551,7 @@
   },
   {
     "tm_player_id": 88755,
-    "espn_player_id": null,
+    "espn_player_id": 134947,
     "name": "Kevin De Bruyne",
     "slug": "kevin-de-bruyne",
     "position": "Attacking Midfield",
@@ -573,7 +573,7 @@
   },
   {
     "tm_player_id": 137576,
-    "espn_player_id": null,
+    "espn_player_id": 193849,
     "name": "Hans Vanaken",
     "slug": "hans-vanaken",
     "position": "Attacking Midfield",
@@ -595,7 +595,7 @@
   },
   {
     "tm_player_id": 486049,
-    "espn_player_id": null,
+    "espn_player_id": 283672,
     "name": "Jérémy Doku",
     "slug": "jeremy-doku",
     "position": "Left Winger",
@@ -617,7 +617,7 @@
   },
   {
     "tm_player_id": 144028,
-    "espn_player_id": null,
+    "espn_player_id": 174980,
     "name": "Leandro Trossard",
     "slug": "leandro-trossard",
     "position": "Left Winger",
@@ -661,7 +661,7 @@
   },
   {
     "tm_player_id": 303259,
-    "espn_player_id": null,
+    "espn_player_id": 229443,
     "name": "Dodi Lukébakio",
     "slug": "dodi-lukebakio",
     "position": "Right Winger",
@@ -705,7 +705,7 @@
   },
   {
     "tm_player_id": 96341,
-    "espn_player_id": null,
+    "espn_player_id": 139437,
     "name": "Romelu Lukaku",
     "slug": "romelu-lukaku",
     "position": "Centre-Forward",

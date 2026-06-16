@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 886183,
-    "espn_player_id": null,
+    "espn_player_id": 302332,
     "name": "Nawaf Al-Aqidi",
     "slug": "nawaf-al-aqidi",
     "position": "Goalkeeper",
@@ -45,7 +45,7 @@
   },
   {
     "tm_player_id": 177956,
-    "espn_player_id": null,
+    "espn_player_id": 171878,
     "name": "Ahmed Al-Kassar",
     "slug": "ahmed-al-kassar",
     "position": "Goalkeeper",
@@ -111,7 +111,7 @@
   },
   {
     "tm_player_id": 1060899,
-    "espn_player_id": null,
+    "espn_player_id": 361692,
     "name": "Hamed Al-Shanqity",
     "slug": "hamed-al-shanqity",
     "position": "Goalkeeper",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 509894,
-    "espn_player_id": null,
+    "espn_player_id": 256667,
     "name": "Abdulelah Al-Amri",
     "slug": "abdulelah-al-amri",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 264909,
-    "espn_player_id": null,
+    "espn_player_id": 296972,
     "name": "Ali Lajami",
     "slug": "ali-lajami",
     "position": "Centre-Back",
@@ -265,7 +265,7 @@
   },
   {
     "tm_player_id": 901334,
-    "espn_player_id": null,
+    "espn_player_id": 371796,
     "name": "Jehad Thakri",
     "slug": "jehad-thakri",
     "position": "Centre-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 735815,
-    "espn_player_id": null,
+    "espn_player_id": 296602,
     "name": "Ayman Yahya",
     "slug": "ayman-yahya",
     "position": "Left-Back",
@@ -375,7 +375,7 @@
   },
   {
     "tm_player_id": 869509,
-    "espn_player_id": null,
+    "espn_player_id": 330543,
     "name": "Moteb Al-Harbi",
     "slug": "moteb-al-harbi",
     "position": "Left-Back",
@@ -463,7 +463,7 @@
   },
   {
     "tm_player_id": 631927,
-    "espn_player_id": null,
+    "espn_player_id": 286011,
     "name": "Saud Abdulhamid",
     "slug": "saud-abdulhamid",
     "position": "Right-Back",
@@ -507,7 +507,7 @@
   },
   {
     "tm_player_id": 672391,
-    "espn_player_id": null,
+    "espn_player_id": 331920,
     "name": "Ali Majrashi",
     "slug": "ali-majrashi",
     "position": "Right-Back",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 821377,
-    "espn_player_id": null,
+    "espn_player_id": 331918,
     "name": "Nawaf Boushal",
     "slug": "nawaf-boushal",
     "position": "Right-Back",
@@ -573,7 +573,7 @@
   },
   {
     "tm_player_id": 437903,
-    "espn_player_id": null,
+    "espn_player_id": 271461,
     "name": "Abdullah Al-Khaibari",
     "slug": "abdullah-al-khaibari",
     "position": "Defensive Midfield",
@@ -595,7 +595,7 @@
   },
   {
     "tm_player_id": 901079,
-    "espn_player_id": null,
+    "espn_player_id": 306692,
     "name": "Ziyad Al-Johani",
     "slug": "ziyad-al-johani",
     "position": "Defensive Midfield",
@@ -683,7 +683,7 @@
   },
   {
     "tm_player_id": 901082,
-    "espn_player_id": null,
+    "espn_player_id": 288570,
     "name": "Faisal Al-Ghamdi",
     "slug": "faisal-al-ghamdi",
     "position": "Central Midfield",
@@ -705,7 +705,7 @@
   },
   {
     "tm_player_id": 901181,
-    "espn_player_id": null,
+    "espn_player_id": 315523,
     "name": "Musab Al-Juwayr",
     "slug": "musab-al-juwayr",
     "position": "Central Midfield",
@@ -727,7 +727,7 @@
   },
   {
     "tm_player_id": 308120,
-    "espn_player_id": null,
+    "espn_player_id": 262468,
     "name": "Mohamed Kanno",
     "slug": "mohamed-kanno",
     "position": "Central Midfield",
@@ -749,7 +749,7 @@
   },
   {
     "tm_player_id": 509911,
-    "espn_player_id": null,
+    "espn_player_id": 270417,
     "name": "Nasser Al-Dawsari",
     "slug": "nasser-al-dawsari",
     "position": "Central Midfield",
@@ -925,7 +925,7 @@
   },
   {
     "tm_player_id": 210349,
-    "espn_player_id": null,
+    "espn_player_id": 287054,
     "name": "Sultan Mandash",
     "slug": "sultan-mandash",
     "position": "Right Winger",
@@ -947,7 +947,7 @@
   },
   {
     "tm_player_id": 1118034,
-    "espn_player_id": null,
+    "espn_player_id": 294239,
     "name": "Hammam Al-Hammami",
     "slug": "hammam-al-hammami",
     "position": "Right Winger",
@@ -1013,7 +1013,7 @@
   },
   {
     "tm_player_id": 242267,
-    "espn_player_id": null,
+    "espn_player_id": 177897,
     "name": "Saleh Al-Shehri",
     "slug": "saleh-al-shehri",
     "position": "Centre-Forward",

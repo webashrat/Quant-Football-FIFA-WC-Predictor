@@ -23,7 +23,7 @@
   },
   {
     "tm_player_id": 569433,
-    "espn_player_id": null,
+    "espn_player_id": 265272,
     "name": "Aymen Dahmen",
     "slug": "aymen-dahmen",
     "position": "Goalkeeper",
@@ -67,7 +67,7 @@
   },
   {
     "tm_player_id": 295381,
-    "espn_player_id": null,
+    "espn_player_id": 195253,
     "name": "Sabri Ben Hessen",
     "slug": "sabri-ben-hessen",
     "position": "Goalkeeper",
@@ -133,7 +133,7 @@
   },
   {
     "tm_player_id": 496706,
-    "espn_player_id": null,
+    "espn_player_id": 265099,
     "name": "Montassar Talbi",
     "slug": "montassar-talbi",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 450417,
-    "espn_player_id": null,
+    "espn_player_id": 240371,
     "name": "Dylan Bronn",
     "slug": "dylan-bronn",
     "position": "Centre-Back",
@@ -331,7 +331,7 @@
   },
   {
     "tm_player_id": 1071742,
-    "espn_player_id": null,
+    "espn_player_id": 410358,
     "name": "Adem Arous",
     "slug": "adem-arous",
     "position": "Centre-Back",
@@ -353,7 +353,7 @@
   },
   {
     "tm_player_id": 211474,
-    "espn_player_id": null,
+    "espn_player_id": 265234,
     "name": "Ali Abdi",
     "slug": "ali-abdi",
     "position": "Left-Back",
@@ -375,7 +375,7 @@
   },
   {
     "tm_player_id": 454495,
-    "espn_player_id": null,
+    "espn_player_id": 296982,
     "name": "Mohamed Amine Ben Hamida",
     "slug": "mohamed-amine-ben-hamida",
     "position": "Left-Back",
@@ -419,7 +419,7 @@
   },
   {
     "tm_player_id": 406008,
-    "espn_player_id": null,
+    "espn_player_id": 240588,
     "name": "Yan Valery",
     "slug": "yan-valery",
     "position": "Right-Back",
@@ -441,7 +441,7 @@
   },
   {
     "tm_player_id": 1034598,
-    "espn_player_id": null,
+    "espn_player_id": 345975,
     "name": "Moutaz Neffati",
     "slug": "moutaz-neffati",
     "position": "Right-Back",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 290587,
-    "espn_player_id": null,
+    "espn_player_id": 209595,
     "name": "Ellyes Skhiri",
     "slug": "ellyes-skhiri",
     "position": "Defensive Midfield",
@@ -551,7 +551,7 @@
   },
   {
     "tm_player_id": 673513,
-    "espn_player_id": null,
+    "espn_player_id": 299861,
     "name": "Mohamed Belhadj Mahmoud",
     "slug": "mohamed-belhadj-mahmoud",
     "position": "Defensive Midfield",
@@ -617,7 +617,7 @@
   },
   {
     "tm_player_id": 546712,
-    "espn_player_id": null,
+    "espn_player_id": 302944,
     "name": "Anis Ben Slimane",
     "slug": "anis-ben-slimane",
     "position": "Central Midfield",
@@ -815,7 +815,7 @@
   },
   {
     "tm_player_id": 810096,
-    "espn_player_id": null,
+    "espn_player_id": 317473,
     "name": "Ismaël Gharbi",
     "slug": "ismael-gharbi",
     "position": "Left Winger",
@@ -837,7 +837,7 @@
   },
   {
     "tm_player_id": 526466,
-    "espn_player_id": null,
+    "espn_player_id": 323950,
     "name": "Elias Saad",
     "slug": "elias-saad",
     "position": "Left Winger",
@@ -859,7 +859,7 @@
   },
   {
     "tm_player_id": 645589,
-    "espn_player_id": null,
+    "espn_player_id": 324510,
     "name": "Elias Achouri",
     "slug": "elias-achouri",
     "position": "Left Winger",
@@ -903,7 +903,7 @@
   },
   {
     "tm_player_id": 230921,
-    "espn_player_id": null,
+    "espn_player_id": 273170,
     "name": "Mortadha Ben Ouanes",
     "slug": "mortadha-ben-ouanes",
     "position": "Left Winger",
@@ -925,7 +925,7 @@
   },
   {
     "tm_player_id": 539677,
-    "espn_player_id": null,
+    "espn_player_id": 303702,
     "name": "Sebastian Tounekti",
     "slug": "sebastian-tounekti",
     "position": "Left Winger",
@@ -1013,7 +1013,7 @@
   },
   {
     "tm_player_id": 1198342,
-    "espn_player_id": null,
+    "espn_player_id": 404769,
     "name": "Khalil Ayari",
     "slug": "khalil-ayari",
     "position": "Right Winger",
@@ -1079,7 +1079,7 @@
   },
   {
     "tm_player_id": 402087,
-    "espn_player_id": null,
+    "espn_player_id": 265207,
     "name": "Firas Chaouat",
     "slug": "firas-chaouat",
     "position": "Centre-Forward",
@@ -1101,7 +1101,7 @@
   },
   {
     "tm_player_id": 953150,
-    "espn_player_id": null,
+    "espn_player_id": 396085,
     "name": "Hazem Mastouri",
     "slug": "hazem-mastouri",
     "position": "Centre-Forward",

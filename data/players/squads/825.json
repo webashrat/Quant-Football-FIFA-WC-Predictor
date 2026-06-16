@@ -1,7 +1,7 @@
 [
   {
     "tm_player_id": 134573,
-    "espn_player_id": null,
+    "espn_player_id": 205212,
     "name": "Mohamed El Shenawy",
     "slug": "mohamed-el-shenawy",
     "position": "Goalkeeper",
@@ -177,7 +177,7 @@
   },
   {
     "tm_player_id": 566025,
-    "espn_player_id": null,
+    "espn_player_id": 308926,
     "name": "Mohamed Abdelmonem",
     "slug": "mohamed-abdelmonem",
     "position": "Centre-Back",
@@ -199,7 +199,7 @@
   },
   {
     "tm_player_id": 172623,
-    "espn_player_id": null,
+    "espn_player_id": 187571,
     "name": "Ramy Rabia",
     "slug": "ramy-rabia",
     "position": "Centre-Back",
@@ -221,7 +221,7 @@
   },
   {
     "tm_player_id": 237425,
-    "espn_player_id": null,
+    "espn_player_id": 265417,
     "name": "Yasser Ibrahim",
     "slug": "yasser-ibrahim",
     "position": "Centre-Back",
@@ -485,7 +485,7 @@
   },
   {
     "tm_player_id": 465966,
-    "espn_player_id": null,
+    "espn_player_id": 265176,
     "name": "Ahmed Fatouh",
     "slug": "ahmed-fatouh",
     "position": "Left-Back",
@@ -529,7 +529,7 @@
   },
   {
     "tm_player_id": 343974,
-    "espn_player_id": null,
+    "espn_player_id": 119993,
     "name": "Mohamed Hany",
     "slug": "mohamed-hany",
     "position": "Right-Back",
@@ -639,7 +639,7 @@
   },
   {
     "tm_player_id": 340303,
-    "espn_player_id": null,
+    "espn_player_id": 285057,
     "name": "Hamdy Fathy",
     "slug": "hamdy-fathy",
     "position": "Defensive Midfield",
@@ -771,7 +771,7 @@
   },
   {
     "tm_player_id": 604008,
-    "espn_player_id": null,
+    "espn_player_id": 299365,
     "name": "Emam Ashour",
     "slug": "emam-ashour",
     "position": "Central Midfield",
@@ -859,7 +859,7 @@
   },
   {
     "tm_player_id": 729390,
-    "espn_player_id": null,
+    "espn_player_id": 314444,
     "name": "Mahmoud Saber",
     "slug": "mahmoud-saber",
     "position": "Central Midfield",
@@ -925,7 +925,7 @@
   },
   {
     "tm_player_id": 677278,
-    "espn_player_id": null,
+    "espn_player_id": 299619,
     "name": "Ibrahim Adel",
     "slug": "ibrahim-adel",
     "position": "Left Winger",
@@ -947,7 +947,7 @@
   },
   {
     "tm_player_id": 148455,
-    "espn_player_id": null,
+    "espn_player_id": 173896,
     "name": "Mohamed Salah",
     "slug": "mohamed-salah",
     "position": "Right Winger",
@@ -969,7 +969,7 @@
   },
   {
     "tm_player_id": 320722,
-    "espn_player_id": null,
+    "espn_player_id": 195154,
     "name": "Zizo",
     "slug": "zizo",
     "position": "Right Winger",
@@ -1145,7 +1145,7 @@
   },
   {
     "tm_player_id": 445939,
-    "espn_player_id": null,
+    "espn_player_id": 303745,
     "name": "Omar Marmoush",
     "slug": "omar-marmoush",
     "position": "Centre-Forward",
@@ -1211,7 +1211,7 @@
   },
   {
     "tm_player_id": 268414,
-    "espn_player_id": null,
+    "espn_player_id": 276440,
     "name": "Hossam Hassan",
     "slug": "hossam-hassan",
     "position": "Centre-Forward",
